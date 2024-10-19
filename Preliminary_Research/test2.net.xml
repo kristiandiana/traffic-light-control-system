@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-10-12 14:58:48 by Eclipse SUMO netedit Version 1.21.0
+<neteditConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/neteditConfiguration.xsd">
+
+    <input>
+        <sumocfg-file value="C:\Users\krist\sumo\test2.sumocfg"/>
+        <additional-files value="C:\Users\krist\sumo\test2.add.xml"/>
+        <route-files value="C:\Users\krist\sumo\test2.rou.xml"/>
+        <sumo-net-file value="C:\Users\krist\sumo\test2.net.xml"/>
+    </input>
+
+    <output>
+        <output-file value="C:\Users\krist\sumo\test2.net.xml"/>
+    </output>
+
+    <processing>
+        <geometry.min-radius.fix.railways value="false"/>
+        <geometry.max-grade.fix value="false"/>
+        <offset.disable-normalization value="true"/>
+        <lefthand value="0"/>
+    </processing>
+
+    <junctions>
+        <no-internal-links value="true"/>
+        <no-turnarounds value="true"/>
+        <junctions.corner-detail value="5"/>
+        <junctions.limit-turn-speed value="5.50"/>
+        <rectangular-lane-cut value="0"/>
+    </junctions>
+
+    <pedestrian>
+        <walkingareas value="0"/>
+    </pedestrian>
+
+</neteditConfiguration>
+-->
+
+<net version="1.20" junctionCornerDetail="5" limitTurnSpeed="5.50" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/net_file.xsd">
+
+    <location netOffset="0.00,0.00" convBoundary="-47.98,32.87,32.18,33.14" origBoundary="-10000000000.00,-10000000000.00,10000000000.00,10000000000.00" projParameter="!"/>
+
+    <edge id="-E0" from="J1" to="J0" priority="-1">
+        <lane id="-E0_0" index="0" speed="13.89" length="80.16" shape="32.17,34.74 -47.99,34.47"/>
+    </edge>
+    <edge id="E0" from="J0" to="J1" priority="-1">
+        <lane id="E0_0" index="0" speed="13.89" length="80.16" shape="-47.97,31.27 32.19,31.54"/>
+    </edge>
+
+    <junction id="J0" type="dead_end" x="-47.98" y="32.87" incLanes="-E0_0" intLanes="" shape="-47.98,32.87 -47.99,36.07 -47.98,32.87"/>
+    <junction id="J1" type="dead_end" x="32.18" y="33.14" incLanes="E0_0" intLanes="" shape="32.18,33.14 32.19,29.94 32.18,33.14"/>
+
+</net>
