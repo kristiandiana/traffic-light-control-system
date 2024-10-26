@@ -13,7 +13,7 @@ sumo_binary = sumolib.checkBinary('sumo-gui')  # Use 'sumo-gui' if you want to s
 
 # Path to your SUMO configuration file (.sumocfg)
 sumo_config = os.path.join(os.path.dirname(__file__), '../Networks/demo_net/demo.sumocfg')
-
+spawn_rate = 0.3 # 30% chance to spawn a vehicle on each step
 
 # Define TraCI setup
 def run_sumo():
@@ -26,11 +26,8 @@ def run_sumo():
         while step < 190:  # Running this for 200 steps, but you can make it run indefinitely
             traci.simulationStep()  # Advance the simulation by one step
             step += 1
-
-            # You can add your custom logic here
-            time.sleep(0.1)
             
-            if random.random() < 1:  # 30% chance to spawn a vehicle on each step
+            if random.random() < spawn_rate:
                 add_random_vehicle(step)
             
             # Example: Get the number of vehicles in the network
@@ -49,27 +46,9 @@ def run_sumo():
 
                 print(f"Vehicle id: {vehicle_id}. Position: {position}. Speed: {speed}. Route: {route}")
 
-            # Retrieve and print traffic light data
-            traffic_light_ids = traci.trafficlight.getIDList()
-            print(f"Number of traffic lights: {len(traffic_light_ids)}")
-            for tl_id in traffic_light_ids:
-
-                # Get the current phase (green, yellow, red) of the traffic light
-                current_phase = traci.trafficlight.getPhase(tl_id)
-
-                # Get remaining time in the current phase
-                remaining_time = traci.trafficlight.getNextSwitch(tl_id) - traci.simulation.getTime()
-
-                print(f"Traffic Light Id: {tl_id}. Current phase: {current_phase}, Time remaining {remaining_time} seconds")
-
-                ### CONTROLLING TRAFFIC LIGHT THROUGH TRACI 
-                if step == 60:
-                    traci.trafficlight.setPhase(tl_id, 1)
-                    traci.trafficlight.setPhaseDuration(tl_id, 3)
-                if step == 63:
-                    traci.trafficlight.setPhase(tl_id, 0)
-                    traci.trafficlight.setPhaseDuration(tl_id, 20)
-                    print("Updated traffic light status through TraCI!")
+            control_traffic_lights(step)
+            
+            time.sleep(0.1)
             
             print("&&&&&&&&&&&&&&&&&&&&&&&&")
 
@@ -93,6 +72,21 @@ def add_random_vehicle(step):
         print(f"Added vehicle {vehicle_id} at edge {random_edge}")
     except traci.TraCIException:
         print(f"Failed to add vehicle {vehicle_id} at edge {random_edge}")        
+        
+def control_traffic_lights(step):
+    
+    traffic_light_ids = traci.trafficlight.getIDList()
+    for tl_id in traffic_light_ids:
+        current_phase = traci.trafficlight.getPhase(tl_id)
+        remaining_time = traci.trafficlight.getNextSwitch(tl_id) - traci.simulation.getTime()
+
+        if step == 60:
+            traci.trafficlight.setPhase(tl_id, 1)
+            traci.trafficlight.setPhaseDuration(tl_id, 3)
+        if step == 63:
+            traci.trafficlight.setPhase(tl_id, 0)
+            traci.trafficlight.setPhaseDuration(tl_id, 20)
+            print(f"Updated traffic light {tl_id} at step {step}")
 
 if __name__ == "__main__":
     run_sumo()
