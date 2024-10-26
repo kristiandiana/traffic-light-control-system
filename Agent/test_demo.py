@@ -22,7 +22,7 @@ def run_sumo():
     # Simulation loop
     step = 0
     try:
-        while step < 200:  # Running this for 200 steps, but you can make it run indefinitely
+        while step < 190:  # Running this for 200 steps, but you can make it run indefinitely
             traci.simulationStep()  # Advance the simulation by one step
             step += 1
 
@@ -31,7 +31,44 @@ def run_sumo():
             
             # Example: Get the number of vehicles in the network
             vehicle_ids = traci.vehicle.getIDList()
+            print("")
+            print("&&&&&&&&&&&&&&&&&&&&&&&&")
             print(f"Step {step}: Number of vehicles - {len(vehicle_ids)}")
+
+            # get vehicle information for all vehicles currently in the network
+            for vehicle_id in vehicle_ids:
+
+                # get variables
+                position = traci.vehicle.getPosition(vehicle_id)
+                speed = traci.vehicle.getSpeed(vehicle_id)
+                route = traci.vehicle.getRoute(vehicle_id)
+
+                print(f"Vehicle id: {vehicle_id}. Position: {position}. Speed: {speed}. Route: {route}")
+
+            # Retrieve and print traffic light data
+            traffic_light_ids = traci.trafficlight.getIDList()
+            print(f"Number of traffic lights: {len(traffic_light_ids)}")
+            for tl_id in traffic_light_ids:
+
+                # Get the current phase (green, yellow, red) of the traffic light
+                current_phase = traci.trafficlight.getPhase(tl_id)
+
+                # Get remaining time in the current phase
+                remaining_time = traci.trafficlight.getNextSwitch(tl_id) - traci.simulation.getTime()
+
+                print(f"Traffic Light Id: {tl_id}. Current phase: {current_phase}, Time remaining {remaining_time} seconds")
+
+                ### CONTROLLING TRAFFIC LIGHT THROUGH TRACI 
+                if step == 60:
+                    traci.trafficlight.setPhase(tl_id, 1)
+                    traci.trafficlight.setPhaseDuration(tl_id, 3)
+                if step == 63:
+                    traci.trafficlight.setPhase(tl_id, 0)
+                    traci.trafficlight.setPhaseDuration(tl_id, 20)
+                    print("Updated traffic light status through TraCI!")
+            
+            print("&&&&&&&&&&&&&&&&&&&&&&&&")
+
 
     except Exception as e:
         print(f"An error occurred: {e}")
