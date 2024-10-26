@@ -2,6 +2,7 @@ import traci
 import sumolib
 import time
 import os
+import subprocess
 
 '''
 Run this file to have the simulation automatically run. 
@@ -19,63 +20,69 @@ def run_sumo():
     # Start the SUMO simulation using TraCI
     traci.start([sumo_binary, "--start", "-c", sumo_config])
 
-    # Simulation loop
-    step = 0
-    try:
-        while step < 190:  # Running this for 200 steps, but you can make it run indefinitely
-            traci.simulationStep()  # Advance the simulation by one step
-            step += 1
+    for iteration in range(3):
+        print(f"\nStarting simulation iteration {iteration + 1} of 3")
+        # Simulation loop
+        step = 0
+        try:
+            while step < 190:  # Running this for 200 steps, but you can make it run indefinitely
+                traci.simulationStep()  # Advance the simulation by one step
+                step += 1
 
-            # You can add your custom logic here
-            time.sleep(0.1)
-            
-            # Example: Get the number of vehicles in the network
-            vehicle_ids = traci.vehicle.getIDList()
-            print("")
-            print("&&&&&&&&&&&&&&&&&&&&&&&&")
-            print(f"Step {step}: Number of vehicles - {len(vehicle_ids)}")
+                # You can add your custom logic here
+                time.sleep(0.1)
+                
+                # Example: Get the number of vehicles in the network
+                vehicle_ids = traci.vehicle.getIDList()
+                print("")
+                print("&&&&&&&&&&&&&&&&&&&&&&&&")
+                print(f"Step {step}: Number of vehicles - {len(vehicle_ids)}")
 
-            # get vehicle information for all vehicles currently in the network
-            for vehicle_id in vehicle_ids:
+                # get vehicle information for all vehicles currently in the network
+                for vehicle_id in vehicle_ids:
 
-                # get variables
-                position = traci.vehicle.getPosition(vehicle_id)
-                speed = traci.vehicle.getSpeed(vehicle_id)
-                route = traci.vehicle.getRoute(vehicle_id)
+                    # get variables
+                    position = traci.vehicle.getPosition(vehicle_id)
+                    speed = traci.vehicle.getSpeed(vehicle_id)
+                    route = traci.vehicle.getRoute(vehicle_id)
 
-                print(f"Vehicle id: {vehicle_id}. Position: {position}. Speed: {speed}. Route: {route}")
+                    print(f"Vehicle id: {vehicle_id}. Position: {position}. Speed: {speed}. Route: {route}")
 
-            # Retrieve and print traffic light data
-            traffic_light_ids = traci.trafficlight.getIDList()
-            print(f"Number of traffic lights: {len(traffic_light_ids)}")
-            for tl_id in traffic_light_ids:
+                # Retrieve and print traffic light data
+                traffic_light_ids = traci.trafficlight.getIDList()
+                print(f"Number of traffic lights: {len(traffic_light_ids)}")
+                for tl_id in traffic_light_ids:
 
-                # Get the current phase (green, yellow, red) of the traffic light
-                current_phase = traci.trafficlight.getPhase(tl_id)
+                    # Get the current phase (green, yellow, red) of the traffic light
+                    current_phase = traci.trafficlight.getPhase(tl_id)
 
-                # Get remaining time in the current phase
-                remaining_time = traci.trafficlight.getNextSwitch(tl_id) - traci.simulation.getTime()
+                    # Get remaining time in the current phase
+                    remaining_time = traci.trafficlight.getNextSwitch(tl_id) - traci.simulation.getTime()
 
-                print(f"Traffic Light Id: {tl_id}. Current phase: {current_phase}, Time remaining {remaining_time} seconds")
+                    print(f"Traffic Light Id: {tl_id}. Current phase: {current_phase}, Time remaining {remaining_time} seconds")
 
-                ### CONTROLLING TRAFFIC LIGHT THROUGH TRACI 
-                if step == 60:
-                    traci.trafficlight.setPhase(tl_id, 1)
-                    traci.trafficlight.setPhaseDuration(tl_id, 3)
-                if step == 63:
-                    traci.trafficlight.setPhase(tl_id, 0)
-                    traci.trafficlight.setPhaseDuration(tl_id, 20)
-                    print("Updated traffic light status through TraCI!")
-            
-            print("&&&&&&&&&&&&&&&&&&&&&&&&")
+                    ### CONTROLLING TRAFFIC LIGHT THROUGH TRACI 
+                    if step == 60:
+                        traci.trafficlight.setPhase(tl_id, 1)
+                        traci.trafficlight.setPhaseDuration(tl_id, 3)
+                    if step == 63:
+                        traci.trafficlight.setPhase(tl_id, 0)
+                        traci.trafficlight.setPhaseDuration(tl_id, 20)
+                        print("Updated traffic light status through TraCI!")
+                
+                print("&&&&&&&&&&&&&&&&&&&&&&&&")
 
 
-    except Exception as e:
-        print(f"An error occurred: {e}")
-    
-    finally:
-        # Close the TraCI connection
-        traci.close()
+        except Exception as e:
+            print(f"An error occurred: {e}")
+        
+        finally:
+            print(f"Completed simulation iteration {iteration + 1} of 3")
+            # reload the TraCI connection
+            traci.load(["-c", sumo_config])
+            traci.simulationStep()
+
+    traci.close()
 
 if __name__ == "__main__":
     run_sumo()
