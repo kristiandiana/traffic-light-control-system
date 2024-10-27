@@ -1,0 +1,3043 @@
+Traffic Simulation Data Log
+========================================
+
+Step: 0
+Congestion Level: 1
+Avg Wait Time: 0.0
+Total Stops: 1
+vehicle Data:
+  Vehicle ID: t_0, Speed: 0.0, Position: (-418.90999999999997, -320.72)
+----------------------------------------
+
+Step: 1
+Congestion Level: 1
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_0, Speed: 0.7715203203260899, Position: (-418.1384796796739, -320.72)
+----------------------------------------
+
+Step: 2
+Congestion Level: 1
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_0, Speed: 1.4335407628677785, Position: (-416.7049389168061, -320.72)
+----------------------------------------
+
+Step: 3
+Congestion Level: 1
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_0, Speed: 1.857175535429269, Position: (-414.84776338137686, -320.72)
+----------------------------------------
+
+Step: 4
+Congestion Level: 1
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_0, Speed: 2.5905338670127094, Position: (-412.25722951436416, -320.72)
+----------------------------------------
+
+Step: 5
+Congestion Level: 2
+Avg Wait Time: 0.0
+Total Stops: 1
+vehicle Data:
+  Vehicle ID: t_0, Speed: 3.0660120499320325, Position: (-409.1912174644321, -320.72)
+  Vehicle ID: t_3, Speed: 0.0, Position: (42.8, 184.05010178015488)
+----------------------------------------
+
+Step: 6
+Congestion Level: 2
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_0, Speed: 3.6188684610649937, Position: (-405.5723490033671, -320.72)
+  Vehicle ID: t_3, Speed: 0.6114632947370411, Position: (42.8, 183.43865068832545)
+----------------------------------------
+
+Step: 7
+Congestion Level: 3
+Avg Wait Time: 0.0
+Total Stops: 1
+vehicle Data:
+  Vehicle ID: t_0, Speed: 4.233730861078947, Position: (-401.33861814228817, -320.72)
+  Vehicle ID: t_2, Speed: 0.0, Position: (43.04382664801696, -764.500115056626)
+  Vehicle ID: t_3, Speed: 1.0709906515665353, Position: (42.8, 182.36768141040486)
+----------------------------------------
+
+Step: 8
+Congestion Level: 3
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_0, Speed: 4.813551139645278, Position: (-396.5250670026429, -320.72)
+  Vehicle ID: t_2, Speed: 0.6522474291734398, Position: (43.04815279393983, -763.8478823422346)
+  Vehicle ID: t_3, Speed: 1.6893333964049817, Position: (42.8, 180.6783817278459)
+----------------------------------------
+
+Step: 9
+Congestion Level: 3
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_0, Speed: 5.501047038286924, Position: (-391.02401996435594, -320.72)
+  Vehicle ID: t_2, Speed: 1.4004934356547891, Position: (43.057441813253156, -762.4474205018836)
+  Vehicle ID: t_3, Speed: 2.1455743356607857, Position: (42.8, 178.5328502111828)
+----------------------------------------
+
+Step: 10
+Congestion Level: 3
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_0, Speed: 6.278624053765087, Position: (-384.7453959105909, -320.72)
+  Vehicle ID: t_2, Speed: 1.962381574790925, Position: (43.07045765458756, -760.4850831986618)
+  Vehicle ID: t_3, Speed: 2.5765110142529015, Position: (42.8, 175.9563906160848)
+----------------------------------------
+
+Step: 11
+Congestion Level: 4
+Avg Wait Time: 0.0
+Total Stops: 1
+vehicle Data:
+  Vehicle ID: t_0, Speed: 7.051671809237449, Position: (-377.69372410135344, -320.72)
+  Vehicle ID: t_1, Speed: 0.0, Position: (618.3300891857862, -317.52)
+  Vehicle ID: t_2, Speed: 2.6116703589446844, Position: (43.08778001811076, -757.8734717593209)
+  Vehicle ID: t_3, Speed: 3.147693039756269, Position: (42.8, 172.8087603945021)
+----------------------------------------
+
+Step: 12
+Congestion Level: 4
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_0, Speed: 7.567637803684919, Position: (-370.1260862976685, -320.72)
+  Vehicle ID: t_1, Speed: 0.43066771030426027, Position: (617.8994290067443, -317.52)
+  Vehicle ID: t_2, Speed: 3.3719955148175362, Position: (43.11014537210969, -754.501552317136)
+  Vehicle ID: t_3, Speed: 3.8423859762027863, Position: (42.8, 168.9664511003855)
+----------------------------------------
+
+Step: 13
+Congestion Level: 4
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_0, Speed: 8.183740918897092, Position: (-361.9423453787714, -320.72)
+  Vehicle ID: t_1, Speed: 1.0598009929992258, Position: (616.8396465469186, -317.52)
+  Vehicle ID: t_2, Speed: 4.143575410265476, Position: (43.13762836562632, -750.3580703864403)
+  Vehicle ID: t_3, Speed: 4.5432033284567295, Position: (42.8, 164.42333844015198)
+----------------------------------------
+
+Step: 14
+Congestion Level: 4
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_0, Speed: 8.592853736504912, Position: (-353.3494916422665, -320.72)
+  Vehicle ID: t_1, Speed: 1.5648415902629496, Position: (615.2748323216807, -317.52)
+  Vehicle ID: t_2, Speed: 4.674756113253534, Position: (43.16863450868674, -745.6834197362584)
+  Vehicle ID: t_3, Speed: 5.213226100057363, Position: (42.8, 159.21021637989065)
+----------------------------------------
+
+Step: 15
+Congestion Level: 4
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_0, Speed: 9.192776707187296, Position: (-344.1567149350792, -320.72)
+  Vehicle ID: t_1, Speed: 2.2257504964247348, Position: (613.0491207478653, -317.52)
+  Vehicle ID: t_2, Speed: 5.434986644424498, Position: (43.204683014607895, -740.2485557057996)
+  Vehicle ID: t_3, Speed: 5.961635998729616, Position: (42.8, 153.24869935689344)
+----------------------------------------
+
+Step: 16
+Congestion Level: 4
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_0, Speed: 9.809724570252003, Position: (-334.3469903648272, -320.72)
+  Vehicle ID: t_1, Speed: 2.9584371206350624, Position: (610.0907353626304, -317.52)
+  Vehicle ID: t_2, Speed: 6.006078267097473, Position: (43.244519386275236, -734.242612936565)
+  Vehicle ID: t_3, Speed: 6.471671496145427, Position: (42.8, 146.7771570152043)
+----------------------------------------
+
+Step: 17
+Congestion Level: 5
+Avg Wait Time: 0.0
+Total Stops: 1
+vehicle Data:
+  Vehicle ID: t_0, Speed: 10.308563299290839, Position: (-324.0384270655364, -320.72)
+  Vehicle ID: t_1, Speed: 3.484947391878814, Position: (606.6058489134522, -317.52)
+  Vehicle ID: t_2, Speed: 6.7566077008843415, Position: (43.289333776566714, -727.4861576655796)
+  Vehicle ID: t_3, Speed: 7.200457371119409, Position: (42.8, 139.576843342843)
+  Vehicle ID: t_7, Speed: 0.0, Position: (42.8, 184.05010178015488)
+----------------------------------------
+
+Step: 18
+Congestion Level: 5
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_0, Speed: 11.027262539882216, Position: (-313.0111645256542, -320.72)
+  Vehicle ID: t_1, Speed: 3.917188170924783, Position: (602.6887292439993, -317.52)
+  Vehicle ID: t_2, Speed: 7.435290869977324, Position: (43.338649652480925, -720.0510345366769)
+  Vehicle ID: t_3, Speed: 7.624579121731221, Position: (42.8, 131.95241638402234)
+  Vehicle ID: t_7, Speed: 0.6286302066408098, Position: (42.8, 183.4214841190199)
+----------------------------------------
+
+Step: 19
+Congestion Level: 5
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_0, Speed: 11.630646044202152, Position: (-301.380518481452, -320.72)
+  Vehicle ID: t_1, Speed: 4.689279569964856, Position: (597.9995316773845, -317.52)
+  Vehicle ID: t_2, Speed: 8.153378716390579, Position: (43.39272837247864, -711.8978397615108)
+  Vehicle ID: t_3, Speed: 8.378174243774266, Position: (42.8, 123.57440934257592)
+  Vehicle ID: t_7, Speed: 1.035485903825611, Position: (42.8, 182.3860188802758)
+----------------------------------------
+
+Step: 20
+Congestion Level: 6
+Avg Wait Time: 0.0
+Total Stops: 1
+vehicle Data:
+  Vehicle ID: t_0, Speed: 12.053631405998026, Position: (-289.326887075454, -320.72)
+  Vehicle ID: t_1, Speed: 5.468556108511984, Position: (592.5310711997503, -317.52)
+  Vehicle ID: t_2, Speed: 8.696911743562667, Position: (43.45041217098533, -703.2011242213443)
+  Vehicle ID: t_3, Speed: 8.8358870793134, Position: (42.8, 114.7386986001165)
+  Vehicle ID: t_4, Speed: 0.0, Position: (-418.90999999999997, -320.72)
+  Vehicle ID: t_7, Speed: 1.828570060990751, Position: (42.8, 180.55748531186228)
+----------------------------------------
+
+Step: 21
+Congestion Level: 7
+Avg Wait Time: 0.0
+Total Stops: 1
+vehicle Data:
+  Vehicle ID: t_0, Speed: 12.52758997958154, Position: (-276.7992970958725, -320.72)
+  Vehicle ID: t_1, Speed: 6.164504525158554, Position: (586.3666744758041, -317.52)
+  Vehicle ID: t_2, Speed: 9.41511692367494, Position: (43.51285959181194, -693.7862197038627)
+  Vehicle ID: t_3, Speed: 9.396872052084658, Position: (42.8, 105.34201408040296)
+  Vehicle ID: t_4, Speed: 0.5723020022735, Position: (-418.3376979977265, -320.72)
+  Vehicle ID: t_6, Speed: 0.0, Position: (43.04382664801696, -764.500115056626)
+  Vehicle ID: t_7, Speed: 2.620972208771855, Position: (42.8, 177.93656540955266)
+----------------------------------------
+
+Step: 22
+Congestion Level: 7
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_0, Speed: 13.14382774205879, Position: (-263.65546935381366, -320.72)
+  Vehicle ID: t_1, Speed: 6.859465903416275, Position: (579.507328526674, -317.52)
+  Vehicle ID: t_2, Speed: 10.051410481054337, Position: (43.57952734169756, -683.7350359838624)
+  Vehicle ID: t_3, Speed: 9.954606015887116, Position: (42.8, 95.38760672752407)
+  Vehicle ID: t_4, Speed: 0.9870593738742173, Position: (-417.35063862385226, -320.72)
+  Vehicle ID: t_6, Speed: 0.4003961814567447, Position: (43.04648234619294, -764.0997279081562)
+  Vehicle ID: t_7, Speed: 3.303835982270539, Position: (42.8, 174.63279536158367)
+----------------------------------------
+
+Step: 23
+Congestion Level: 7
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_0, Speed: 13.875638484954841, Position: (-249.77983086885882, -320.72)
+  Vehicle ID: t_1, Speed: 7.471635274775325, Position: (572.0358239114411, -317.52)
+  Vehicle ID: t_2, Speed: 10.845797071419657, Position: (43.65146400052077, -672.8894835949558)
+  Vehicle ID: t_3, Speed: 10.62010667789728, Position: (42.8, 84.76771199396059)
+  Vehicle ID: t_4, Speed: 1.4948237196542322, Position: (-415.85581490419804, -320.72)
+  Vehicle ID: t_6, Speed: 1.1550308525562287, Position: (43.05414329170238, -762.9447231132377)
+  Vehicle ID: t_7, Speed: 3.9117141707800327, Position: (42.8, 170.72115925646523)
+----------------------------------------
+
+Step: 24
+Congestion Level: 7
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_0, Speed: 14.624714312795557, Position: (-235.15511655606326, -320.72)
+  Vehicle ID: t_1, Speed: 7.99754477655515, Position: (564.038418991223, -317.52)
+  Vehicle ID: t_2, Speed: 11.249887817539276, Position: (43.726080862370615, -661.6398495762663)
+  Vehicle ID: t_3, Speed: 11.382912892289465, Position: (42.8, 73.38502626924699)
+  Vehicle ID: t_4, Speed: 2.066178376507014, Position: (-413.789636527691, -320.72)
+  Vehicle ID: t_6, Speed: 1.6083233689889314, Position: (43.06481077964361, -761.3364360282214)
+  Vehicle ID: t_7, Speed: 4.585257638711482, Position: (42.8, 166.1359931252503)
+----------------------------------------
+
+Step: 25
+Congestion Level: 8
+Avg Wait Time: 0.0
+Total Stops: 1
+vehicle Data:
+  Vehicle ID: t_0, Speed: 14.36745128993094, Position: (-220.7876652661323, -320.72)
+  Vehicle ID: t_1, Speed: 8.655791267938913, Position: (555.3827790906467, -317.52)
+  Vehicle ID: t_2, Speed: 11.766217140015216, Position: (43.80412236936797, -649.8738978835538)
+  Vehicle ID: t_3, Speed: 11.896892142482107, Position: (42.8, 61.48837155176972)
+  Vehicle ID: t_4, Speed: 2.557670984137803, Position: (-411.2319655435532, -320.72)
+  Vehicle ID: t_5, Speed: 0.0, Position: (618.3300891857862, -317.52)
+  Vehicle ID: t_6, Speed: 2.3770230431109667, Position: (43.080576803527435, -758.959466611042)
+  Vehicle ID: t_7, Speed: 5.20167526314035, Position: (42.8, 160.93442167138718)
+----------------------------------------
+
+Step: 26
+Congestion Level: 8
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_0, Speed: 14.3803755169563, Position: (-206.40728974917602, -320.72)
+  Vehicle ID: t_1, Speed: 9.168036071490498, Position: (546.2149033443534, -317.52)
+  Vehicle ID: t_2, Speed: 12.565009822882715, Position: (43.88746200948726, -637.3091715288347)
+  Vehicle ID: t_3, Speed: 12.323657454550272, Position: (42.8, 49.164960039134)
+  Vehicle ID: t_4, Speed: 3.3055881590582428, Position: (-407.92637738449497, -320.72)
+  Vehicle ID: t_5, Speed: 0.44847988383844495, Position: (617.8816171446989, -317.52)
+  Vehicle ID: t_6, Speed: 2.9126483288593588, Position: (43.09989545643283, -756.0468839918864)
+  Vehicle ID: t_7, Speed: 5.9239024029113345, Position: (42.8, 155.0106374911629)
+----------------------------------------
+
+Step: 27
+Congestion Level: 8
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_0, Speed: 14.572153308318557, Position: (-191.83513644085744, -320.72)
+  Vehicle ID: t_1, Speed: 9.763999242428692, Position: (536.4510748489736, -317.52)
+  Vehicle ID: t_2, Speed: 12.974367623869334, Position: (43.973516787302025, -624.3350966082912)
+  Vehicle ID: t_3, Speed: 12.923410356369137, Position: (42.8, 36.241807593883976)
+  Vehicle ID: t_4, Speed: 3.8292714253999294, Position: (-404.0971059590951, -320.72)
+  Vehicle ID: t_5, Speed: 0.90298257060349, Position: (616.978650364921, -317.52)
+  Vehicle ID: t_6, Speed: 3.5038480211980643, Position: (43.123135345397145, -752.5431150179297)
+  Vehicle ID: t_7, Speed: 6.455765778664499, Position: (42.8, 148.555000549526)
+----------------------------------------
+
+Step: 28
+Congestion Level: 8
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_0, Speed: 14.629364898597451, Position: (-177.20577154226004, -320.72)
+  Vehicle ID: t_1, Speed: 10.478693367075177, Position: (525.9725647270957, -317.52)
+  Vehicle ID: t_2, Speed: 13.6202739994973, Position: (44.06385565288548, -610.715129883847)
+  Vehicle ID: t_3, Speed: 12.897006965101033, Position: (42.8, 23.345058012972373)
+  Vehicle ID: t_4, Speed: 4.321128872223198, Position: (-399.7759770868719, -320.72)
+  Vehicle ID: t_5, Speed: 1.6418048727326096, Position: (615.3368742031018, -317.52)
+  Vehicle ID: t_6, Speed: 3.960676639620215, Position: (43.14940523061233, -748.5825277316605)
+  Vehicle ID: t_7, Speed: 7.1168010536581265, Position: (42.8, 141.43834152510578)
+----------------------------------------
+
+Step: 29
+Congestion Level: 8
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_0, Speed: 14.650029230938854, Position: (-162.55574231132118, -320.72)
+  Vehicle ID: t_1, Speed: 10.967725641839209, Position: (515.0050308823613, -317.52)
+  Vehicle ID: t_2, Speed: 13.938621844619275, Position: (44.156306016606955, -596.7768224962472)
+  Vehicle ID: t_3, Speed: 12.95252606500712, Position: (42.8, 10.392790440143443)
+  Vehicle ID: t_4, Speed: 4.795816038176417, Position: (-394.98016104869544, -320.72)
+  Vehicle ID: t_5, Speed: 2.05433690007776, Position: (613.2825732280538, -317.52)
+  Vehicle ID: t_6, Speed: 4.514772071689367, Position: (43.17935025134682, -744.0678575137832)
+  Vehicle ID: t_7, Speed: 7.856208230461924, Position: (42.8, 133.58229008015178)
+----------------------------------------
+
+Step: 30
+Congestion Level: 8
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_0, Speed: 14.334540001285824, Position: (-148.22120231003538, -320.72)
+  Vehicle ID: t_1, Speed: 11.443931208271536, Position: (503.56129979879614, -317.52)
+  Vehicle ID: t_2, Speed: 13.677574355982006, Position: (44.24702493689434, -583.0995567080213)
+  Vehicle ID: t_3, Speed: 13.027440861471266, Position: (42.8, -2.6343904340830306)
+  Vehicle ID: t_4, Speed: 5.295016200281679, Position: (-389.68514484841376, -320.72)
+  Vehicle ID: t_5, Speed: 2.801235058251768, Position: (610.4813871561454, -317.52)
+  Vehicle ID: t_6, Speed: 5.084680705424398, Position: (43.21307529144506, -738.9832915193796)
+  Vehicle ID: t_7, Speed: 8.352100170589983, Position: (42.8, 125.23035659153214)
+----------------------------------------
+
+Step: 31
+Congestion Level: 9
+Avg Wait Time: 0.0
+Total Stops: 1
+vehicle Data:
+  Vehicle ID: t_0, Speed: 14.34028109179959, Position: (-133.8809212182358, -320.72)
+  Vehicle ID: t_1, Speed: 11.895721633080397, Position: (491.6657861910661, -317.52)
+  Vehicle ID: t_2, Speed: 13.849129888031394, Position: (44.33888172945585, -569.2507392580599)
+  Vehicle ID: t_3, Speed: 12.91818129480657, Position: (42.8, -15.55231392212633)
+  Vehicle ID: t_4, Speed: 5.891259788908063, Position: (-383.79388505950567, -320.72)
+  Vehicle ID: t_5, Speed: 3.3674079446122045, Position: (607.1140380987734, -317.52)
+  Vehicle ID: t_6, Speed: 5.659357890859246, Position: (43.25061197916587, -733.3240613043289)
+  Vehicle ID: t_7, Speed: 8.795702434983104, Position: (42.8, 116.43482969144237)
+  Vehicle ID: t_8, Speed: 0.0, Position: (-418.90999999999997, -320.72)
+----------------------------------------
+
+Step: 32
+Congestion Level: 9
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_0, Speed: 14.708518706524373, Position: (-119.17240251171143, -320.72)
+  Vehicle ID: t_1, Speed: 12.638713545817886, Position: (479.027293663602, -317.52)
+  Vehicle ID: t_2, Speed: 13.898558899935097, Position: (44.43106636864235, -555.3524939113192)
+  Vehicle ID: t_3, Speed: 12.884865375653177, Position: (42.8, -28.43692215589843)
+  Vehicle ID: t_4, Speed: 6.5141627157106985, Position: (-377.279722343795, -320.72)
+  Vehicle ID: t_5, Speed: 3.9667888612486415, Position: (603.1473186063843, -317.52)
+  Vehicle ID: t_6, Speed: 6.378473215643316, Position: (43.292918325901404, -726.9457319878242)
+  Vehicle ID: t_7, Speed: 9.577897698339076, Position: (42.8, 106.8571231381839)
+  Vehicle ID: t_8, Speed: 0.5830426520667971, Position: (-418.3269573479332, -320.72)
+----------------------------------------
+
+Step: 33
+Congestion Level: 9
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_0, Speed: 14.701386777666958, Position: (-104.47101573404444, -320.72)
+  Vehicle ID: t_1, Speed: 13.122679812833672, Position: (465.9048433324383, -317.52)
+  Vehicle ID: t_2, Speed: 13.807071550365299, Position: (44.522644201873575, -541.5457338501826)
+  Vehicle ID: t_3, Speed: 12.884761707250297, Position: (42.8, -41.3214267233366)
+  Vehicle ID: t_4, Speed: 6.986475726775824, Position: (-370.2932466170192, -320.72)
+  Vehicle ID: t_5, Speed: 4.627318069711326, Position: (598.5200814564769, -317.52)
+  Vehicle ID: t_6, Speed: 6.793172989506274, Position: (43.33797524190815, -720.1527122531343)
+  Vehicle ID: t_7, Speed: 10.088486638944598, Position: (42.8, 96.76883783408879)
+  Vehicle ID: t_8, Speed: 1.200148676428944, Position: (-417.12680867150425, -320.72)
+----------------------------------------
+
+Step: 34
+Congestion Level: 9
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_0, Speed: 14.622059820854666, Position: (-89.8489559131898, -320.72)
+  Vehicle ID: t_1, Speed: 13.820622542127973, Position: (452.08446247719024, -317.52)
+  Vehicle ID: t_2, Speed: 13.758375302690775, Position: (44.613899048667584, -527.7876689381271)
+  Vehicle ID: t_3, Speed: 12.880093011491269, Position: (42.8, -54.201262688188365)
+  Vehicle ID: t_4, Speed: 7.747937639616429, Position: (-362.5453089774027, -320.72)
+  Vehicle ID: t_5, Speed: 5.285796744283287, Position: (593.2343771470835, -317.52)
+  Vehicle ID: t_6, Speed: 7.225146213918923, Position: (43.38589729638841, -712.9277290394006)
+  Vehicle ID: t_7, Speed: 10.727238452527676, Position: (42.8, 86.04181346391229)
+  Vehicle ID: t_8, Speed: 1.7065334378741686, Position: (-415.4202752336301, -320.72)
+----------------------------------------
+
+Step: 35
+Congestion Level: 9
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_0, Speed: 14.500970950984957, Position: (-75.34798496220486, -320.72)
+  Vehicle ID: t_1, Speed: 14.38489374425263, Position: (437.6998202874589, -317.52)
+  Vehicle ID: t_2, Speed: 13.9726158867476, Position: (44.706574883859204, -513.8153682753089)
+  Vehicle ID: t_3, Speed: 12.75019426005733, Position: (42.8, -66.95120249398175)
+  Vehicle ID: t_4, Speed: 8.160714626219121, Position: (-354.38459435118364, -320.72)
+  Vehicle ID: t_5, Speed: 5.804239259008316, Position: (587.4302393891815, -317.52)
+  Vehicle ID: t_6, Speed: 7.812089426629244, Position: (43.43771235507697, -705.1158158544675)
+  Vehicle ID: t_7, Speed: 11.440323345735674, Position: (42.8, 74.60171843148677)
+  Vehicle ID: t_8, Speed: 2.234802065137774, Position: (-413.1854731684923, -320.72)
+----------------------------------------
+
+Step: 36
+Congestion Level: 9
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_0, Speed: 14.411984304973485, Position: (-60.936000657231375, -320.72)
+  Vehicle ID: t_1, Speed: 14.945117138618857, Position: (422.75496450021694, -317.52)
+  Vehicle ID: t_2, Speed: 13.9987248726075, Position: (44.79942389149686, -499.81695921565245)
+  Vehicle ID: t_3, Speed: 12.843016636695982, Position: (42.8, -79.79396282396752)
+  Vehicle ID: t_4, Speed: 8.852793471794573, Position: (-345.53180087938904, -320.72)
+  Vehicle ID: t_5, Speed: 6.514581213705239, Position: (580.9157720986227, -317.52)
+  Vehicle ID: t_6, Speed: 8.402472980972378, Position: (43.493443236645476, -696.7135324343169)
+  Vehicle ID: t_7, Speed: 11.931387647613889, Position: (42.8, 62.670568897300825)
+  Vehicle ID: t_8, Speed: 3.0137276621535425, Position: (-410.17174550633877, -320.72)
+----------------------------------------
+
+Step: 37
+Congestion Level: 10
+Avg Wait Time: 0.0
+Total Stops: 1
+vehicle Data:
+  Vehicle ID: t_0, Speed: 14.44187568852827, Position: (-46.49412496870309, -320.72)
+  Vehicle ID: t_1, Speed: 14.938970889164388, Position: (407.81625485494754, -317.52)
+  Vehicle ID: t_2, Speed: 13.773973463929952, Position: (44.89078219584184, -486.0432964942543)
+  Vehicle ID: t_3, Speed: 12.941318167604775, Position: (42.8, -92.73502272306891)
+  Vehicle ID: t_4, Speed: 9.295751898363232, Position: (-336.2360489810258, -320.72)
+  Vehicle ID: t_5, Speed: 7.134198530483988, Position: (573.7816983267869, -317.52)
+  Vehicle ID: t_6, Speed: 8.855580145865678, Position: (43.55217943126905, -687.858152071426)
+  Vehicle ID: t_7, Speed: 12.676829860266304, Position: (42.8, 49.99399202717305)
+  Vehicle ID: t_8, Speed: 3.662191186845303, Position: (-406.5095543194935, -320.72)
+  Vehicle ID: t_9, Speed: 0.0, Position: (618.3300891857862, -317.52)
+----------------------------------------
+
+Step: 38
+Congestion Level: 10
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_0, Speed: 14.582611892448368, Position: (-31.91151307625472, -320.72)
+  Vehicle ID: t_1, Speed: 14.8025733125529, Position: (393.01394040104935, -317.52)
+  Vehicle ID: t_2, Speed: 14.025004976417632, Position: (44.98380551089546, -472.0186079236702)
+  Vehicle ID: t_3, Speed: 12.650351010866732, Position: (42.8, -105.38512127223274)
+  Vehicle ID: t_4, Speed: 9.770937942527235, Position: (-326.46511103849855, -320.72)
+  Vehicle ID: t_5, Speed: 7.540087436977771, Position: (566.2417427464025, -317.52)
+  Vehicle ID: t_6, Speed: 9.32445199424401, Position: (43.61402550098677, -678.5339104379634)
+  Vehicle ID: t_7, Speed: 13.092839970253415, Position: (42.8, 36.90141334932744)
+  Vehicle ID: t_8, Speed: 4.1610927849076695, Position: (-402.3484615345858, -320.72)
+  Vehicle ID: t_9, Speed: 0.46684358129277825, Position: (617.8632537683781, -317.52)
+----------------------------------------
+
+Step: 39
+Congestion Level: 11
+Avg Wait Time: 0.0
+Total Stops: 1
+vehicle Data:
+  Vehicle ID: t_0, Speed: 14.477524791454526, Position: (-17.433988284800193, -320.72)
+  Vehicle ID: t_1, Speed: 14.695047427354634, Position: (378.3191499520003, -317.52)
+  Vehicle ID: t_11, Speed: 0.0, Position: (42.8, 184.05010178015488)
+  Vehicle ID: t_2, Speed: 13.944500068284333, Position: (45.076294862970435, -458.0744224450187)
+  Vehicle ID: t_3, Speed: 12.975513377923788, Position: (42.8, -118.36037569922294)
+  Vehicle ID: t_4, Speed: 10.496147644240411, Position: (-315.96896339425814, -320.72)
+  Vehicle ID: t_5, Speed: 7.9506944616325175, Position: (558.2911873218163, -317.52)
+  Vehicle ID: t_6, Speed: 9.787304371222854, Position: (43.67894152059467, -668.7468268695284)
+  Vehicle ID: t_7, Speed: 13.625188748538502, Position: (42.8, 23.276496517224388)
+  Vehicle ID: t_8, Speed: 4.691810274031014, Position: (-397.6566512605548, -320.72)
+  Vehicle ID: t_9, Speed: 0.9963760420680046, Position: (616.8668951503455, -317.52)
+----------------------------------------
+
+Step: 40
+Congestion Level: 11
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_0, Speed: 14.485566948430241, Position: (-2.948421336369961, -320.72)
+  Vehicle ID: t_1, Speed: 14.744779519098133, Position: (363.57462828089325, -317.52)
+  Vehicle ID: t_11, Speed: 0.6083140037022532, Position: (42.8, 183.44179991651018)
+  Vehicle ID: t_2, Speed: 13.895301909640194, Position: (45.16845789959531, -444.17943401509496)
+  Vehicle ID: t_3, Speed: 12.871418344181299, Position: (42.8, -131.23153716988415)
+  Vehicle ID: t_4, Speed: 11.179246017988774, Position: (-304.7897173762694, -320.72)
+  Vehicle ID: t_5, Speed: 8.627071619220077, Position: (549.6642665677267, -317.52)
+  Vehicle ID: t_6, Speed: 10.440685404278339, Position: (43.74819120495278, -658.3063770083941)
+  Vehicle ID: t_7, Speed: 14.100629267563493, Position: (42.8, 9.176148654411975)
+  Vehicle ID: t_8, Speed: 5.217668392509223, Position: (-392.43898286804557, -320.72)
+  Vehicle ID: t_9, Speed: 1.6999334475025534, Position: (615.1669914302745, -317.52)
+----------------------------------------
+
+Step: 41
+Congestion Level: 11
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_0, Speed: 14.530882536137106, Position: (11.582461199767124, -320.72)
+  Vehicle ID: t_1, Speed: 14.976660263272256, Position: (348.59822992060543, -317.52)
+  Vehicle ID: t_11, Speed: 1.1745272656902672, Position: (42.8, 182.267296090735)
+  Vehicle ID: t_2, Speed: 13.697670180245996, Position: (45.25931010897564, -430.48207285596925)
+  Vehicle ID: t_3, Speed: 12.724037591133536, Position: (42.8, -143.95532082875954)
+  Vehicle ID: t_4, Speed: 11.240237590655834, Position: (-293.5494797856136, -320.72)
+  Vehicle ID: t_5, Speed: 9.09586217533797, Position: (540.5685634554515, -317.52)
+  Vehicle ID: t_6, Speed: 11.05619722325355, Position: (43.82152337983065, -647.2504292143068)
+  Vehicle ID: t_7, Speed: 14.223724079319656, Position: (42.8, -5.047291563566574)
+  Vehicle ID: t_8, Speed: 5.655851233005524, Position: (-386.78313163504004, -320.72)
+  Vehicle ID: t_9, Speed: 2.2866502277553082, Position: (612.8803811901072, -317.52)
+----------------------------------------
+
+Step: 42
+Congestion Level: 11
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_0, Speed: 12.367221256950506, Position: (23.949682456717653, -320.72)
+  Vehicle ID: t_1, Speed: 14.668085208175958, Position: (333.93040121923576, -317.52)
+  Vehicle ID: t_11, Speed: 1.729562070872635, Position: (42.8, 180.53776853654773)
+  Vehicle ID: t_2, Speed: 13.826607201795786, Position: (45.35101751585485, -416.6557775841288)
+  Vehicle ID: t_3, Speed: 12.662209163558007, Position: (42.8, -156.61727729396276)
+  Vehicle ID: t_4, Speed: 11.408390133068115, Position: (-282.1410896525455, -320.72)
+  Vehicle ID: t_5, Speed: 9.734518737532198, Position: (530.8342149494305, -317.52)
+  Vehicle ID: t_6, Speed: 11.617729560472073, Position: (43.898580016810726, -635.6329617512395)
+  Vehicle ID: t_7, Speed: 14.126766638552219, Position: (42.8, -19.173776275747002)
+  Vehicle ID: t_8, Speed: 6.305306144058705, Position: (-380.47782549098133, -320.72)
+  Vehicle ID: t_9, Speed: 2.7981386308558287, Position: (610.0822914914462, -317.52)
+----------------------------------------
+
+Step: 43
+Congestion Level: 11
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_0, Speed: 8.360921179316563, Position: (32.310603636034216, -320.72)
+  Vehicle ID: t_1, Speed: 14.894395092515529, Position: (319.03626659109995, -317.52)
+  Vehicle ID: t_11, Speed: 2.135685556661338, Position: (42.8, 178.40212560153478)
+  Vehicle ID: t_2, Speed: 13.926033163804323, Position: (45.443384382934184, -402.73005859334177)
+  Vehicle ID: t_3, Speed: 12.745208059389412, Position: (42.8, -169.36223099859725)
+  Vehicle ID: t_4, Speed: 11.47061967587486, Position: (-270.6704699766706, -320.72)
+  Vehicle ID: t_5, Speed: 10.413400400429964, Position: (520.420996652393, -317.52)
+  Vehicle ID: t_6, Speed: 12.219399646390231, Position: (43.97962733657878, -623.4138377760048)
+  Vehicle ID: t_7, Speed: 13.965765913111538, Position: (42.8, -33.139263475560995)
+  Vehicle ID: t_8, Speed: 6.829176438041032, Position: (-373.6486490529403, -320.72)
+  Vehicle ID: t_9, Speed: 3.3068842507898806, Position: (606.775465069494, -317.52)
+----------------------------------------
+
+Step: 44
+Congestion Level: 11
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_0, Speed: 3.8609211793165628, Position: (36.17152481535078, -320.72)
+  Vehicle ID: t_1, Speed: 15.011666295411318, Position: (304.02486281083793, -317.52)
+  Vehicle ID: t_11, Speed: 2.7247696878388528, Position: (42.8, 175.67741029163332)
+  Vehicle ID: t_2, Speed: 13.671991612471402, Position: (45.534066274692215, -389.0583754226791)
+  Vehicle ID: t_3, Speed: 12.806165490251303, Position: (42.8, -182.16814091757274)
+  Vehicle ID: t_4, Speed: 11.428616523262264, Position: (-259.24185345340834, -320.72)
+  Vehicle ID: t_5, Speed: 11.007320442795754, Position: (509.4138686991126, -317.52)
+  Vehicle ID: t_6, Speed: 12.846135971602054, Position: (44.06483159538064, -610.5679916148069)
+  Vehicle ID: t_7, Speed: 14.05981906913352, Position: (42.8, -47.19880195438819)
+  Vehicle ID: t_8, Speed: 7.481060133036227, Position: (-366.16758891990406, -320.72)
+  Vehicle ID: t_9, Speed: 4.01467654723674, Position: (602.7608587285482, -317.52)
+----------------------------------------
+
+Step: 45
+Congestion Level: 12
+Avg Wait Time: 0.08333333333333333
+Total Stops: 2
+vehicle Data:
+  Vehicle ID: t_0, Speed: 0.00587429627061709, Position: (36.17739911162141, -320.72)
+  Vehicle ID: t_1, Speed: 14.735026529444635, Position: (289.2900939588298, -317.52)
+  Vehicle ID: t_10, Speed: 0.0, Position: (43.04382664801696, -764.500115056626)
+  Vehicle ID: t_11, Speed: 3.475894870609045, Position: (42.8, 172.2015847890867)
+  Vehicle ID: t_2, Speed: 13.944702633552016, Position: (45.626556970317004, -375.11398738332986)
+  Vehicle ID: t_3, Speed: 12.815885125145584, Position: (42.8, -194.98377027746878)
+  Vehicle ID: t_4, Speed: 11.498248446345478, Position: (-247.74360500706283, -320.72)
+  Vehicle ID: t_5, Speed: 11.546308838669212, Position: (497.86776177546926, -317.52)
+  Vehicle ID: t_6, Speed: 13.282980973087254, Position: (44.15293330557528, -597.2853103074006)
+  Vehicle ID: t_7, Speed: 14.040225384944499, Position: (42.8, -61.23874714005544)
+  Vehicle ID: t_8, Speed: 7.892030638363214, Position: (-358.27555828154084, -320.72)
+  Vehicle ID: t_9, Speed: 4.752013116329907, Position: (598.0089287126156, -317.52)
+----------------------------------------
+
+Step: 46
+Congestion Level: 13
+Avg Wait Time: 0.15384615384615385
+Total Stops: 2
+vehicle Data:
+  Vehicle ID: t_0, Speed: 0.0010204493605491464, Position: (36.17841956098198, -320.72)
+  Vehicle ID: t_1, Speed: 15.035489429919302, Position: (274.2548674606647, -317.52)
+  Vehicle ID: t_10, Speed: 0.6998229240998626, Position: (43.048468346787104, -763.8003079206171)
+  Vehicle ID: t_11, Speed: 4.0125110412947835, Position: (42.8, 168.18915382504585)
+  Vehicle ID: t_12, Speed: 0.0, Position: (618.3300891857862, -317.52)
+  Vehicle ID: t_2, Speed: 13.921045073389768, Position: (45.718890753008345, -361.1932563704254)
+  Vehicle ID: t_3, Speed: 12.792425887704164, Position: (42.8, -207.77594086809685)
+  Vehicle ID: t_4, Speed: 11.221637448001802, Position: (-236.521967559061, -320.72)
+  Vehicle ID: t_5, Speed: 11.97396709716782, Position: (485.8940040719622, -317.52)
+  Vehicle ID: t_6, Speed: 13.728479788638655, Position: (44.243989865108276, -583.5571402349508)
+  Vehicle ID: t_7, Speed: 14.073715600093275, Position: (42.8, -75.31218187251082)
+  Vehicle ID: t_8, Speed: 8.328783678263427, Position: (-349.94677460327745, -320.72)
+  Vehicle ID: t_9, Speed: 5.321727849170564, Position: (592.6872939266768, -317.52)
+----------------------------------------
+
+Step: 47
+Congestion Level: 13
+Avg Wait Time: 0.23076923076923078
+Total Stops: 1
+vehicle Data:
+  Vehicle ID: t_0, Speed: 0.000419822175220846, Position: (36.1788393831572, -320.72)
+  Vehicle ID: t_1, Speed: 14.639563845297575, Position: (259.6155596234086, -317.52)
+  Vehicle ID: t_10, Speed: 1.202423718199134, Position: (43.056443633822944, -762.5979113292447)
+  Vehicle ID: t_11, Speed: 4.795123616978526, Position: (42.8, 163.39412590383682)
+  Vehicle ID: t_12, Speed: 0.6680390014313162, Position: (617.6620618666261, -317.52)
+  Vehicle ID: t_2, Speed: 13.78083815592131, Position: (45.810294588631706, -347.41272911190424)
+  Vehicle ID: t_3, Speed: 12.785526762854577, Position: (42.8, -220.56121247156048)
+  Vehicle ID: t_4, Speed: 11.148887912076116, Position: (-225.3730796469849, -320.72)
+  Vehicle ID: t_5, Speed: 11.987144887474328, Position: (473.90706880859403, -317.52)
+  Vehicle ID: t_6, Speed: 14.346203288249196, Position: (44.33914358452228, -569.2112605988084)
+  Vehicle ID: t_7, Speed: 14.223609740567774, Position: (42.8, -89.53550775401933)
+  Vehicle ID: t_8, Speed: 9.068093639332803, Position: (-340.87868096394465, -320.72)
+  Vehicle ID: t_9, Speed: 6.079402758181094, Position: (586.6079974814986, -317.52)
+----------------------------------------
+
+Step: 48
+Congestion Level: 13
+Avg Wait Time: 0.3076923076923077
+Total Stops: 1
+vehicle Data:
+  Vehicle ID: t_0, Speed: 0.00011833949451955252, Position: (36.17895772265172, -320.72)
+  Vehicle ID: t_1, Speed: 14.978309570266187, Position: (244.63751198496902, -317.52)
+  Vehicle ID: t_10, Speed: 1.8982071749866012, Position: (43.0690338271507, -760.6997469780449)
+  Vehicle ID: t_11, Speed: 5.385959342494607, Position: (42.8, 158.0082740483571)
+  Vehicle ID: t_12, Speed: 1.148875280469656, Position: (616.5132066770085, -317.52)
+  Vehicle ID: t_2, Speed: 13.766751677252115, Position: (45.90160499320491, -333.6462880142595)
+  Vehicle ID: t_3, Speed: 12.993002119984746, Position: (42.8, -233.55395529159077)
+  Vehicle ID: t_4, Speed: 11.525796409588457, Position: (-213.84728323739645, -320.72)
+  Vehicle ID: t_5, Speed: 12.303917453185617, Position: (461.60336651904606, -317.52)
+  Vehicle ID: t_6, Speed: 14.245234178099306, Position: (44.43362760853441, -554.9663477949405)
+  Vehicle ID: t_7, Speed: 14.123518729490607, Position: (42.8, -103.65874462195634)
+  Vehicle ID: t_8, Speed: 9.681697024311873, Position: (-331.1969839396328, -320.72)
+  Vehicle ID: t_9, Speed: 6.551993695367126, Position: (580.0561183635255, -317.52)
+----------------------------------------
+
+Step: 49
+Congestion Level: 13
+Avg Wait Time: 0.38461538461538464
+Total Stops: 1
+vehicle Data:
+  Vehicle ID: t_0, Speed: 0.0, Position: (36.17895772265172, -320.72)
+  Vehicle ID: t_1, Speed: 14.727589230997742, Position: (229.9101803013487, -317.52)
+  Vehicle ID: t_10, Speed: 2.4624796371907, Position: (43.08536665694211, -758.237322894697)
+  Vehicle ID: t_11, Speed: 5.89250003285706, Position: (42.8, 152.11589161149334)
+  Vehicle ID: t_12, Speed: 1.8325430372729898, Position: (614.6806956861652, -317.52)
+  Vehicle ID: t_2, Speed: 13.865679034020514, Position: (45.972762392276145, -319.78077358910565)
+  Vehicle ID: t_3, Speed: 12.773969054546475, Position: (42.8, -246.32766941740218)
+  Vehicle ID: t_4, Speed: 11.215455092009307, Position: (-202.63182814538715, -320.72)
+  Vehicle ID: t_5, Speed: 11.913601901595444, Position: (449.68997295548047, -317.52)
+  Vehicle ID: t_6, Speed: 14.337577616609158, Position: (44.52872411666244, -540.629093635842)
+  Vehicle ID: t_7, Speed: 14.045237184130967, Position: (42.8, -117.70370150679011)
+  Vehicle ID: t_8, Speed: 10.3437763591297, Position: (-320.85320758050307, -320.72)
+  Vehicle ID: t_9, Speed: 6.963934398628769, Position: (573.0923057460662, -317.52)
+----------------------------------------
+
+Step: 50
+Congestion Level: 13
+Avg Wait Time: 0.46153846153846156
+Total Stops: 1
+vehicle Data:
+  Vehicle ID: t_0, Speed: 0.0, Position: (36.17895772265172, -320.72)
+  Vehicle ID: t_1, Speed: 14.928805214738727, Position: (214.98163615273364, -317.52)
+  Vehicle ID: t_10, Speed: 3.063615339156241, Position: (43.10568662512584, -755.1737766710788)
+  Vehicle ID: t_11, Speed: 6.333846188616008, Position: (42.8, 145.78217182676872)
+  Vehicle ID: t_12, Speed: 2.3605939768254762, Position: (612.3201429900123, -317.52)
+  Vehicle ID: t_2, Speed: 13.773118409503013, Position: (46.0, -306.00777317163625)
+  Vehicle ID: t_3, Speed: 13.004306958847016, Position: (42.8, -259.3317168506852)
+  Vehicle ID: t_4, Speed: 11.262273032296598, Position: (-191.3695551130905, -320.72)
+  Vehicle ID: t_5, Speed: 12.071959453382492, Position: (437.6182246093912, -317.52)
+  Vehicle ID: t_6, Speed: 14.38204374974546, Position: (44.62411555424817, -526.2473743467685)
+  Vehicle ID: t_7, Speed: 14.243641295192212, Position: (42.8, -131.94705854315546)
+  Vehicle ID: t_8, Speed: 11.075699710287157, Position: (-309.7775078702159, -320.72)
+  Vehicle ID: t_9, Speed: 7.658712873607872, Position: (565.4337268035033, -317.52)
+----------------------------------------
+
+Step: 51
+Congestion Level: 13
+Avg Wait Time: 0.5384615384615384
+Total Stops: 1
+vehicle Data:
+  Vehicle ID: t_0, Speed: 0.0, Position: (36.17895772265172, -320.72)
+  Vehicle ID: t_1, Speed: 14.783708826745181, Position: (200.19818585475224, -317.52)
+  Vehicle ID: t_10, Speed: 3.472832060791553, Position: (43.12872079527141, -751.7010229578048)
+  Vehicle ID: t_11, Speed: 7.054414251819253, Position: (42.8, 138.72789835914065)
+  Vehicle ID: t_12, Speed: 2.9806263648904863, Position: (609.3395687485543, -317.52)
+  Vehicle ID: t_2, Speed: 13.856063475169003, Position: (46.0, -292.15198622044494)
+  Vehicle ID: t_3, Speed: 12.942704055782675, Position: (42.8, -272.27416261030646)
+  Vehicle ID: t_4, Speed: 11.143306793164612, Position: (-180.22624831992593, -320.72)
+  Vehicle ID: t_5, Speed: 12.147108171348423, Position: (425.47132885949225, -317.52)
+  Vehicle ID: t_6, Speed: 14.143967980611594, Position: (44.71792791237432, -512.1037254558105)
+  Vehicle ID: t_7, Speed: 14.166928459518969, Position: (42.8, -146.1137042747974)
+  Vehicle ID: t_8, Speed: 11.776640716847037, Position: (-298.00086715336886, -320.72)
+  Vehicle ID: t_9, Speed: 8.140963813569396, Position: (557.2929053542983, -317.52)
+----------------------------------------
+
+Step: 52
+Congestion Level: 13
+Avg Wait Time: 0.6153846153846154
+Total Stops: 1
+vehicle Data:
+  Vehicle ID: t_0, Speed: 0.0, Position: (36.17895772265172, -320.72)
+  Vehicle ID: t_1, Speed: 14.642726908823729, Position: (185.5557150092838, -317.52)
+  Vehicle ID: t_10, Speed: 4.10475340364501, Position: (43.155946294993285, -747.5963621579003)
+  Vehicle ID: t_11, Speed: 7.578127893991768, Position: (42.8, 131.14992170103724)
+  Vehicle ID: t_12, Speed: 3.7688147666864102, Position: (605.5708198886734, -317.52)
+  Vehicle ID: t_2, Speed: 13.798437617055834, Position: (46.0, -278.3538239773337)
+  Vehicle ID: t_3, Speed: 12.669404618207635, Position: (42.8, -284.94331438656036)
+  Vehicle ID: t_4, Speed: 11.369900260664672, Position: (-168.85634805926122, -320.72)
+  Vehicle ID: t_5, Speed: 12.239138648779095, Position: (413.2324042415373, -317.52)
+  Vehicle ID: t_6, Speed: 14.149853178765149, Position: (44.811779305113504, -497.9541914994695)
+  Vehicle ID: t_7, Speed: 14.0121634816764, Position: (42.8, -160.12558811722496)
+  Vehicle ID: t_8, Speed: 12.267619760334497, Position: (-285.7332473930344, -320.72)
+  Vehicle ID: t_9, Speed: 8.840303330030292, Position: (548.4527566182686, -317.52)
+----------------------------------------
+
+Step: 53
+Congestion Level: 15
+Avg Wait Time: 0.6
+Total Stops: 3
+vehicle Data:
+  Vehicle ID: t_0, Speed: 0.0, Position: (36.17895772265172, -320.72)
+  Vehicle ID: t_1, Speed: 15.004867547298103, Position: (170.5511098582425, -317.52)
+  Vehicle ID: t_10, Speed: 4.7904828305356215, Position: (43.18772001588345, -742.8059874012453)
+  Vehicle ID: t_11, Speed: 8.104354427102953, Position: (42.8, 123.04572901166931)
+  Vehicle ID: t_12, Speed: 4.256536139082164, Position: (601.3143581853799, -317.52)
+  Vehicle ID: t_13, Speed: 0.0, Position: (-418.90999999999997, -320.72)
+  Vehicle ID: t_14, Speed: 0.0, Position: (43.04382664801696, -764.500115056626)
+  Vehicle ID: t_2, Speed: 13.954329101636768, Position: (46.0, -264.3997733607513)
+  Vehicle ID: t_3, Speed: 12.79021175843504, Position: (42.8, -297.7332708921065)
+  Vehicle ID: t_4, Speed: 11.474835447207242, Position: (-157.381512612054, -320.72)
+  Vehicle ID: t_5, Speed: 12.043191188880206, Position: (401.1894236568679, -317.52)
+  Vehicle ID: t_6, Speed: 14.148745381365986, Position: (44.90562335019137, -483.8057653155358)
+  Vehicle ID: t_7, Speed: 14.060976091680496, Position: (42.8, -174.18628359550863)
+  Vehicle ID: t_8, Speed: 12.963542347842962, Position: (-272.7697050451914, -320.72)
+  Vehicle ID: t_9, Speed: 9.249988748133182, Position: (539.2029296284725, -317.52)
+----------------------------------------
+
+Step: 54
+Congestion Level: 15
+Avg Wait Time: 0.6666666666666666
+Total Stops: 1
+vehicle Data:
+  Vehicle ID: t_0, Speed: 0.0, Position: (36.17895772265172, -320.72)
+  Vehicle ID: t_1, Speed: 14.8535560729115, Position: (155.69781353554214, -317.52)
+  Vehicle ID: t_10, Speed: 5.250227052345873, Position: (43.22254307127734, -737.555878794666)
+  Vehicle ID: t_11, Speed: 8.814001850783825, Position: (42.8, 114.2319030609783)
+  Vehicle ID: t_12, Speed: 5.03170912694186, Position: (596.2827370499939, -317.52)
+  Vehicle ID: t_13, Speed: 0.6214155059307814, Position: (-418.2885844940692, -320.72)
+  Vehicle ID: t_14, Speed: 0.5632892374880613, Position: (43.047562763069564, -763.9368385270122)
+  Vehicle ID: t_2, Speed: 14.009215544339032, Position: (46.0, -250.39083739682945)
+  Vehicle ID: t_3, Speed: 12.939616353575408, Position: (42.8, -310.67262901114134)
+  Vehicle ID: t_4, Speed: 11.16898316422865, Position: (-146.21252944782532, -320.72)
+  Vehicle ID: t_5, Speed: 11.999068326902538, Position: (389.1905651625816, -317.52)
+  Vehicle ID: t_6, Speed: 14.202111252769352, Position: (44.99982135380808, -469.6039744641393)
+  Vehicle ID: t_7, Speed: 14.310196135753214, Position: (42.8, -188.49619414420712)
+  Vehicle ID: t_8, Speed: 12.689279127096892, Position: (-260.08042591809453, -320.72)
+  Vehicle ID: t_9, Speed: 10.022880688495935, Position: (529.1802242141912, -317.52)
+----------------------------------------
+
+Step: 55
+Congestion Level: 15
+Avg Wait Time: 0.7333333333333333
+Total Stops: 1
+vehicle Data:
+  Vehicle ID: t_0, Speed: 0.0, Position: (36.17895772265172, -320.72)
+  Vehicle ID: t_1, Speed: 14.762042994903654, Position: (140.93602869052296, -317.52)
+  Vehicle ID: t_10, Speed: 5.793612769711764, Position: (43.26097022812198, -731.7623967295693)
+  Vehicle ID: t_11, Speed: 9.434376536402851, Position: (42.8, 104.79771480541956)
+  Vehicle ID: t_12, Speed: 5.705553097091615, Position: (590.5772837282432, -317.52)
+  Vehicle ID: t_13, Speed: 1.3718523021787405, Position: (-416.91673219189045, -320.72)
+  Vehicle ID: t_14, Speed: 1.0980528726242482, Position: (43.05484579209432, -762.8388104265955)
+  Vehicle ID: t_2, Speed: 13.753007260884852, Position: (46.0, -236.63810460324044)
+  Vehicle ID: t_3, Speed: 12.975631613794983, Position: (42.7593052195323, -323.64823573079)
+  Vehicle ID: t_4, Speed: 11.53421571616471, Position: (-134.67831373166064, -320.72)
+  Vehicle ID: t_5, Speed: 11.999847775445282, Position: (377.1909272333831, -317.52)
+  Vehicle ID: t_6, Speed: 14.395056410971554, Position: (45.09529910016069, -455.20924280740707)
+  Vehicle ID: t_7, Speed: 14.28219778351617, Position: (42.8, -202.7781068994287)
+  Vehicle ID: t_8, Speed: 12.854576879901945, Position: (-247.2258490381926, -320.72)
+  Vehicle ID: t_9, Speed: 10.605863250885161, Position: (518.5745464323752, -317.52)
+----------------------------------------
+
+Step: 56
+Congestion Level: 15
+Avg Wait Time: 0.8
+Total Stops: 1
+vehicle Data:
+  Vehicle ID: t_0, Speed: 0.0, Position: (36.17895772265172, -320.72)
+  Vehicle ID: t_1, Speed: 14.66862786115545, Position: (126.26765734566334, -317.52)
+  Vehicle ID: t_10, Speed: 6.486528817284854, Position: (43.30399327266201, -725.2760142491707)
+  Vehicle ID: t_11, Speed: 9.914010368753225, Position: (42.8, 94.88390228951155)
+  Vehicle ID: t_12, Speed: 6.2776062560267745, Position: (584.299787251285, -317.52)
+  Vehicle ID: t_13, Speed: 1.8579139098525048, Position: (-415.058818282038, -320.72)
+  Vehicle ID: t_14, Speed: 1.8203755939379334, Position: (43.06691975375605, -761.0184759005543)
+  Vehicle ID: t_2, Speed: 13.956865029304982, Position: (46.0, -222.681518109599)
+  Vehicle ID: t_3, Speed: 12.67658351375562, Position: (42.68370760145521, -336.3245937601968)
+  Vehicle ID: t_4, Speed: 11.173322763931155, Position: (-123.5049909677295, -320.72)
+  Vehicle ID: t_5, Speed: 12.237486579668671, Position: (364.9536546556482, -317.52)
+  Vehicle ID: t_6, Speed: 14.407608565221997, Position: (45.19086010088657, -440.8019592796025)
+  Vehicle ID: t_7, Speed: 14.075302601979494, Position: (42.8, -216.85312860209868)
+  Vehicle ID: t_8, Speed: 12.956630122544379, Position: (-234.26921891564822, -320.72)
+  Vehicle ID: t_9, Speed: 11.338493397925053, Position: (507.2362513153224, -317.52)
+----------------------------------------
+
+Step: 57
+Congestion Level: 15
+Avg Wait Time: 0.8666666666666667
+Total Stops: 1
+vehicle Data:
+  Vehicle ID: t_0, Speed: 0.0, Position: (36.17895772265172, -320.72)
+  Vehicle ID: t_1, Speed: 15.028716438276946, Position: (111.23920372069847, -317.52)
+  Vehicle ID: t_10, Speed: 7.270282367244365, Position: (43.35221470062686, -718.0058959003889)
+  Vehicle ID: t_11, Speed: 10.42534646652639, Position: (42.8, 84.45876388051023)
+  Vehicle ID: t_12, Speed: 6.850705824792385, Position: (577.4492012275878, -317.52)
+  Vehicle ID: t_13, Speed: 2.4739149890840055, Position: (-412.584903292954, -320.72)
+  Vehicle ID: t_14, Speed: 2.5295563156716527, Position: (43.083697481428466, -758.4889766519836)
+  Vehicle ID: t_2, Speed: 13.763279648486288, Position: (46.0, -208.9185131334135)
+  Vehicle ID: t_3, Speed: 12.857486810300768, Position: (42.59842805621701, -349.18179050401716)
+  Vehicle ID: t_4, Speed: 11.224663209341616, Position: (-112.2803277583879, -320.72)
+  Vehicle ID: t_5, Speed: 12.031370834753812, Position: (352.9224942183978, -317.52)
+  Vehicle ID: t_6, Speed: 14.504444201569529, Position: (45.287063381021504, -426.2978423000742)
+  Vehicle ID: t_7, Speed: 14.050112001692325, Position: (42.8, -230.9029602072076)
+  Vehicle ID: t_8, Speed: 12.922071821311622, Position: (-221.3471470943366, -320.72)
+  Vehicle ID: t_9, Speed: 11.836546600246788, Position: (495.39991170560796, -317.52)
+----------------------------------------
+
+Step: 58
+Congestion Level: 16
+Avg Wait Time: 0.875
+Total Stops: 2
+vehicle Data:
+  Vehicle ID: t_0, Speed: 0.0, Position: (36.17895772265172, -320.72)
+  Vehicle ID: t_1, Speed: 14.837894782902927, Position: (96.40156841413125, -317.52)
+  Vehicle ID: t_10, Speed: 7.957748835720125, Position: (43.40499587099418, -710.048326592459)
+  Vehicle ID: t_11, Speed: 10.918761119246485, Position: (42.8, 73.54022066581231)
+  Vehicle ID: t_12, Speed: 7.277605111990124, Position: (570.1717233820552, -317.52)
+  Vehicle ID: t_13, Speed: 3.2382642411626876, Position: (-409.34663905179127, -320.72)
+  Vehicle ID: t_14, Speed: 2.9826420498080553, Position: (43.10348038001267, -755.5064018909463)
+  Vehicle ID: t_15, Speed: 0.0, Position: (42.8, 184.05010178015488)
+  Vehicle ID: t_2, Speed: 13.734668623551489, Position: (46.0, -195.18411861117568)
+  Vehicle ID: t_3, Speed: 12.834348770462245, Position: (42.51330197810223, -362.01584972999603)
+  Vehicle ID: t_4, Speed: 11.2972386527659, Position: (-100.98308910562201, -320.72)
+  Vehicle ID: t_5, Speed: 12.002029661954344, Position: (340.92067444084574, -317.52)
+  Vehicle ID: t_6, Speed: 14.24872148400125, Position: (45.38157053520407, -412.0494422689784)
+  Vehicle ID: t_7, Speed: 14.08193767797333, Position: (42.8, -244.98461685345583)
+  Vehicle ID: t_8, Speed: 12.685739405801653, Position: (-208.66140768853495, -320.72)
+  Vehicle ID: t_9, Speed: 11.662793203918248, Position: (483.7373224537253, -317.52)
+----------------------------------------
+
+Step: 59
+Congestion Level: 16
+Avg Wait Time: 0.9375
+Total Stops: 1
+vehicle Data:
+  Vehicle ID: t_0, Speed: 0.0, Position: (36.17895772265172, -320.72)
+  Vehicle ID: t_1, Speed: 14.664649989282966, Position: (81.73717487158137, -317.52)
+  Vehicle ID: t_10, Speed: 8.647423307597641, Position: (43.46235142873532, -701.4010983717925)
+  Vehicle ID: t_11, Speed: 11.64807092053816, Position: (42.8, 61.89238220458046)
+  Vehicle ID: t_12, Speed: 7.934341397788375, Position: (562.2375207353406, -317.52)
+  Vehicle ID: t_13, Speed: 3.9580251923762266, Position: (-405.38861385941505, -320.72)
+  Vehicle ID: t_14, Speed: 3.608376325853169, Position: (43.12741357136314, -751.8981069705059)
+  Vehicle ID: t_15, Speed: 0.46547055738046766, Position: (42.8, 183.58464051212056)
+  Vehicle ID: t_2, Speed: 13.995356407563895, Position: (46.0, -181.18904150744365)
+  Vehicle ID: t_3, Speed: 13.020341574911297, Position: (42.42694226996199, -375.03589756440346)
+  Vehicle ID: t_4, Speed: 11.49045530872807, Position: (-89.49263379689393, -320.72)
+  Vehicle ID: t_5, Speed: 11.983798295752107, Position: (328.9370857106767, -317.52)
+  Vehicle ID: t_6, Speed: 14.249402822646768, Position: (45.476082208485174, -397.80036091460806)
+  Vehicle ID: t_7, Speed: 14.011281034444838, Position: (42.8, -258.9956182662628)
+  Vehicle ID: t_8, Speed: 12.774505455488473, Position: (-195.88690223304647, -320.72)
+  Vehicle ID: t_9, Speed: 11.774213598212212, Position: (471.9633147560027, -317.52)
+----------------------------------------
+
+Step: 60
+Congestion Level: 16
+Avg Wait Time: 1.0
+Total Stops: 1
+vehicle Data:
+  Vehicle ID: t_0, Speed: 0.0, Position: (36.17895772265172, -320.72)
+  Vehicle ID: t_1, Speed: 13.67984511188543, Position: (68.0575689847434, -317.52)
+  Vehicle ID: t_10, Speed: 9.206496181152765, Position: (43.52341513575284, -692.1948098903234)
+  Vehicle ID: t_11, Speed: 12.2948899647221, Position: (42.8, 49.59773760766322)
+  Vehicle ID: t_12, Speed: 8.643729664664715, Position: (553.5939422271123, -317.52)
+  Vehicle ID: t_13, Speed: 4.699573135748507, Position: (-400.68904072366655, -320.72)
+  Vehicle ID: t_14, Speed: 4.246392533369362, Position: (43.155578517552975, -747.6518102362733)
+  Vehicle ID: t_15, Speed: 1.0600107648409902, Position: (42.8, 182.5246509018011)
+  Vehicle ID: t_2, Speed: 13.726401668682456, Position: (46.0, -167.4629137750921)
+  Vehicle ID: t_3, Speed: 12.764460796721549, Position: (42.34227973613904, -387.8000703933229)
+  Vehicle ID: t_4, Speed: 11.34169852359608, Position: (-78.15093527329782, -320.72)
+  Vehicle ID: t_5, Speed: 12.065149058428556, Position: (316.87214764044506, -317.52)
+  Vehicle ID: t_6, Speed: 14.175490078515828, Position: (45.57010364247614, -383.62519063688814)
+  Vehicle ID: t_7, Speed: 14.022640283965886, Position: (42.8, -273.01797870189534)
+  Vehicle ID: t_8, Speed: 12.977761164376647, Position: (-182.9091410686698, -320.72)
+  Vehicle ID: t_9, Speed: 11.502606207141637, Position: (460.4609096996411, -317.52)
+----------------------------------------
+
+Step: 61
+Congestion Level: 16
+Avg Wait Time: 1.0625
+Total Stops: 1
+vehicle Data:
+  Vehicle ID: t_0, Speed: 0.0, Position: (36.17895772265172, -320.72)
+  Vehicle ID: t_1, Speed: 9.284154297262429, Position: (58.77357704328506, -317.52)
+  Vehicle ID: t_10, Speed: 9.999929762911057, Position: (43.58974143071056, -682.1951057270551)
+  Vehicle ID: t_11, Speed: 12.736524932179604, Position: (42.8, 36.86146685695027)
+  Vehicle ID: t_12, Speed: 9.112418208178132, Position: (544.481683371519, -317.52)
+  Vehicle ID: t_13, Speed: 5.1122042076662195, Position: (-395.5768365160003, -320.72)
+  Vehicle ID: t_14, Speed: 4.855301718227565, Position: (43.18778216112918, -742.7966180542483)
+  Vehicle ID: t_15, Speed: 1.7895336185581983, Position: (42.8, 180.73515299677405)
+  Vehicle ID: t_2, Speed: 14.024728240154445, Position: (46.0, -153.43846542494003)
+  Vehicle ID: t_3, Speed: 12.670814727012337, Position: (42.2582383263628, -400.47059926519995)
+  Vehicle ID: t_4, Speed: 11.208714554537238, Position: (-66.94222071876061, -320.72)
+  Vehicle ID: t_5, Speed: 12.036783187304586, Position: (304.8355749452919, -317.52)
+  Vehicle ID: t_6, Speed: 14.142471407074005, Position: (45.66390607431479, -369.4830382857047)
+  Vehicle ID: t_7, Speed: 14.122411480826706, Position: (42.8, -287.14010834326564)
+  Vehicle ID: t_8, Speed: 12.68367043740502, Position: (-170.22547063126478, -320.72)
+  Vehicle ID: t_9, Speed: 11.835248548267394, Position: (448.62586811920653, -317.52)
+----------------------------------------
+
+Step: 62
+Congestion Level: 16
+Avg Wait Time: 1.125
+Total Stops: 1
+vehicle Data:
+  Vehicle ID: t_0, Speed: 0.0, Position: (36.17895772265172, -320.72)
+  Vehicle ID: t_1, Speed: 5.0205150069575994, Position: (53.753149832127065, -317.52)
+  Vehicle ID: t_10, Speed: 10.518274231534457, Position: (43.65950573662743, -671.6770687890782)
+  Vehicle ID: t_11, Speed: 13.158658564928924, Position: (42.8, 23.703070897963812)
+  Vehicle ID: t_12, Speed: 9.74403069075197, Position: (534.7378230786177, -317.52)
+  Vehicle ID: t_13, Speed: 5.62342657390982, Position: (-389.9534099420905, -320.72)
+  Vehicle ID: t_14, Speed: 5.594144496414811, Position: (43.22488630952845, -737.2025997624198)
+  Vehicle ID: t_15, Speed: 2.3803894289769234, Position: (42.8, 178.3548110729745)
+  Vehicle ID: t_2, Speed: 13.65099280400923, Position: (46.0, -139.78774505233503)
+  Vehicle ID: t_3, Speed: 12.749931528836758, Position: (42.17367216046743, -413.22024315401666)
+  Vehicle ID: t_4, Speed: 11.510965357892365, Position: (-55.43125536086825, -320.72)
+  Vehicle ID: t_5, Speed: 12.252680066254884, Position: (292.58310914666555, -317.52)
+  Vehicle ID: t_6, Speed: 14.344559234287114, Position: (45.7590488892514, -355.1388026664344)
+  Vehicle ID: t_7, Speed: 14.26266866810751, Position: (42.8, -301.4024923728191)
+  Vehicle ID: t_8, Speed: 13.027017792197078, Position: (-157.19845283906773, -320.72)
+  Vehicle ID: t_9, Speed: 11.822696318766088, Position: (436.8033785487672, -317.52)
+----------------------------------------
+
+Step: 63
+Congestion Level: 16
+Avg Wait Time: 1.1875
+Total Stops: 1
+vehicle Data:
+  Vehicle ID: t_0, Speed: 0.0, Position: (36.17895772265172, -320.72)
+  Vehicle ID: t_1, Speed: 1.0620623025019305, Position: (52.691106102343156, -317.52)
+  Vehicle ID: t_10, Speed: 11.197390829399234, Position: (43.73377440295968, -660.4799305741903)
+  Vehicle ID: t_11, Speed: 13.95257589127869, Position: (42.8, 9.750773456750835)
+  Vehicle ID: t_12, Speed: 10.500609317608179, Position: (524.23739738946, -317.52)
+  Vehicle ID: t_13, Speed: 6.187226978037508, Position: (-383.766182964053, -320.72)
+  Vehicle ID: t_14, Speed: 6.020401502680033, Position: (43.264817682577856, -731.1823340807366)
+  Vehicle ID: t_15, Speed: 2.8348787683993577, Position: (42.8, 175.51998887994773)
+  Vehicle ID: t_2, Speed: 13.652484755765409, Position: (46.0, -126.13553275774859)
+  Vehicle ID: t_3, Speed: 12.74386108522144, Position: (42.089146257858246, -425.963816736168)
+  Vehicle ID: t_4, Speed: 11.463482655476929, Position: (-43.967772705391326, -320.72)
+  Vehicle ID: t_5, Speed: 12.006258821886927, Position: (280.57706028313794, -317.52)
+  Vehicle ID: t_6, Speed: 14.270953355077179, Position: (45.85370350023351, -340.8681712658164)
+  Vehicle ID: t_7, Speed: 14.203282298800916, Position: (42.78721178080966, -315.60556477065546)
+  Vehicle ID: t_8, Speed: 12.803166354609788, Position: (-144.39528648445793, -320.72)
+  Vehicle ID: t_9, Speed: 11.561769338892757, Position: (425.2418113952644, -317.52)
+----------------------------------------
+
+Step: 64
+Congestion Level: 16
+Avg Wait Time: 1.3125
+Total Stops: 2
+vehicle Data:
+  Vehicle ID: t_0, Speed: 0.0, Position: (36.17895772265172, -320.72)
+  Vehicle ID: t_1, Speed: 0.07117817993700755, Position: (52.619929167128134, -317.52)
+  Vehicle ID: t_10, Speed: 11.688835428375757, Position: (43.81130266212908, -648.7913588473764)
+  Vehicle ID: t_11, Speed: 14.58238469706849, Position: (42.8, -4.831320221224956)
+  Vehicle ID: t_12, Speed: 11.212114034034313, Position: (513.0254794262503, -317.52)
+  Vehicle ID: t_13, Speed: 6.61755663715303, Position: (-377.14862632689994, -320.72)
+  Vehicle ID: t_14, Speed: 6.70422048298642, Position: (43.30928460542219, -724.4782648457871)
+  Vehicle ID: t_15, Speed: 3.3645948699675503, Position: (42.8, 172.15546115684035)
+  Vehicle ID: t_2, Speed: 13.726232616871357, Position: (46.0, -112.40957407383439)
+  Vehicle ID: t_3, Speed: 12.660426743373543, Position: (42.00517374821262, -438.62395785876043)
+  Vehicle ID: t_4, Speed: 11.176813567135632, Position: (-32.79095913825569, -320.72)
+  Vehicle ID: t_5, Speed: 11.944788278386891, Position: (268.6324808881498, -317.52)
+  Vehicle ID: t_6, Speed: 14.144876817147702, Position: (45.94752188637801, -326.72361355882566)
+  Vehicle ID: t_7, Speed: 14.025869654399722, Position: (42.728102654853444, -329.63135994428933)
+  Vehicle ID: t_8, Speed: 12.731844927532732, Position: (-131.6634415569252, -320.72)
+  Vehicle ID: t_9, Speed: 11.841788811711579, Position: (413.4002296657578, -317.52)
+----------------------------------------
+
+Step: 65
+Congestion Level: 16
+Avg Wait Time: 1.4375
+Total Stops: 2
+vehicle Data:
+  Vehicle ID: t_0, Speed: 0.0, Position: (36.17895772265172, -320.72)
+  Vehicle ID: t_1, Speed: 0.0186748296628236, Position: (52.60125466403974, -317.52)
+  Vehicle ID: t_10, Speed: 12.234547377936549, Position: (43.89245045189385, -636.5570874823302)
+  Vehicle ID: t_11, Speed: 14.934273249001386, Position: (42.8, -19.76529542853143)
+  Vehicle ID: t_12, Speed: 11.83848203821108, Position: (501.1872044124174, -317.52)
+  Vehicle ID: t_13, Speed: 7.020075934939087, Position: (-370.12855039196086, -320.72)
+  Vehicle ID: t_14, Speed: 7.461522588133811, Position: (43.358774467826, -717.0169105905186)
+  Vehicle ID: t_15, Speed: 3.958351566828788, Position: (42.8, 168.19718858641068)
+  Vehicle ID: t_2, Speed: 13.857103170815618, Position: (46.0, -98.55274744774559)
+  Vehicle ID: t_3, Speed: 12.771378580153257, Position: (41.92046533097297, -451.3950483150455)
+  Vehicle ID: t_4, Speed: 11.506028946101814, Position: (-21.284930192153865, -320.72)
+  Vehicle ID: t_5, Speed: 12.234181362138093, Position: (256.3985134701459, -317.52)
+  Vehicle ID: t_6, Speed: 14.24572247890708, Position: (45.99806687626862, -312.4778995088765)
+  Vehicle ID: t_7, Speed: 14.162716629636854, Position: (42.63416594301134, -343.7937570613009)
+  Vehicle ID: t_8, Speed: 13.013700277520478, Position: (-118.64974127940474, -320.72)
+  Vehicle ID: t_9, Speed: 11.900555708734304, Position: (401.4998820669093, -317.52)
+----------------------------------------
+
+Step: 66
+Congestion Level: 16
+Avg Wait Time: 1.5625
+Total Stops: 2
+vehicle Data:
+  Vehicle ID: t_0, Speed: 0.0, Position: (36.17895772265172, -320.72)
+  Vehicle ID: t_1, Speed: 0.00026136964387938607, Position: (52.6009932989665, -317.52)
+  Vehicle ID: t_10, Speed: 12.998064835090197, Position: (43.978662405634694, -623.5593158851779)
+  Vehicle ID: t_11, Speed: 15.054826085639329, Position: (42.8, -34.81982106661576)
+  Vehicle ID: t_12, Speed: 12.376505300868306, Position: (488.8109155445601, -317.52)
+  Vehicle ID: t_13, Speed: 7.6214969104155905, Position: (-362.5070534815453, -320.72)
+  Vehicle ID: t_14, Speed: 7.983020390942692, Position: (43.411723256233195, -709.0340702974956)
+  Vehicle ID: t_15, Speed: 4.703093304391951, Position: (42.8, 163.4941891411491)
+  Vehicle ID: t_2, Speed: 13.828983209922672, Position: (46.0, -84.72404022136266)
+  Vehicle ID: t_3, Speed: 12.655481741063566, Position: (41.83652561992589, -464.0502445468878)
+  Vehicle ID: t_4, Speed: 11.333527911812217, Position: (-9.951402280341654, -320.72)
+  Vehicle ID: t_5, Speed: 12.11958173739627, Position: (244.27914367283313, -317.52)
+  Vehicle ID: t_6, Speed: 14.312681389692695, Position: (46.0, -298.1654926218955)
+  Vehicle ID: t_7, Speed: 14.132022802439899, Position: (42.540432813382736, -357.925461043572)
+  Vehicle ID: t_8, Speed: 12.890566417271405, Position: (-105.7591748621333, -320.72)
+  Vehicle ID: t_9, Speed: 11.893638544911504, Position: (389.6064515109203, -317.52)
+----------------------------------------
+
+Step: 67
+Congestion Level: 16
+Avg Wait Time: 1.6875
+Total Stops: 2
+vehicle Data:
+  Vehicle ID: t_0, Speed: 0.0, Position: (36.17895772265172, -320.72)
+  Vehicle ID: t_1, Speed: 0.0, Position: (52.6009932989665, -317.52)
+  Vehicle ID: t_10, Speed: 13.793258329853423, Position: (44.07014862024862, -609.7663687329252)
+  Vehicle ID: t_11, Speed: 15.04028822928402, Position: (42.8, -49.85980913847524)
+  Vehicle ID: t_12, Speed: 12.845178807713095, Position: (475.9659613657433, -317.52)
+  Vehicle ID: t_13, Speed: 8.256780275143685, Position: (-354.25027320640163, -320.72)
+  Vehicle ID: t_14, Speed: 8.38972618728876, Position: (43.46736959244812, -700.6445333834594)
+  Vehicle ID: t_15, Speed: 5.23395591583103, Position: (42.8, 158.26033767881682)
+  Vehicle ID: t_2, Speed: 13.749206815648586, Position: (46.0, -70.97510779716484)
+  Vehicle ID: t_3, Speed: 12.772816271100462, Position: (41.751807666947876, -476.8227726616857)
+  Vehicle ID: t_4, Speed: 11.453655157130362, Position: (1.5022528767887025, -320.72)
+  Vehicle ID: t_5, Speed: 11.9681142363967, Position: (232.31123872774583, -317.52)
+  Vehicle ID: t_6, Speed: 14.428482024836809, Position: (46.0, -283.73729854473225)
+  Vehicle ID: t_7, Speed: 13.952626100276976, Position: (42.44788956396972, -371.87777237089176)
+  Vehicle ID: t_8, Speed: 12.912233073612809, Position: (-92.8469417885205, -320.72)
+  Vehicle ID: t_9, Speed: 11.875008826805264, Position: (377.73165034725207, -317.52)
+----------------------------------------
+
+Step: 68
+Congestion Level: 16
+Avg Wait Time: 1.8125
+Total Stops: 2
+vehicle Data:
+  Vehicle ID: t_0, Speed: 0.0, Position: (36.17895772265172, -320.72)
+  Vehicle ID: t_1, Speed: 0.0, Position: (52.6009932989665, -317.52)
+  Vehicle ID: t_10, Speed: 14.102492068763793, Position: (44.16368588208629, -595.6641948181132)
+  Vehicle ID: t_11, Speed: 15.12851945273313, Position: (42.8, -64.98802667296275)
+  Vehicle ID: t_12, Speed: 13.321710841450844, Position: (462.6444834864994, -317.52)
+  Vehicle ID: t_13, Speed: 8.857927365880462, Position: (-345.39234584052116, -320.72)
+  Vehicle ID: t_14, Speed: 8.809479347523302, Position: (43.525800015409175, -691.8352527788712)
+  Vehicle ID: t_15, Speed: 5.799009611271321, Position: (42.8, 152.46144379776047)
+  Vehicle ID: t_2, Speed: 13.803811094153435, Position: (46.0, -57.171572184193906)
+  Vehicle ID: t_3, Speed: 12.773869358141244, Position: (41.66708272918463, -489.5963538397665)
+  Vehicle ID: t_4, Speed: 11.493943724487126, Position: (12.996196601275813, -320.72)
+  Vehicle ID: t_5, Speed: 12.076974993132948, Position: (220.23447492961486, -317.52)
+  Vehicle ID: t_6, Speed: 14.229720976668865, Position: (46.0, -269.5078615490839)
+  Vehicle ID: t_7, Speed: 14.001761214529544, Position: (42.355020417259624, -385.8792177039699)
+  Vehicle ID: t_8, Speed: 13.02218915249607, Position: (-79.82475263602441, -320.72)
+  Vehicle ID: t_9, Speed: 11.799168691607177, Position: (365.93268799253445, -317.52)
+----------------------------------------
+
+Step: 69
+Congestion Level: 16
+Avg Wait Time: 1.9375
+Total Stops: 2
+vehicle Data:
+  Vehicle ID: t_0, Speed: 0.0, Position: (36.17895772265172, -320.72)
+  Vehicle ID: t_1, Speed: 0.0, Position: (52.6009932989665, -317.52)
+  Vehicle ID: t_10, Speed: 14.13445655606684, Position: (44.25743515401436, -581.5300571371209)
+  Vehicle ID: t_11, Speed: 14.809888501183273, Position: (42.8, -79.79761961478417)
+  Vehicle ID: t_12, Speed: 14.054816977214074, Position: (448.58991229161916, -317.52)
+  Vehicle ID: t_13, Speed: 9.507648627925667, Position: (-335.8846972125955, -320.72)
+  Vehicle ID: t_14, Speed: 9.357836813665928, Position: (43.58786751582017, -682.4776270791523)
+  Vehicle ID: t_15, Speed: 6.425937992613762, Position: (42.8, 146.03563404690436)
+  Vehicle ID: t_2, Speed: 13.66950413266918, Position: (46.0, -43.50234085235758)
+  Vehicle ID: t_3, Speed: 12.670217146490037, Position: (41.583045282966424, -502.26628514460276)
+  Vehicle ID: t_4, Speed: 9.612973187118287, Position: (22.609169788394126, -320.72)
+  Vehicle ID: t_5, Speed: 12.000454571590721, Position: (208.23423021488225, -317.52)
+  Vehicle ID: t_6, Speed: 14.492521888575972, Position: (46.0, -255.01562888621817)
+  Vehicle ID: t_7, Speed: 14.298882000615269, Position: (42.26018056461827, -400.1777771200524)
+  Vehicle ID: t_8, Speed: 12.978961103385448, Position: (-66.84579153263894, -320.72)
+  Vehicle ID: t_9, Speed: 11.86621915605849, Position: (354.0666763459044, -317.52)
+----------------------------------------
+
+Step: 70
+Congestion Level: 16
+Avg Wait Time: 2.0625
+Total Stops: 2
+vehicle Data:
+  Vehicle ID: t_0, Speed: 0.0, Position: (36.17895772265172, -320.72)
+  Vehicle ID: t_1, Speed: 0.0, Position: (52.6009932989665, -317.52)
+  Vehicle ID: t_10, Speed: 14.07258194392544, Position: (44.35077403168241, -567.4577926723713)
+  Vehicle ID: t_11, Speed: 15.118888418373794, Position: (42.8, -94.91620630711785)
+  Vehicle ID: t_12, Speed: 14.215993361934514, Position: (434.37416753057585, -317.52)
+  Vehicle ID: t_13, Speed: 10.110625176131729, Position: (-325.77407203646374, -320.72)
+  Vehicle ID: t_14, Speed: 9.94028995027766, Position: (43.65379823921912, -672.5375613830358)
+  Vehicle ID: t_15, Speed: 7.040914602391421, Position: (42.8, 138.99485995929305)
+  Vehicle ID: t_2, Speed: 13.720112242910773, Position: (46.0, -29.7825024202603)
+  Vehicle ID: t_3, Speed: 12.758539579946817, Position: (41.49842202265635, -515.0245368903308)
+  Vehicle ID: t_4, Speed: 5.2301930044772735, Position: (27.839362792871384, -320.72)
+  Vehicle ID: t_5, Speed: 11.983622085330039, Position: (196.25081769205383, -317.52)
+  Vehicle ID: t_6, Speed: 14.158526723086359, Position: (46.0, -240.85738472333622)
+  Vehicle ID: t_7, Speed: 14.302056578454941, Position: (42.1653196560304, -414.4795110423557)
+  Vehicle ID: t_8, Speed: 12.844526565516501, Position: (-54.00126496712244, -320.72)
+  Vehicle ID: t_9, Speed: 11.579282184420139, Position: (342.4875966531285, -317.52)
+----------------------------------------
+
+Step: 71
+Congestion Level: 16
+Avg Wait Time: 2.1875
+Total Stops: 2
+vehicle Data:
+  Vehicle ID: t_0, Speed: 0.0, Position: (36.17895772265172, -320.72)
+  Vehicle ID: t_1, Speed: 0.0, Position: (52.6009932989665, -317.52)
+  Vehicle ID: t_10, Speed: 13.969380858130723, Position: (44.4434284099771, -553.4887269651871)
+  Vehicle ID: t_11, Speed: 14.88250319873649, Position: (42.8, -109.79841249732883)
+  Vehicle ID: t_12, Speed: 14.194221738647164, Position: (420.1801940120905, -317.52)
+  Vehicle ID: t_13, Speed: 10.723924550134692, Position: (-315.050147486329, -320.72)
+  Vehicle ID: t_14, Speed: 10.440409430395816, Position: (43.72304609313186, -662.0973874895582)
+  Vehicle ID: t_15, Speed: 7.724735345877706, Position: (42.8, 131.27027877513297)
+  Vehicle ID: t_2, Speed: 13.839275304216654, Position: (46.0, -15.943503304981675)
+  Vehicle ID: t_3, Speed: 12.88581850523901, Position: (41.41295456246278, -527.9100646899228)
+  Vehicle ID: t_4, Speed: 0.7301930044772735, Position: (28.56955579734864, -320.72)
+  Vehicle ID: t_5, Speed: 12.168681548004, Position: (184.08234894276177, -317.52)
+  Vehicle ID: t_6, Speed: 14.374139737151088, Position: (46.0, -226.48353184935544)
+  Vehicle ID: t_7, Speed: 14.162275462785184, Position: (42.071385870305114, -428.64146700246835)
+  Vehicle ID: t_8, Speed: 13.013777542090178, Position: (-40.98748742503227, -320.72)
+  Vehicle ID: t_9, Speed: 11.88910154822281, Position: (330.59870301448785, -317.52)
+----------------------------------------
+
+Step: 72
+Congestion Level: 16
+Avg Wait Time: 2.375
+Total Stops: 3
+vehicle Data:
+  Vehicle ID: t_0, Speed: 0.0, Position: (36.17895772265172, -320.72)
+  Vehicle ID: t_1, Speed: 0.0, Position: (52.6009932989665, -317.52)
+  Vehicle ID: t_10, Speed: 14.080920215845078, Position: (44.53682259270188, -539.4081244166302)
+  Vehicle ID: t_11, Speed: 15.142631619514109, Position: (42.8, -124.94074191696231)
+  Vehicle ID: t_12, Speed: 14.406878888062627, Position: (405.77356706301236, -317.52)
+  Vehicle ID: t_13, Speed: 11.290811009332542, Position: (-303.7593364769965, -320.72)
+  Vehicle ID: t_14, Speed: 11.043654449563478, Position: (43.79629507585468, -651.0539821861944)
+  Vehicle ID: t_15, Speed: 8.50409143101424, Position: (42.8, 122.7663570593624)
+  Vehicle ID: t_2, Speed: 13.765842910006404, Position: (46.0, -2.177935118430753)
+  Vehicle ID: t_3, Speed: 12.918094926465571, Position: (41.32727302322213, -540.8278681825815)
+  Vehicle ID: t_4, Speed: 0.07252423694020962, Position: (28.642080034288824, -320.72)
+  Vehicle ID: t_5, Speed: 12.089162583303601, Position: (171.99339776758956, -317.52)
+  Vehicle ID: t_6, Speed: 14.523619607928664, Position: (46.0, -211.96020208775087)
+  Vehicle ID: t_7, Speed: 14.154839526025027, Position: (41.97750140473973, -442.7959871935765)
+  Vehicle ID: t_8, Speed: 12.713388879200577, Position: (-28.27409854583169, -320.72)
+  Vehicle ID: t_9, Speed: 11.772681044703335, Position: (318.82622784347376, -317.52)
+----------------------------------------
+
+Step: 73
+Congestion Level: 16
+Avg Wait Time: 2.5625
+Total Stops: 3
+vehicle Data:
+  Vehicle ID: t_0, Speed: 0.0, Position: (36.17895772265172, -320.72)
+  Vehicle ID: t_1, Speed: 0.0, Position: (52.6009932989665, -317.52)
+  Vehicle ID: t_10, Speed: 14.017045626286388, Position: (44.629793115964254, -525.3913950166134)
+  Vehicle ID: t_11, Speed: 14.808497473315478, Position: (42.8, -139.74894385867654)
+  Vehicle ID: t_12, Speed: 14.4339736030581, Position: (391.3398458727552, -317.52)
+  Vehicle ID: t_13, Speed: 11.882237489055846, Position: (-291.87709898794066, -320.72)
+  Vehicle ID: t_14, Speed: 11.499409476574515, Position: (43.8725669340443, -639.5548321377089)
+  Vehicle ID: t_15, Speed: 9.260780994966627, Position: (42.8, 113.50576088081223)
+  Vehicle ID: t_2, Speed: 13.786612483381987, Position: (46.0, 11.608402226999544)
+  Vehicle ID: t_3, Speed: 12.749939554136516, Position: (41.24270680409755, -553.5775200965169)
+  Vehicle ID: t_4, Speed: 0.03171739604125155, Position: (28.67379743033007, -320.72)
+  Vehicle ID: t_5, Speed: 12.074979011927693, Position: (159.9186299157593, -317.52)
+  Vehicle ID: t_6, Speed: 14.233295034896107, Position: (46.0, -197.7271911052024)
+  Vehicle ID: t_7, Speed: 13.97182435244453, Position: (41.88483081953875, -456.76749633994893)
+  Vehicle ID: t_8, Speed: 12.893313623568178, Position: (-15.380784922263501, -320.72)
+  Vehicle ID: t_9, Speed: 11.698075690129757, Position: (307.12835672237884, -317.52)
+----------------------------------------
+
+Step: 74
+Congestion Level: 16
+Avg Wait Time: 2.75
+Total Stops: 3
+vehicle Data:
+  Vehicle ID: t_0, Speed: 0.0, Position: (36.17895772265172, -320.72)
+  Vehicle ID: t_1, Speed: 0.0, Position: (52.6009932989665, -317.52)
+  Vehicle ID: t_10, Speed: 14.141581514347315, Position: (44.723589645432696, -511.25013253808066)
+  Vehicle ID: t_11, Speed: 15.011399881818475, Position: (42.8, -154.76004415959213)
+  Vehicle ID: t_12, Speed: 14.238061846900225, Position: (377.10203301266677, -317.52)
+  Vehicle ID: t_13, Speed: 12.326235192082827, Position: (-279.5508637958578, -320.72)
+  Vehicle ID: t_14, Speed: 12.14814443197102, Position: (43.95314164105597, -627.4069617693672)
+  Vehicle ID: t_15, Speed: 9.997550757788122, Position: (42.8, 103.50840964307595)
+  Vehicle ID: t_2, Speed: 13.735628846741974, Position: (46.0, 25.3437569532648)
+  Vehicle ID: t_3, Speed: 12.754231493592531, Position: (41.1581121179288, -566.3314638530817)
+  Vehicle ID: t_4, Speed: 0.0023766752977736234, Position: (28.676174105627865, -320.72)
+  Vehicle ID: t_5, Speed: 12.00280631308347, Position: (147.91603350065975, -317.52)
+  Vehicle ID: t_6, Speed: 14.393145756422998, Position: (46.0, -183.33433259125079)
+  Vehicle ID: t_7, Speed: 14.16901696836707, Position: (41.79085231959064, -470.93619365355426)
+  Vehicle ID: t_8, Speed: 12.642400620481133, Position: (-2.7383843017823892, -320.72)
+  Vehicle ID: t_9, Speed: 11.547053416734546, Position: (295.5815052336909, -317.52)
+----------------------------------------
+
+Step: 75
+Congestion Level: 16
+Avg Wait Time: 2.9375
+Total Stops: 3
+vehicle Data:
+  Vehicle ID: t_0, Speed: 0.0, Position: (36.17895772265172, -320.72)
+  Vehicle ID: t_1, Speed: 0.0, Position: (52.6009932989665, -317.52)
+  Vehicle ID: t_10, Speed: 14.116061280071706, Position: (44.817216907453655, -497.1343897180838)
+  Vehicle ID: t_11, Speed: 14.858086199869545, Position: (42.8, -169.61783383822356)
+  Vehicle ID: t_12, Speed: 14.3404412000584, Position: (362.76184258976974, -317.52)
+  Vehicle ID: t_13, Speed: 12.980947782006119, Position: (-266.5699160138517, -320.72)
+  Vehicle ID: t_14, Speed: 12.583233105670667, Position: (44.03660215030714, -614.8240125429797)
+  Vehicle ID: t_15, Speed: 10.696349534206094, Position: (42.8, 92.81227357477418)
+  Vehicle ID: t_2, Speed: 13.93413565921387, Position: (46.0, 39.27761453042274)
+  Vehicle ID: t_3, Speed: 12.725955197539449, Position: (41.073704979272556, -579.0571319515101)
+  Vehicle ID: t_4, Speed: 0.0013736608508383454, Position: (28.67754776647871, -320.72)
+  Vehicle ID: t_5, Speed: 11.996240454939157, Position: (135.92000282888472, -317.52)
+  Vehicle ID: t_6, Speed: 14.49022416127798, Position: (46.0, -168.84439760982755)
+  Vehicle ID: t_7, Speed: 14.151144040936053, Position: (41.696992364980815, -485.087018442944)
+  Vehicle ID: t_8, Speed: 12.162692281418549, Position: (9.424307979636183, -320.72)
+  Vehicle ID: t_9, Speed: 11.866737894164384, Position: (283.7149748580264, -317.52)
+----------------------------------------
+
+Step: 76
+Congestion Level: 16
+Avg Wait Time: 3.125
+Total Stops: 3
+vehicle Data:
+  Vehicle ID: t_0, Speed: 0.0, Position: (36.17895772265172, -320.72)
+  Vehicle ID: t_1, Speed: 0.0, Position: (52.6009932989665, -317.52)
+  Vehicle ID: t_10, Speed: 14.21640347937119, Position: (44.9115097067799, -482.9183069625198)
+  Vehicle ID: t_11, Speed: 14.871432049476685, Position: (42.8, -184.4889691001205)
+  Vehicle ID: t_12, Speed: 14.37688775166446, Position: (348.3852062526225, -317.52)
+  Vehicle ID: t_13, Speed: 13.58849339422661, Position: (-252.98142261962508, -320.72)
+  Vehicle ID: t_14, Speed: 13.160074208490558, Position: (44.123888659743955, -601.6642352273784)
+  Vehicle ID: t_15, Speed: 11.11802216516808, Position: (42.8, 81.69447329078605)
+  Vehicle ID: t_2, Speed: 13.918442863680184, Position: (46.0, 53.195779625226464)
+  Vehicle ID: t_3, Speed: 12.96357248150584, Position: (40.98772180214034, -592.0204119732298)
+  Vehicle ID: t_4, Speed: 0.0003502960324181978, Position: (28.677898062511133, -320.72)
+  Vehicle ID: t_5, Speed: 12.080594827261717, Position: (123.83961925992651, -317.52)
+  Vehicle ID: t_6, Speed: 14.412357131018759, Position: (46.0, -154.43232810467953)
+  Vehicle ID: t_7, Speed: 13.96155752958861, Position: (41.60438987629022, -499.04826099808133)
+  Vehicle ID: t_8, Speed: 7.790611505140396, Position: (17.2149194847766, -320.72)
+  Vehicle ID: t_9, Speed: 11.548862344035864, Position: (272.1663144736706, -317.52)
+----------------------------------------
+
+Step: 77
+Congestion Level: 16
+Avg Wait Time: 3.3125
+Total Stops: 3
+vehicle Data:
+  Vehicle ID: t_0, Speed: 0.0, Position: (36.17895772265172, -320.72)
+  Vehicle ID: t_1, Speed: 0.0, Position: (52.6009932989665, -317.52)
+  Vehicle ID: t_10, Speed: 14.122161878328741, Position: (45.00517743209301, -468.7964636818962)
+  Vehicle ID: t_11, Speed: 15.032993843962581, Position: (42.8, -199.52166293223175)
+  Vehicle ID: t_12, Speed: 14.512437035530299, Position: (333.8730230020152, -317.52)
+  Vehicle ID: t_13, Speed: 13.703645603664995, Position: (-239.27777701596008, -320.72)
+  Vehicle ID: t_14, Speed: 13.586261406168349, Position: (44.214001930813154, -588.0782803289347)
+  Vehicle ID: t_15, Speed: 11.546989309974018, Position: (42.8, 70.14771442284344)
+  Vehicle ID: t_2, Speed: 13.873499482858689, Position: (46.0, 67.06900223613889)
+  Vehicle ID: t_3, Speed: 12.687550121963293, Position: (40.90356939191029, -604.7076758625051)
+  Vehicle ID: t_4, Speed: 0.0, Position: (28.677898062511133, -320.72)
+  Vehicle ID: t_5, Speed: 12.147575220772028, Position: (111.69225646877152, -317.52)
+  Vehicle ID: t_6, Speed: 14.282900817971202, Position: (46.0, -140.14971232903326)
+  Vehicle ID: t_7, Speed: 13.990362043680072, Position: (41.51159633658797, -513.0383074174767)
+  Vehicle ID: t_8, Speed: 3.7832814187794943, Position: (20.998200903556096, -320.72)
+  Vehicle ID: t_9, Speed: 11.657908383486777, Position: (260.50860995679653, -317.52)
+----------------------------------------
+
+Step: 78
+Congestion Level: 16
+Avg Wait Time: 3.5
+Total Stops: 3
+vehicle Data:
+  Vehicle ID: t_0, Speed: 0.0, Position: (36.17895772265172, -320.72)
+  Vehicle ID: t_1, Speed: 0.0, Position: (52.6009932989665, -317.52)
+  Vehicle ID: t_10, Speed: 14.226731384787678, Position: (45.09953873307048, -454.5700532539145)
+  Vehicle ID: t_11, Speed: 14.89531616475168, Position: (42.8, -214.41668183275092)
+  Vehicle ID: t_12, Speed: 14.227278712685644, Position: (319.64599308757226, -317.52)
+  Vehicle ID: t_13, Speed: 13.645254971206963, Position: (-225.63252204475313, -320.72)
+  Vehicle ID: t_14, Speed: 14.159009115118542, Position: (44.3079140519124, -573.9195906427996)
+  Vehicle ID: t_15, Speed: 11.978372967056934, Position: (42.8, 58.16958050689544)
+  Vehicle ID: t_2, Speed: 13.64900758572644, Position: (46.0, 80.71773743007986)
+  Vehicle ID: t_3, Speed: 12.905670255933225, Position: (40.8179702614847, -617.6130549649336)
+  Vehicle ID: t_4, Speed: 0.0, Position: (28.677898062511133, -320.72)
+  Vehicle ID: t_5, Speed: 12.041407942519486, Position: (99.65105909927843, -317.52)
+  Vehicle ID: t_6, Speed: 14.302602489292147, Position: (46.0, -125.8473952752502)
+  Vehicle ID: t_7, Speed: 14.236172575598031, Position: (41.41717241525003, -527.2741588232743)
+  Vehicle ID: t_8, Speed: 0.16097194590534855, Position: (21.15917284946147, -320.72)
+  Vehicle ID: t_9, Speed: 11.80456721243447, Position: (248.70424917565776, -317.52)
+----------------------------------------
+
+Step: 79
+Congestion Level: 16
+Avg Wait Time: 3.75
+Total Stops: 4
+vehicle Data:
+  Vehicle ID: t_0, Speed: 0.0, Position: (36.17895772265172, -320.72)
+  Vehicle ID: t_1, Speed: 0.0, Position: (52.6009932989665, -317.52)
+  Vehicle ID: t_10, Speed: 13.859170772097976, Position: (45.191462123563575, -440.7111951464101)
+  Vehicle ID: t_11, Speed: 14.954135289133669, Position: (42.8, -229.37051868380505)
+  Vehicle ID: t_12, Speed: 14.542854931126774, Position: (305.10339247329864, -317.52)
+  Vehicle ID: t_13, Speed: 13.727256627221436, Position: (-211.9052654175317, -320.72)
+  Vehicle ID: t_14, Speed: 14.957597715780148, Position: (44.40712295252241, -558.9623303722597)
+  Vehicle ID: t_15, Speed: 12.75778114208952, Position: (42.8, 45.412053970480486)
+  Vehicle ID: t_2, Speed: 13.68922288342169, Position: (46.0, 94.40668711914367)
+  Vehicle ID: t_3, Speed: 12.92524338732314, Position: (40.73224130881871, -630.5380067571796)
+  Vehicle ID: t_4, Speed: 0.0, Position: (28.677898062511133, -320.72)
+  Vehicle ID: t_5, Speed: 12.065504058384299, Position: (87.58576603529923, -317.52)
+  Vehicle ID: t_6, Speed: 14.283163735270024, Position: (46.0, -111.5645165875521)
+  Vehicle ID: t_7, Speed: 14.02449681023267, Position: (41.32415247069811, -541.2983392391377)
+  Vehicle ID: t_8, Speed: 0.011117060954750471, Position: (21.170289910416216, -320.72)
+  Vehicle ID: t_9, Speed: 11.750601793462396, Position: (236.9538528697757, -317.52)
+----------------------------------------
+
+Step: 80
+Congestion Level: 16
+Avg Wait Time: 4.0
+Total Stops: 4
+vehicle Data:
+  Vehicle ID: t_0, Speed: 0.0, Position: (36.17895772265172, -320.72)
+  Vehicle ID: t_1, Speed: 0.0, Position: (52.6009932989665, -317.52)
+  Vehicle ID: t_10, Speed: 14.106986774187506, Position: (45.2850291973264, -426.6045266275755)
+  Vehicle ID: t_11, Speed: 15.11592823061827, Position: (42.8, -244.4861452474594)
+  Vehicle ID: t_12, Speed: 14.529754731166602, Position: (290.5738918298967, -317.52)
+  Vehicle ID: t_13, Speed: 13.738092624795467, Position: (-198.16717279273624, -320.72)
+  Vehicle ID: t_14, Speed: 15.42782831649831, Position: (44.50945074039071, -543.5348501094614)
+  Vehicle ID: t_15, Speed: 12.807460163805306, Position: (42.8, 32.604849403788705)
+  Vehicle ID: t_2, Speed: 14.026112153835356, Position: (46.0, 108.43251935535801)
+  Vehicle ID: t_3, Speed: 12.785787030820073, Position: (40.647437324992936, -643.323505339075)
+  Vehicle ID: t_4, Speed: 0.0, Position: (28.677898062511133, -320.72)
+  Vehicle ID: t_5, Speed: 12.21132081740439, Position: (75.37465876225724, -317.52)
+  Vehicle ID: t_6, Speed: 14.30434823557687, Position: (46.0, -97.260453822324)
+  Vehicle ID: t_7, Speed: 14.197552385275632, Position: (41.229984704572786, -555.4955713258892)
+  Vehicle ID: t_8, Speed: 0.0034092744949334734, Position: (21.17369918491113, -320.72)
+  Vehicle ID: t_9, Speed: 11.822006505178273, Position: (225.13205310086119, -317.52)
+----------------------------------------
+
+Step: 81
+Congestion Level: 16
+Avg Wait Time: 4.25
+Total Stops: 4
+vehicle Data:
+  Vehicle ID: t_0, Speed: 0.0, Position: (36.17895772265172, -320.72)
+  Vehicle ID: t_1, Speed: 0.0, Position: (52.6009932989665, -317.52)
+  Vehicle ID: t_10, Speed: 13.891136475801439, Position: (45.37716460597789, -412.7137035375178)
+  Vehicle ID: t_11, Speed: 14.784336245988639, Position: (42.8, -259.27018644402983)
+  Vehicle ID: t_12, Speed: 14.464793505254626, Position: (276.1093512764031, -317.52)
+  Vehicle ID: t_13, Speed: 13.540000287656516, Position: (-184.62717250507973, -320.72)
+  Vehicle ID: t_14, Speed: 15.562864787518741, Position: (44.61267418143052, -527.9723364220823)
+  Vehicle ID: t_15, Speed: 12.766812912180693, Position: (42.8, 19.83829127752867)
+  Vehicle ID: t_2, Speed: 13.68250304412818, Position: (46.0, 122.11474933923546)
+  Vehicle ID: t_3, Speed: 12.906667066410453, Position: (40.56183158304635, -656.2298812294924)
+  Vehicle ID: t_4, Speed: 0.0, Position: (28.677898062511133, -320.72)
+  Vehicle ID: t_5, Speed: 9.24103771244372, Position: (66.13378265162021, -317.52)
+  Vehicle ID: t_6, Speed: 14.155738415382327, Position: (46.0, -83.10499791150013)
+  Vehicle ID: t_7, Speed: 13.97837504176554, Position: (41.13727067077142, -569.4736310137982)
+  Vehicle ID: t_8, Speed: 0.0022519834937319697, Position: (21.17595116840488, -320.72)
+  Vehicle ID: t_9, Speed: 11.734349608337492, Position: (213.3979086958954, -317.52)
+----------------------------------------
+
+Step: 82
+Congestion Level: 16
+Avg Wait Time: 4.5
+Total Stops: 4
+vehicle Data:
+  Vehicle ID: t_0, Speed: 0.0, Position: (36.17895772265172, -320.72)
+  Vehicle ID: t_1, Speed: 0.0, Position: (52.6009932989665, -317.52)
+  Vehicle ID: t_10, Speed: 13.980015705954253, Position: (45.46988952177337, -398.7340032224336)
+  Vehicle ID: t_11, Speed: 14.818432302304686, Position: (42.8, -274.088323016465)
+  Vehicle ID: t_12, Speed: 14.173950776192784, Position: (261.93564836588564, -317.52)
+  Vehicle ID: t_13, Speed: 13.480547472302646, Position: (-171.14662503277708, -320.72)
+  Vehicle ID: t_14, Speed: 15.291832182198526, Position: (44.714099950991645, -512.6808492254945)
+  Vehicle ID: t_15, Speed: 12.811345762192875, Position: (42.8, 7.027201189993775)
+  Vehicle ID: t_2, Speed: 13.823311877425523, Position: (46.0, 135.93778534630337)
+  Vehicle ID: t_3, Speed: 12.934293976005435, Position: (40.47604260075727, -669.1638834062385)
+  Vehicle ID: t_4, Speed: 0.0, Position: (28.677898062511133, -320.72)
+  Vehicle ID: t_5, Speed: 5.078218138694876, Position: (61.05565331780326, -317.52)
+  Vehicle ID: t_6, Speed: 14.345470821391315, Position: (46.0, -68.75981338113664)
+  Vehicle ID: t_7, Speed: 14.037772446127057, Position: (41.044162673226836, -583.511086766056)
+  Vehicle ID: t_8, Speed: 0.0008920853914145284, Position: (21.176843253796278, -320.72)
+  Vehicle ID: t_9, Speed: 11.638302894970387, Position: (201.7598093246886, -317.52)
+----------------------------------------
+
+Step: 83
+Congestion Level: 16
+Avg Wait Time: 4.75
+Total Stops: 4
+vehicle Data:
+  Vehicle ID: t_0, Speed: 0.0, Position: (36.17895772265172, -320.72)
+  Vehicle ID: t_1, Speed: 0.0, Position: (52.6009932989665, -317.52)
+  Vehicle ID: t_10, Speed: 14.156920735500723, Position: (45.563787791327066, -384.5774018688021)
+  Vehicle ID: t_11, Speed: 15.045418863088967, Position: (42.8, -289.13344161973794)
+  Vehicle ID: t_12, Speed: 14.52983306545341, Position: (247.40606938956677, -317.52)
+  Vehicle ID: t_13, Speed: 13.5240657777794, Position: (-157.62255925499767, -320.72)
+  Vehicle ID: t_14, Speed: 15.568633835963668, Position: (44.817361656261085, -497.1125666198209)
+  Vehicle ID: t_15, Speed: 12.811744936082185, Position: (42.8, -5.784288063464146)
+  Vehicle ID: t_2, Speed: 14.019078309636326, Position: (46.0, 149.95658387869236)
+  Vehicle ID: t_3, Speed: 12.635925236296178, Position: (40.39223260167161, -681.7995235745105)
+  Vehicle ID: t_4, Speed: 0.0, Position: (28.677898062511133, -320.72)
+  Vehicle ID: t_5, Speed: 0.8360285299011811, Position: (60.21963940787498, -317.52)
+  Vehicle ID: t_6, Speed: 14.405528611875594, Position: (46.0, -54.35457225885574)
+  Vehicle ID: t_7, Speed: 14.292314887141258, Position: (40.949366378121944, -597.8030792168194)
+  Vehicle ID: t_8, Speed: 0.0, Position: (21.176843253796278, -320.72)
+  Vehicle ID: t_9, Speed: 11.602549939239383, Position: (190.1574622839862, -317.52)
+----------------------------------------
+
+Step: 84
+Congestion Level: 16
+Avg Wait Time: 5.0
+Total Stops: 4
+vehicle Data:
+  Vehicle ID: t_0, Speed: 0.0, Position: (36.17895772265172, -320.72)
+  Vehicle ID: t_1, Speed: 0.0, Position: (52.6009932989665, -317.52)
+  Vehicle ID: t_10, Speed: 14.157470241337984, Position: (45.65768970557499, -370.42025102173034)
+  Vehicle ID: t_11, Speed: 14.821226940115125, Position: (42.8, -303.95437277421127)
+  Vehicle ID: t_12, Speed: 14.204130577217281, Position: (233.20218720579123, -317.52)
+  Vehicle ID: t_13, Speed: 13.43471722298193, Position: (-144.18784203201574, -320.72)
+  Vehicle ID: t_14, Speed: 15.236981231268258, Position: (44.918423617231916, -481.87592913671926)
+  Vehicle ID: t_15, Speed: 12.76777343739909, Position: (42.8, -18.55180669577348)
+  Vehicle ID: t_2, Speed: 13.919088780589163, Position: (46.0, 163.87539487751457)
+  Vehicle ID: t_3, Speed: 12.932550188012689, Position: (40.30645518536344, -694.7317820026037)
+  Vehicle ID: t_4, Speed: 0.0, Position: (28.677898062511133, -320.72)
+  Vehicle ID: t_5, Speed: 0.10587297382780743, Position: (60.11376828549112, -317.52)
+  Vehicle ID: t_6, Speed: 14.19017656836611, Position: (46.0, -40.164678882326655)
+  Vehicle ID: t_7, Speed: 14.21124073136729, Position: (40.8551078216309, -612.0139993408516)
+  Vehicle ID: t_8, Speed: 0.0, Position: (21.176843253796278, -320.72)
+  Vehicle ID: t_9, Speed: 11.870780474795014, Position: (178.2868893983853, -317.52)
+----------------------------------------
+
+Step: 85
+Congestion Level: 16
+Avg Wait Time: 5.3125
+Total Stops: 5
+vehicle Data:
+  Vehicle ID: t_0, Speed: 0.0, Position: (36.17895772265172, -320.72)
+  Vehicle ID: t_1, Speed: 0.0, Position: (52.6009932989665, -317.52)
+  Vehicle ID: t_10, Speed: 14.034358181208342, Position: (45.750775057406315, -356.38620945736494)
+  Vehicle ID: t_11, Speed: 15.059602661148787, Position: (42.775385786040886, -319.0138164630163)
+  Vehicle ID: t_12, Speed: 14.340960839777678, Position: (218.86147715226218, -317.52)
+  Vehicle ID: t_13, Speed: 13.611408872556716, Position: (-130.57643315945904, -320.72)
+  Vehicle ID: t_14, Speed: 15.385788394804807, Position: (45.020472567917125, -466.4904878471889)
+  Vehicle ID: t_15, Speed: 12.502887114688427, Position: (42.8, -31.0544442916802)
+  Vehicle ID: t_2, Speed: 13.687402152631194, Position: (46.0, 177.56252387212402)
+  Vehicle ID: t_3, Speed: 12.920488574121416, Position: (40.22075776983324, -707.6519790889173)
+  Vehicle ID: t_4, Speed: 0.0, Position: (28.677898062511133, -320.72)
+  Vehicle ID: t_5, Speed: 0.006605122625788113, Position: (60.107163278371786, -317.52)
+  Vehicle ID: t_6, Speed: 14.290326698682726, Position: (46.0, -25.874637374166355)
+  Vehicle ID: t_7, Speed: 13.945985141956628, Position: (40.76260861954329, -625.9596698596719)
+  Vehicle ID: t_8, Speed: 0.0, Position: (21.176843253796278, -320.72)
+  Vehicle ID: t_9, Speed: 11.764343220191062, Position: (166.5227519060765, -317.52)
+----------------------------------------
+
+Step: 86
+Congestion Level: 15
+Avg Wait Time: 6.0
+Total Stops: 5
+vehicle Data:
+  Vehicle ID: t_0, Speed: 0.0, Position: (36.17895772265172, -320.72)
+  Vehicle ID: t_1, Speed: 0.0, Position: (52.6009932989665, -317.52)
+  Vehicle ID: t_10, Speed: 13.907257008794666, Position: (45.843017388331404, -342.4792661979952)
+  Vehicle ID: t_11, Speed: 15.131631231491596, Position: (42.69816266700841, -334.14527137704874)
+  Vehicle ID: t_12, Speed: 14.271768616713077, Position: (204.589958111805, -317.52)
+  Vehicle ID: t_13, Speed: 13.390853424117743, Position: (-117.18557973534132, -320.72)
+  Vehicle ID: t_14, Speed: 15.383833278357745, Position: (45.12250855094824, -451.10700162999785)
+  Vehicle ID: t_15, Speed: 12.700360434122057, Position: (42.8, -43.754551266066585)
+  Vehicle ID: t_3, Speed: 12.75800021034506, Position: (40.136138086987025, -720.4096914772119)
+  Vehicle ID: t_4, Speed: 0.0, Position: (28.677898062511133, -320.72)
+  Vehicle ID: t_5, Speed: 0.004851497539602647, Position: (60.10231186567239, -317.52)
+  Vehicle ID: t_6, Speed: 14.488815642985971, Position: (46.0, -11.386110882925436)
+  Vehicle ID: t_7, Speed: 14.017201536895156, Position: (40.66963706217635, -639.9765551667801)
+  Vehicle ID: t_8, Speed: 0.0, Position: (21.176843253796278, -320.72)
+  Vehicle ID: t_9, Speed: 11.88418881773016, Position: (154.63877091201766, -317.52)
+----------------------------------------
+
+Step: 87
+Congestion Level: 15
+Avg Wait Time: 6.333333333333333
+Total Stops: 5
+vehicle Data:
+  Vehicle ID: t_0, Speed: 0.0, Position: (36.17895772265172, -320.72)
+  Vehicle ID: t_1, Speed: 0.0, Position: (52.6009932989665, -317.52)
+  Vehicle ID: t_10, Speed: 9.407257008794666, Position: (45.90541267688859, -333.0722214180731)
+  Vehicle ID: t_11, Speed: 14.892031786960693, Position: (42.59938864396626, -349.03696719794465)
+  Vehicle ID: t_12, Speed: 14.380613642479718, Position: (190.2095959489987, -317.52)
+  Vehicle ID: t_13, Speed: 13.59542836093235, Position: (-103.59015137440895, -320.72)
+  Vehicle ID: t_14, Speed: 15.362091214876385, Position: (45.224400325914935, -435.7452569857846)
+  Vehicle ID: t_15, Speed: 12.494879410966904, Position: (42.8, -56.249181318060664)
+  Vehicle ID: t_3, Speed: 12.763167893372744, Position: (40.05148412857319, -733.1725714319505)
+  Vehicle ID: t_4, Speed: 0.0, Position: (28.677898062511133, -320.72)
+  Vehicle ID: t_5, Speed: 0.0003073739063878963, Position: (60.10200449714114, -317.52)
+  Vehicle ID: t_6, Speed: 14.44626814005849, Position: (46.0, 3.0598689545038837)
+  Vehicle ID: t_7, Speed: 13.920679157601118, Position: (40.5773057064859, -653.896920272151)
+  Vehicle ID: t_8, Speed: 0.0, Position: (21.176843253796278, -320.72)
+  Vehicle ID: t_9, Speed: 11.549084668802083, Position: (143.08988820678348, -317.52)
+----------------------------------------
+
+Step: 88
+Congestion Level: 15
+Avg Wait Time: 6.666666666666667
+Total Stops: 5
+vehicle Data:
+  Vehicle ID: t_0, Speed: 0.0, Position: (36.17895772265172, -320.72)
+  Vehicle ID: t_1, Speed: 0.0, Position: (52.6009932989665, -317.52)
+  Vehicle ID: t_10, Speed: 4.952469443630666, Position: (45.93826080251299, -328.11986370276094)
+  Vehicle ID: t_11, Speed: 15.003328512885751, Position: (42.49987642579208, -364.03995723389784)
+  Vehicle ID: t_12, Speed: 14.291111654430122, Position: (175.9187342090841, -317.52)
+  Vehicle ID: t_13, Speed: 13.494422328778386, Position: (-90.09572904563055, -320.72)
+  Vehicle ID: t_14, Speed: 15.494807926300675, Position: (45.32717236783914, -420.25079862425235)
+  Vehicle ID: t_15, Speed: 12.671115447014243, Position: (42.8, -68.92004388897831)
+  Vehicle ID: t_3, Speed: 12.787961315315485, Position: (39.96666572342265, -745.9602442492893)
+  Vehicle ID: t_4, Speed: 0.0, Position: (28.677898062511133, -320.72)
+  Vehicle ID: t_5, Speed: 0.0, Position: (60.10200449714114, -317.52)
+  Vehicle ID: t_6, Speed: 14.323793381265821, Position: (46.0, 17.38337647735625)
+  Vehicle ID: t_7, Speed: 14.243569835462987, Position: (40.48283272151938, -668.1401687709304)
+  Vehicle ID: t_8, Speed: 0.0, Position: (21.176843253796278, -320.72)
+  Vehicle ID: t_9, Speed: 11.870469919787705, Position: (131.2196258707591, -317.52)
+----------------------------------------
+
+Step: 89
+Congestion Level: 15
+Avg Wait Time: 7.0
+Total Stops: 5
+vehicle Data:
+  Vehicle ID: t_0, Speed: 0.0, Position: (36.17895772265172, -320.72)
+  Vehicle ID: t_1, Speed: 0.0, Position: (52.6009932989665, -317.52)
+  Vehicle ID: t_10, Speed: 0.7390844538373589, Position: (45.94316291029236, -327.38079592275955)
+  Vehicle ID: t_11, Speed: 15.034914779381038, Position: (42.40015470614361, -379.0745328237563)
+  Vehicle ID: t_12, Speed: 14.415990139930933, Position: (161.5029961674698, -317.52)
+  Vehicle ID: t_13, Speed: 13.756863033891499, Position: (-76.33886601173907, -320.72)
+  Vehicle ID: t_14, Speed: 15.454225632469864, Position: (45.42967524055371, -404.7969216410095)
+  Vehicle ID: t_15, Speed: 12.758325065757752, Position: (42.8, -81.67811433820643)
+  Vehicle ID: t_3, Speed: 12.917284970123589, Position: (39.88098955636006, -758.8772378038786)
+  Vehicle ID: t_4, Speed: 0.0, Position: (28.677898062511133, -320.72)
+  Vehicle ID: t_5, Speed: 0.00013499013196154855, Position: (60.10186950936986, -317.52)
+  Vehicle ID: t_6, Speed: 14.520645430590482, Position: (46.0, 31.90373212097802)
+  Vehicle ID: t_7, Speed: 13.987100155466615, Position: (40.390060816865066, -682.1269533757009)
+  Vehicle ID: t_8, Speed: 0.0, Position: (21.176843253796278, -320.72)
+  Vehicle ID: t_9, Speed: 11.724305000351727, Position: (119.49552589812492, -317.52)
+----------------------------------------
+
+Step: 90
+Congestion Level: 14
+Avg Wait Time: 2.7142857142857144
+Total Stops: 4
+vehicle Data:
+  Vehicle ID: t_0, Speed: 0.5666789211332799, Position: (36.74563664378502, -320.72)
+  Vehicle ID: t_1, Speed: 0.7122729252092541, Position: (51.88873282956524, -317.52)
+  Vehicle ID: t_10, Speed: 0.020885876372073304, Position: (45.94330143954502, -327.35991051757543)
+  Vehicle ID: t_11, Speed: 14.984013597571433, Position: (42.30077059754627, -394.058208380142)
+  Vehicle ID: t_12, Speed: 14.380592087391257, Position: (147.12265555937495, -317.52)
+  Vehicle ID: t_13, Speed: 13.460411408477306, Position: (-62.87845460326179, -320.72)
+  Vehicle ID: t_14, Speed: 15.311018094248832, Position: (45.531228264054796, -389.48624896520795)
+  Vehicle ID: t_15, Speed: 12.662500002506793, Position: (42.8, -94.3403616365542)
+  Vehicle ID: t_4, Speed: 0.0, Position: (28.677898062511133, -320.72)
+  Vehicle ID: t_5, Speed: 0.0, Position: (60.10186950936986, -317.52)
+  Vehicle ID: t_6, Speed: 14.19767756769386, Position: (46.0, 46.10112634713823)
+  Vehicle ID: t_7, Speed: 14.08603626350072, Position: (40.29663270105337, -696.2126718564948)
+  Vehicle ID: t_8, Speed: 0.0, Position: (21.176843253796278, -320.72)
+  Vehicle ID: t_9, Speed: 11.66002282054162, Position: (107.83570698117205, -317.52)
+----------------------------------------
+
+Step: 91
+Congestion Level: 14
+Avg Wait Time: 1.0714285714285714
+Total Stops: 2
+vehicle Data:
+  Vehicle ID: t_0, Speed: 1.3306779763661327, Position: (38.076314620151145, -320.72)
+  Vehicle ID: t_1, Speed: 1.2395494733937085, Position: (50.64918840544883, -317.52)
+  Vehicle ID: t_10, Speed: 0.00586782992847844, Position: (45.943340358960235, -327.35404282002594)
+  Vehicle ID: t_11, Speed: 15.08910398147735, Position: (42.200689458473164, -409.1469719495817)
+  Vehicle ID: t_12, Speed: 14.539513259302318, Position: (132.58339655848857, -317.52)
+  Vehicle ID: t_13, Speed: 13.544548520845204, Position: (-49.333906082416604, -320.72)
+  Vehicle ID: t_14, Speed: 15.413707064293087, Position: (45.63346239023136, -374.0728896360379)
+  Vehicle ID: t_15, Speed: 12.530584813553514, Position: (42.8, -106.87069637856595)
+  Vehicle ID: t_4, Speed: 0.4392492791565292, Position: (29.117147341667646, -320.72)
+  Vehicle ID: t_5, Speed: 0.6799212685542848, Position: (59.42196013087687, -317.52)
+  Vehicle ID: t_6, Speed: 14.20859438599971, Position: (46.0, 60.30943717373856)
+  Vehicle ID: t_7, Speed: 14.119079882373482, Position: (40.20298541762112, -710.3314332106934)
+  Vehicle ID: t_8, Speed: 0.0, Position: (21.176843253796278, -320.72)
+  Vehicle ID: t_9, Speed: 11.550562493978052, Position: (96.28534647660524, -317.52)
+----------------------------------------
+
+Step: 92
+Congestion Level: 14
+Avg Wait Time: 0.21428571428571427
+Total Stops: 1
+vehicle Data:
+  Vehicle ID: t_0, Speed: 2.050688817445189, Position: (40.127003437596336, -320.72)
+  Vehicle ID: t_1, Speed: 2.0384282981976867, Position: (48.610760107251146, -317.52)
+  Vehicle ID: t_10, Speed: 0.0023069436798661895, Position: (45.943355660170404, -327.35173592839095)
+  Vehicle ID: t_11, Speed: 14.848227407687487, Position: (42.10220597568969, -423.9948643794366)
+  Vehicle ID: t_12, Speed: 14.477686197511344, Position: (118.10596353819813, -317.52)
+  Vehicle ID: t_13, Speed: 13.74920924839455, Position: (-35.584696834022054, -320.72)
+  Vehicle ID: t_14, Speed: 15.577455733451755, Position: (45.73678260828927, -358.49578533189924)
+  Vehicle ID: t_15, Speed: 12.681204932640911, Position: (42.8, -119.55164823375551)
+  Vehicle ID: t_4, Speed: 0.8428862637767726, Position: (29.960033605444437, -320.72)
+  Vehicle ID: t_5, Speed: 0.948475398210143, Position: (58.47350131904409, -317.52)
+  Vehicle ID: t_6, Speed: 14.349250130913676, Position: (46.0, 74.65840093820111)
+  Vehicle ID: t_7, Speed: 14.267428858020724, Position: (40.10835418348635, -724.598540193768)
+  Vehicle ID: t_8, Speed: 0.26221163534401426, Position: (21.439054889140266, -320.72)
+  Vehicle ID: t_9, Speed: 11.536278345538289, Position: (84.74926987068545, -317.52)
+----------------------------------------
+
+Step: 93
+Congestion Level: 14
+Avg Wait Time: 0.2857142857142857
+Total Stops: 1
+vehicle Data:
+  Vehicle ID: t_0, Speed: 2.494223621301353, Position: (42.62122705889769, -320.72)
+  Vehicle ID: t_1, Speed: 2.713873835466802, Position: (45.89688627178434, -317.52)
+  Vehicle ID: t_10, Speed: 0.000695855615061266, Position: (45.9433602755553, -327.3510400884746)
+  Vehicle ID: t_11, Speed: 14.972024257478447, Position: (42.00290138850162, -438.9665508662103)
+  Vehicle ID: t_12, Speed: 14.415068319268018, Position: (103.69114730112653, -317.52)
+  Vehicle ID: t_13, Speed: 13.493084818617284, Position: (-22.09161201540479, -320.72)
+  Vehicle ID: t_14, Speed: 12.22542563063678, Position: (45.8178698964589, -346.2706355083651)
+  Vehicle ID: t_15, Speed: 12.811708703536214, Position: (42.8, -132.3631012553906)
+  Vehicle ID: t_4, Speed: 1.329825648378783, Position: (31.289859253823238, -320.72)
+  Vehicle ID: t_5, Speed: 1.6195164564934423, Position: (56.85401318369736, -317.52)
+  Vehicle ID: t_6, Speed: 14.445139789115162, Position: (46.0, 89.10325244720553)
+  Vehicle ID: t_7, Speed: 14.053989802395373, Position: (40.015138621470726, -738.6522129364287)
+  Vehicle ID: t_8, Speed: 0.8469431769900203, Position: (22.285998066130276, -320.72)
+  Vehicle ID: t_9, Speed: 10.36288690056846, Position: (74.38656419015933, -317.52)
+----------------------------------------
+
+Step: 94
+Congestion Level: 14
+Avg Wait Time: 0.35714285714285715
+Total Stops: 1
+vehicle Data:
+  Vehicle ID: t_0, Speed: 3.248563320282847, Position: (45.869790379180536, -320.72)
+  Vehicle ID: t_1, Speed: 3.231590757053345, Position: (42.665295514731, -317.52)
+  Vehicle ID: t_10, Speed: 0.0, Position: (45.9433602755553, -327.3510400884746)
+  Vehicle ID: t_11, Speed: 15.059562406965675, Position: (41.90301618912319, -454.0257735275999)
+  Vehicle ID: t_12, Speed: 13.958035066032483, Position: (89.73335632496298, -317.52)
+  Vehicle ID: t_13, Speed: 13.427303829443485, Position: (-8.664308185961318, -320.72)
+  Vehicle ID: t_14, Speed: 7.726700225803034, Position: (45.8691185962375, -338.5441095978674)
+  Vehicle ID: t_15, Speed: 12.554268773357988, Position: (42.8, -144.91711948454858)
+  Vehicle ID: t_4, Speed: 1.7666999113673503, Position: (33.056559165190606, -320.72)
+  Vehicle ID: t_5, Speed: 2.281419134692555, Position: (54.57263394511449, -317.52)
+  Vehicle ID: t_6, Speed: 14.202063482906194, Position: (46.0, 103.30503250104886)
+  Vehicle ID: t_7, Speed: 14.125306628273249, Position: (39.92145003804988, -752.7772008960508)
+  Vehicle ID: t_8, Speed: 1.407254833720855, Position: (23.69325289985113, -320.72)
+  Vehicle ID: t_9, Speed: 7.2522467957983965, Position: (67.13444421736722, -317.52)
+----------------------------------------
+
+Step: 95
+Congestion Level: 14
+Avg Wait Time: 0.42857142857142855
+Total Stops: 1
+vehicle Data:
+  Vehicle ID: t_0, Speed: 3.821139019727707, Position: (49.69092939890824, -320.72)
+  Vehicle ID: t_1, Speed: 3.7686573070473965, Position: (38.8966382076836, -317.52)
+  Vehicle ID: t_10, Speed: 0.0, Position: (45.9433602755553, -327.3510400884746)
+  Vehicle ID: t_11, Speed: 14.842466490526826, Position: (41.80457091663719, -468.8679051702611)
+  Vehicle ID: t_12, Speed: 10.284962779210991, Position: (79.4485734031033, -317.52)
+  Vehicle ID: t_13, Speed: 12.43998959904154, Position: (3.7756814130802354, -320.72)
+  Vehicle ID: t_14, Speed: 3.391490311692438, Position: (45.89161325290937, -335.1526957986127)
+  Vehicle ID: t_15, Speed: 12.514259839888336, Position: (42.8, -157.43112957869093)
+  Vehicle ID: t_4, Speed: 2.1776716610344287, Position: (35.23423082622503, -320.72)
+  Vehicle ID: t_5, Speed: 2.830740107403403, Position: (51.741943340021294, -317.52)
+  Vehicle ID: t_6, Speed: 14.406531533691556, Position: (46.0, 117.71127652513053)
+  Vehicle ID: t_7, Speed: 14.100053295308173, Position: (39.827928951806584, -766.8769360924261)
+  Vehicle ID: t_8, Speed: 1.5657653655784536, Position: (25.259018265429575, -320.72)
+  Vehicle ID: t_9, Speed: 4.387745186226424, Position: (62.74677576143574, -317.52)
+----------------------------------------
+
+Step: 96
+Congestion Level: 13
+Avg Wait Time: 0.5384615384615384
+Total Stops: 1
+vehicle Data:
+  Vehicle ID: t_0, Speed: 4.529455421492457, Position: (54.220338996659436, -320.72)
+  Vehicle ID: t_1, Speed: 4.295565292891115, Position: (34.60107291479249, -317.52)
+  Vehicle ID: t_10, Speed: 0.0, Position: (45.9433602755553, -327.3510400884746)
+  Vehicle ID: t_11, Speed: 15.13472123974669, Position: (41.70418721306625, -484.00228496883915)
+  Vehicle ID: t_12, Speed: 6.5074710926653205, Position: (72.94121610924697, -317.52)
+  Vehicle ID: t_13, Speed: 9.029538692603507, Position: (12.805220105683759, -320.72)
+  Vehicle ID: t_14, Speed: 0.16735730705719287, Position: (45.892723279717, -334.9853422671568)
+  Vehicle ID: t_15, Speed: 12.541198021817625, Position: (42.8, -169.97207731716017)
+  Vehicle ID: t_4, Speed: 2.9293386705147264, Position: (38.16356949673973, -320.72)
+  Vehicle ID: t_5, Speed: 3.4244458039228673, Position: (48.31750001836313, -317.52)
+  Vehicle ID: t_6, Speed: 14.140482620894433, Position: (46.0, 131.85147694592473)
+  Vehicle ID: t_8, Speed: 2.3320897168407546, Position: (27.59110798227033, -320.72)
+  Vehicle ID: t_9, Speed: 3.2145462005391883, Position: (59.53228577498089, -317.52)
+----------------------------------------
+
+Step: 97
+Congestion Level: 13
+Avg Wait Time: 0.6153846153846154
+Total Stops: 1
+vehicle Data:
+  Vehicle ID: t_0, Speed: 5.296455262135714, Position: (59.51670163751538, -320.72)
+  Vehicle ID: t_1, Speed: 4.736749840248375, Position: (29.86432307454411, -317.52)
+  Vehicle ID: t_10, Speed: 0.0, Position: (45.9433602755553, -327.3510400884746)
+  Vehicle ID: t_11, Speed: 15.140494796631069, Position: (41.60376521536265, -499.1424381940495)
+  Vehicle ID: t_12, Speed: 5.184261925967836, Position: (67.75704484258813, -317.52)
+  Vehicle ID: t_13, Speed: 5.6833201697289715, Position: (18.48854027541273, -320.72)
+  Vehicle ID: t_14, Speed: 0.12483670244442215, Position: (45.89355128112743, -334.8605083810437)
+  Vehicle ID: t_15, Speed: 12.675626222967775, Position: (42.8, -182.64745057401032)
+  Vehicle ID: t_4, Speed: 3.574993663739616, Position: (41.73856316047935, -320.72)
+  Vehicle ID: t_5, Speed: 3.8456332797122057, Position: (44.47186673865092, -317.52)
+  Vehicle ID: t_6, Speed: 14.354181227273763, Position: (46.0, 146.20537170833808)
+  Vehicle ID: t_8, Speed: 2.79153631999361, Position: (30.38264430226394, -320.72)
+  Vehicle ID: t_9, Speed: 3.4461574006762694, Position: (56.08618863866877, -317.52)
+----------------------------------------
+
+Step: 98
+Congestion Level: 13
+Avg Wait Time: 0.7692307692307693
+Total Stops: 2
+vehicle Data:
+  Vehicle ID: t_0, Speed: 5.869742707256227, Position: (65.38634169817978, -320.72)
+  Vehicle ID: t_1, Speed: 5.536594131030141, Position: (24.32772894351397, -317.52)
+  Vehicle ID: t_10, Speed: 0.0, Position: (45.9433602755553, -327.3510400884746)
+  Vehicle ID: t_11, Speed: 15.049410472248823, Position: (41.50394735047881, -514.191509149751)
+  Vehicle ID: t_12, Speed: 4.1090590193641665, Position: (63.64805768001986, -317.52)
+  Vehicle ID: t_13, Speed: 4.192866002221557, Position: (22.681406277634267, -320.72)
+  Vehicle ID: t_14, Speed: 0.004537068088799349, Position: (45.893581374030425, -334.8559714153117)
+  Vehicle ID: t_15, Speed: 12.607475924763502, Position: (42.8, -195.25467489272435)
+  Vehicle ID: t_4, Speed: 4.01694355690127, Position: (45.75550671738062, -320.72)
+  Vehicle ID: t_5, Speed: 4.52577847157911, Position: (39.94608826707181, -317.52)
+  Vehicle ID: t_6, Speed: 14.441456994693251, Position: (46.0, 160.64654049641769)
+  Vehicle ID: t_8, Speed: 3.374720454674388, Position: (33.75736475693833, -320.72)
+  Vehicle ID: t_9, Speed: 4.060081755922444, Position: (52.0261778830569, -317.52)
+----------------------------------------
+
+Step: 99
+Congestion Level: 13
+Avg Wait Time: 0.9230769230769231
+Total Stops: 2
+vehicle Data:
+  Vehicle ID: t_0, Speed: 6.654020837321877, Position: (72.04024617391734, -320.72)
+  Vehicle ID: t_1, Speed: 6.205220021773129, Position: (18.12250892174084, -317.52)
+  Vehicle ID: t_10, Speed: 0.0, Position: (45.9433602755553, -327.3510400884746)
+  Vehicle ID: t_11, Speed: 14.899836216584923, Position: (41.40512156318296, -529.0910092242024)
+  Vehicle ID: t_12, Speed: 4.077996972196956, Position: (59.57013202142423, -317.52)
+  Vehicle ID: t_13, Speed: 3.3286021993422983, Position: (26.010008476976566, -320.72)
+  Vehicle ID: t_14, Speed: 0.002166873927315638, Position: (45.89359574620329, -334.85380459026936)
+  Vehicle ID: t_15, Speed: 12.552444625172438, Position: (42.8, -207.8068690101011)
+  Vehicle ID: t_4, Speed: 4.5598210827375, Position: (50.315327800118126, -320.72)
+  Vehicle ID: t_5, Speed: 5.014657773536896, Position: (34.93143049353491, -317.52)
+  Vehicle ID: t_6, Speed: 14.194751184619488, Position: (46.0, 174.84100839790506)
+  Vehicle ID: t_8, Speed: 4.078218866225505, Position: (37.83558362316381, -320.72)
+  Vehicle ID: t_9, Speed: 4.163106333411585, Position: (47.86307900252255, -317.52)
+----------------------------------------
+
+Step: 100
+Congestion Level: 12
+Avg Wait Time: 1.1666666666666667
+Total Stops: 2
+vehicle Data:
+  Vehicle ID: t_0, Speed: 7.335052397288381, Position: (79.37517030014392, -320.72)
+  Vehicle ID: t_1, Speed: 6.9517157146707165, Position: (11.170793207070126, -317.52)
+  Vehicle ID: t_10, Speed: 0.0, Position: (45.9433602755553, -327.3510400884746)
+  Vehicle ID: t_11, Speed: 14.906713410650523, Position: (41.30625016168651, -543.9973863375689)
+  Vehicle ID: t_12, Speed: 3.911538802407084, Position: (55.65866162169618, -317.52)
+  Vehicle ID: t_13, Speed: 4.021661074731695, Position: (30.031669551708262, -320.72)
+  Vehicle ID: t_14, Speed: 0.0010761115183146415, Position: (45.89360288370242, -334.85272850302823)
+  Vehicle ID: t_15, Speed: 12.744612976900907, Position: (42.8, -220.5512276441231)
+  Vehicle ID: t_4, Speed: 5.013682446807826, Position: (55.32894503619835, -320.72)
+  Vehicle ID: t_5, Speed: 5.641075625264351, Position: (29.290354868270562, -317.52)
+  Vehicle ID: t_8, Speed: 4.426462302861977, Position: (42.262045926025785, -320.72)
+  Vehicle ID: t_9, Speed: 4.932414168159764, Position: (42.93066483436278, -317.52)
+----------------------------------------
+
+Step: 101
+Congestion Level: 12
+Avg Wait Time: 1.3333333333333333
+Total Stops: 2
+vehicle Data:
+  Vehicle ID: t_0, Speed: 8.084405020158737, Position: (87.45943394500503, -320.72)
+  Vehicle ID: t_1, Speed: 7.696571964584289, Position: (3.4742212424858394, -317.52)
+  Vehicle ID: t_10, Speed: 0.0, Position: (45.9433602755553, -327.3510400884746)
+  Vehicle ID: t_11, Speed: 14.974259014145614, Position: (41.20693075208134, -558.9713075305934)
+  Vehicle ID: t_12, Speed: 4.52195045309454, Position: (51.136782145318854, -317.52)
+  Vehicle ID: t_13, Speed: 4.4257054597801595, Position: (34.45737501148841, -320.72)
+  Vehicle ID: t_14, Speed: 0.0004620063547342199, Position: (45.89360594804092, -334.8522665070965)
+  Vehicle ID: t_15, Speed: 12.702068398326308, Position: (42.8, -233.25304254862814)
+  Vehicle ID: t_4, Speed: 5.704102850325608, Position: (61.032948136544064, -320.72)
+  Vehicle ID: t_5, Speed: 6.094745712441657, Position: (23.195609155828905, -317.52)
+  Vehicle ID: t_8, Speed: 4.904856347611416, Position: (47.1669022736372, -320.72)
+  Vehicle ID: t_9, Speed: 5.461923544335465, Position: (37.46874129002731, -317.52)
+----------------------------------------
+
+Step: 102
+Congestion Level: 12
+Avg Wait Time: 1.5
+Total Stops: 2
+vehicle Data:
+  Vehicle ID: t_0, Speed: 8.58478716891259, Position: (96.04407098823265, -320.72)
+  Vehicle ID: t_1, Speed: 8.113746123388408, Position: (-4.63952488090257, -317.52)
+  Vehicle ID: t_10, Speed: 0.0, Position: (45.9433602755553, -327.3510400884746)
+  Vehicle ID: t_11, Speed: 14.810389921997817, Position: (41.108698233084205, -573.781363328377)
+  Vehicle ID: t_12, Speed: 5.012098579521624, Position: (46.12468356579723, -317.52)
+  Vehicle ID: t_13, Speed: 4.675606768557632, Position: (39.13298178004606, -320.72)
+  Vehicle ID: t_14, Speed: 0.00028861665174766365, Position: (45.89360786234168, -334.85197789695593)
+  Vehicle ID: t_15, Speed: 12.681140735085727, Position: (42.8, -245.93393020754368)
+  Vehicle ID: t_4, Speed: 6.489482387427443, Position: (67.52231703973837, -320.72)
+  Vehicle ID: t_5, Speed: 6.703821747650657, Position: (16.491787408178247, -317.52)
+  Vehicle ID: t_8, Speed: 5.64463677587198, Position: (52.81151786283022, -320.72)
+  Vehicle ID: t_9, Speed: 6.081697344913433, Position: (31.38704394511388, -317.52)
+----------------------------------------
+
+Step: 103
+Congestion Level: 12
+Avg Wait Time: 1.6666666666666667
+Total Stops: 2
+vehicle Data:
+  Vehicle ID: t_0, Speed: 9.277396935410797, Position: (105.32130568600817, -320.72)
+  Vehicle ID: t_1, Speed: 8.529156976286322, Position: (-13.168681857188894, -317.52)
+  Vehicle ID: t_10, Speed: 0.0, Position: (45.9433602755553, -327.3510400884746)
+  Vehicle ID: t_11, Speed: 14.761703694422872, Position: (41.010788634064205, -588.5427339969528)
+  Vehicle ID: t_12, Speed: 5.69682434633687, Position: (40.42785921946036, -317.52)
+  Vehicle ID: t_13, Speed: 5.338736928885632, Position: (44.4717187089317, -320.72)
+  Vehicle ID: t_14, Speed: 0.0, Position: (45.89360786234168, -334.85197789695593)
+  Vehicle ID: t_15, Speed: 12.863641750152826, Position: (42.8, -258.7973152393731)
+  Vehicle ID: t_4, Speed: 7.287039975162798, Position: (74.80922958345224, -320.72)
+  Vehicle ID: t_5, Speed: 7.4512346801285485, Position: (9.040552728049697, -317.52)
+  Vehicle ID: t_8, Speed: 6.101358465610313, Position: (58.91276963148919, -320.72)
+  Vehicle ID: t_9, Speed: 6.685327485616605, Position: (24.701716459497277, -317.52)
+----------------------------------------
+
+Step: 104
+Congestion Level: 12
+Avg Wait Time: 1.8333333333333333
+Total Stops: 2
+vehicle Data:
+  Vehicle ID: t_0, Speed: 9.770024781487882, Position: (115.09115961507612, -320.72)
+  Vehicle ID: t_1, Speed: 9.128991469740868, Position: (-22.29767332692976, -317.52)
+  Vehicle ID: t_10, Speed: 0.0, Position: (45.9433602755553, -327.3510400884746)
+  Vehicle ID: t_11, Speed: 14.919338125453473, Position: (40.911833496923855, -603.4617355403072)
+  Vehicle ID: t_12, Speed: 6.16773326931834, Position: (34.26012595014202, -317.52)
+  Vehicle ID: t_13, Speed: 5.964009820183569, Position: (50.435728529115266, -320.72)
+  Vehicle ID: t_14, Speed: 0.0, Position: (45.89360786234168, -334.85197789695593)
+  Vehicle ID: t_15, Speed: 12.678397951826126, Position: (42.8, -271.4754601697665)
+  Vehicle ID: t_4, Speed: 7.820308233138376, Position: (82.62940105966153, -320.72)
+  Vehicle ID: t_5, Speed: 7.994630238221292, Position: (1.0459224898284063, -317.52)
+  Vehicle ID: t_8, Speed: 6.6593846355958455, Position: (65.57203781170179, -320.72)
+  Vehicle ID: t_9, Speed: 7.201701632834325, Position: (17.50001482666295, -317.52)
+----------------------------------------
+
+Step: 105
+Congestion Level: 12
+Avg Wait Time: 2.0
+Total Stops: 2
+vehicle Data:
+  Vehicle ID: t_0, Speed: 10.26776530854404, Position: (125.35874536700803, -320.72)
+  Vehicle ID: t_1, Speed: 9.917381707951428, Position: (-32.21505503488118, -317.52)
+  Vehicle ID: t_10, Speed: 0.0, Position: (45.9433602755553, -327.3510400884746)
+  Vehicle ID: t_11, Speed: 15.000110861563266, Position: (40.81234262038865, -618.4615079975284)
+  Vehicle ID: t_12, Speed: 6.719674196414052, Position: (27.540451753727965, -317.52)
+  Vehicle ID: t_13, Speed: 6.510022804492914, Position: (56.945657850267835, -320.72)
+  Vehicle ID: t_14, Speed: 0.0, Position: (45.89360786234168, -334.85197789695593)
+  Vehicle ID: t_15, Speed: 12.697808883331389, Position: (42.8, -284.1730156442833)
+  Vehicle ID: t_4, Speed: 8.603364633761549, Position: (91.23261524286639, -320.72)
+  Vehicle ID: t_5, Speed: 8.694815222074544, Position: (-7.648892732246139, -317.52)
+  Vehicle ID: t_8, Speed: 7.3536363020932844, Position: (72.92554551774894, -320.72)
+  Vehicle ID: t_9, Speed: 7.739834375719826, Position: (9.760180450943125, -317.52)
+----------------------------------------
+
+Step: 106
+Congestion Level: 12
+Avg Wait Time: 2.1666666666666665
+Total Stops: 2
+vehicle Data:
+  Vehicle ID: t_0, Speed: 10.858843025006356, Position: (136.2173984989844, -320.72)
+  Vehicle ID: t_1, Speed: 10.61031482536346, Position: (-42.82536986024464, -317.52)
+  Vehicle ID: t_10, Speed: 0.0, Position: (45.9433602755553, -327.3510400884746)
+  Vehicle ID: t_11, Speed: 14.770116309725822, Position: (40.714377223216346, -633.2312910916177)
+  Vehicle ID: t_12, Speed: 7.403152264043091, Position: (20.137299489684874, -317.52)
+  Vehicle ID: t_13, Speed: 7.055342223195189, Position: (64.00087669380747, -320.72)
+  Vehicle ID: t_14, Speed: 0.00010342839857128868, Position: (45.89360854834875, -334.8518744708907)
+  Vehicle ID: t_15, Speed: 12.598986181609005, Position: (42.8, -296.7717503892717)
+  Vehicle ID: t_4, Speed: 9.319411857791449, Position: (100.55186412829042, -320.72)
+  Vehicle ID: t_5, Speed: 9.404173906886285, Position: (-17.053066639132425, -317.52)
+  Vehicle ID: t_8, Speed: 8.064023422302919, Position: (80.98942792117555, -320.72)
+  Vehicle ID: t_9, Speed: 8.228254720050197, Position: (1.5319257308929295, -317.52)
+----------------------------------------
+
+Step: 107
+Congestion Level: 12
+Avg Wait Time: 2.3333333333333335
+Total Stops: 2
+vehicle Data:
+  Vehicle ID: t_0, Speed: 11.500692505855117, Position: (147.71788988752516, -320.72)
+  Vehicle ID: t_1, Speed: 11.324238083884124, Position: (-54.14960794412877, -317.52)
+  Vehicle ID: t_10, Speed: 0.0, Position: (45.9433602755553, -327.3510400884746)
+  Vehicle ID: t_11, Speed: 15.046793318630339, Position: (40.61457671706471, -648.2777449527441)
+  Vehicle ID: t_12, Speed: 8.044987064454107, Position: (12.092312425230766, -317.52)
+  Vehicle ID: t_13, Speed: 7.573334903528743, Position: (71.57407915933076, -320.72)
+  Vehicle ID: t_14, Speed: 0.0, Position: (45.89360854834875, -334.8518744708907)
+  Vehicle ID: t_15, Speed: 9.05213548842862, Position: (42.8, -305.8237052252)
+  Vehicle ID: t_4, Speed: 9.91581146055108, Position: (110.46750218699027, -320.72)
+  Vehicle ID: t_5, Speed: 9.89450347245977, Position: (-26.947570111592192, -317.52)
+  Vehicle ID: t_8, Speed: 8.858050459476429, Position: (89.84732347630008, -320.72)
+  Vehicle ID: t_9, Speed: 9.020025623164427, Position: (-7.488099892271499, -317.52)
+----------------------------------------
+
+Step: 108
+Congestion Level: 12
+Avg Wait Time: 2.5
+Total Stops: 2
+vehicle Data:
+  Vehicle ID: t_0, Speed: 12.280786613561217, Position: (159.99846174194718, -320.72)
+  Vehicle ID: t_1, Speed: 11.963944974355405, Position: (-66.11355291848417, -317.52)
+  Vehicle ID: t_10, Speed: 0.0, Position: (45.9433602755553, -327.3510400884746)
+  Vehicle ID: t_11, Speed: 14.893177499526324, Position: (40.51579509488223, -663.1705864603582)
+  Vehicle ID: t_12, Speed: 8.844168724718838, Position: (3.2481437005119247, -317.52)
+  Vehicle ID: t_13, Speed: 8.299356400200926, Position: (79.87329042529134, -320.72)
+  Vehicle ID: t_14, Speed: 0.0, Position: (45.89360854834875, -334.8518744708907)
+  Vehicle ID: t_15, Speed: 4.758786965292386, Position: (42.8, -310.5823972198896)
+  Vehicle ID: t_4, Speed: 10.35639464211857, Position: (120.8237157225993, -320.72)
+  Vehicle ID: t_5, Speed: 10.484132737287588, Position: (-37.43170284887979, -317.52)
+  Vehicle ID: t_8, Speed: 9.333197264692057, Position: (99.18035752755367, -320.72)
+  Vehicle ID: t_9, Speed: 9.630304161033882, Position: (-17.118404053305383, -317.52)
+----------------------------------------
+
+Step: 109
+Congestion Level: 12
+Avg Wait Time: 2.6666666666666665
+Total Stops: 2
+vehicle Data:
+  Vehicle ID: t_0, Speed: 12.910481185652321, Position: (172.9087171567338, -320.72)
+  Vehicle ID: t_1, Speed: 12.50552944168449, Position: (-78.61908236016865, -317.52)
+  Vehicle ID: t_10, Speed: 0.0, Position: (45.9433602755553, -327.3510400884746)
+  Vehicle ID: t_11, Speed: 14.804272788574131, Position: (40.417603148849636, -677.9745252627213)
+  Vehicle ID: t_12, Speed: 9.546418586972504, Position: (-6.298274886460582, -317.52)
+  Vehicle ID: t_13, Speed: 8.803954525923187, Position: (88.67709099286034, -320.72)
+  Vehicle ID: t_14, Speed: 0.0, Position: (45.89360854834875, -334.8518744708907)
+  Vehicle ID: t_15, Speed: 0.28072816892787117, Position: (42.8, -310.86311978635536)
+  Vehicle ID: t_4, Speed: 11.073439075790551, Position: (131.89696115263095, -320.72)
+  Vehicle ID: t_5, Speed: 11.217123399948038, Position: (-48.648826248827824, -317.52)
+  Vehicle ID: t_8, Speed: 9.925362390598526, Position: (109.10554634927993, -320.72)
+  Vehicle ID: t_9, Speed: 10.128255686576768, Position: (-27.246659739882155, -317.52)
+----------------------------------------
+
+Step: 110
+Congestion Level: 12
+Avg Wait Time: 2.9166666666666665
+Total Stops: 3
+vehicle Data:
+  Vehicle ID: t_0, Speed: 13.472133160382516, Position: (186.38061472441274, -320.72)
+  Vehicle ID: t_1, Speed: 13.133345672395087, Position: (-91.75242803256373, -317.52)
+  Vehicle ID: t_10, Speed: 0.0, Position: (45.9433602755553, -327.3510400884746)
+  Vehicle ID: t_11, Speed: 14.864732267053009, Position: (40.31901019468022, -692.8389221795901)
+  Vehicle ID: t_12, Speed: 10.267580510157496, Position: (-16.565855396618076, -317.52)
+  Vehicle ID: t_13, Speed: 9.569067602863367, Position: (98.24599125752415, -320.72)
+  Vehicle ID: t_14, Speed: 0.0, Position: (45.89360854834875, -334.8518744708907)
+  Vehicle ID: t_15, Speed: 0.03530724023429166, Position: (42.8, -310.8984263219668)
+  Vehicle ID: t_4, Speed: 11.406985209029317, Position: (143.30374688304371, -320.72)
+  Vehicle ID: t_5, Speed: 11.71155701483906, Position: (-60.36038326366688, -317.52)
+  Vehicle ID: t_8, Speed: 10.600011544341466, Position: (119.70537252688342, -320.72)
+  Vehicle ID: t_9, Speed: 10.581999878160016, Position: (-37.828659618042174, -317.52)
+----------------------------------------
+
+Step: 111
+Congestion Level: 12
+Avg Wait Time: 3.1666666666666665
+Total Stops: 3
+vehicle Data:
+  Vehicle ID: t_0, Speed: 14.210388790443547, Position: (200.5907550119745, -320.72)
+  Vehicle ID: t_1, Speed: 13.686353967618205, Position: (-105.43878200018193, -317.52)
+  Vehicle ID: t_10, Speed: 0.0, Position: (45.9433602755553, -327.3510400884746)
+  Vehicle ID: t_11, Speed: 14.805629191172452, Position: (40.22080925206855, -707.644217353951)
+  Vehicle ID: t_12, Speed: 11.065198156743646, Position: (-27.631053553361717, -317.52)
+  Vehicle ID: t_13, Speed: 10.233667854012754, Position: (108.4794801512009, -320.72)
+  Vehicle ID: t_14, Speed: 0.0, Position: (45.89360854834875, -334.8518744708907)
+  Vehicle ID: t_15, Speed: 0.018210579045050083, Position: (42.8, -310.9166365375853)
+  Vehicle ID: t_4, Speed: 11.267017480716259, Position: (154.57056733281635, -320.72)
+  Vehicle ID: t_5, Speed: 12.267041083079725, Position: (-72.62742434674661, -317.52)
+  Vehicle ID: t_8, Speed: 11.271449818222099, Position: (130.9766252366518, -320.72)
+  Vehicle ID: t_9, Speed: 11.317669640987472, Position: (-49.14632925902965, -317.52)
+----------------------------------------
+
+Step: 112
+Congestion Level: 12
+Avg Wait Time: 3.4166666666666665
+Total Stops: 3
+vehicle Data:
+  Vehicle ID: t_0, Speed: 14.56615656361133, Position: (215.15665685124753, -320.72)
+  Vehicle ID: t_1, Speed: 14.126730915252127, Position: (-119.56551291543406, -317.52)
+  Vehicle ID: t_10, Speed: 0.0, Position: (45.9433602755553, -327.3510400884746)
+  Vehicle ID: t_11, Speed: 14.929721771550508, Position: (40.12178524356709, -722.573602309146)
+  Vehicle ID: t_12, Speed: 11.778395693417044, Position: (-39.409449246778756, -317.52)
+  Vehicle ID: t_13, Speed: 10.794010377188979, Position: (119.27330176911497, -320.72)
+  Vehicle ID: t_14, Speed: 0.0, Position: (45.89360854834875, -334.8518744708907)
+  Vehicle ID: t_15, Speed: 0.0014678308470203317, Position: (42.8, -310.91810433913895)
+  Vehicle ID: t_4, Speed: 11.302161350179613, Position: (165.8725310374771, -320.72)
+  Vehicle ID: t_5, Speed: 12.111818256349265, Position: (-84.73924260309587, -317.52)
+  Vehicle ID: t_8, Speed: 11.77576013583901, Position: (142.75217944495625, -320.72)
+  Vehicle ID: t_9, Speed: 11.858918686686069, Position: (-61.005247945715716, -317.52)
+----------------------------------------
+
+Step: 113
+Congestion Level: 12
+Avg Wait Time: 3.6666666666666665
+Total Stops: 3
+vehicle Data:
+  Vehicle ID: t_0, Speed: 14.537858360988649, Position: (229.69426098276006, -320.72)
+  Vehicle ID: t_1, Speed: 14.764443316776314, Position: (-134.32995623221038, -317.52)
+  Vehicle ID: t_10, Speed: 0.0, Position: (45.9433602755553, -327.3510400884746)
+  Vehicle ID: t_11, Speed: 15.110612710376413, Position: (40.021561444062264, -737.6838741222452)
+  Vehicle ID: t_12, Speed: 12.481467035266908, Position: (-51.89091628204566, -317.52)
+  Vehicle ID: t_13, Speed: 11.542281337527394, Position: (130.81538126204705, -320.72)
+  Vehicle ID: t_14, Speed: 0.0, Position: (45.89360854834875, -334.8518744708907)
+  Vehicle ID: t_15, Speed: 0.00046062310394787777, Position: (42.8, -310.91856495305035)
+  Vehicle ID: t_4, Speed: 11.195315574467331, Position: (177.06765083488136, -320.72)
+  Vehicle ID: t_5, Speed: 12.060918114826977, Position: (-96.80016071792286, -317.52)
+  Vehicle ID: t_8, Speed: 12.39408890310886, Position: (155.14605160756247, -320.72)
+  Vehicle ID: t_9, Speed: 11.603280164869487, Position: (-72.60852811058521, -317.52)
+----------------------------------------
+
+Step: 114
+Congestion Level: 12
+Avg Wait Time: 3.9166666666666665
+Total Stops: 3
+vehicle Data:
+  Vehicle ID: t_0, Speed: 14.467332101409884, Position: (244.16134008801538, -320.72)
+  Vehicle ID: t_1, Speed: 14.950490246167659, Position: (-149.28044647837802, -317.52)
+  Vehicle ID: t_10, Speed: 0.0, Position: (45.9433602755553, -327.3510400884746)
+  Vehicle ID: t_11, Speed: 14.846977628671707, Position: (39.92308625065818, -752.5305168012794)
+  Vehicle ID: t_12, Speed: 11.813755012799053, Position: (-63.70467129484471, -317.52)
+  Vehicle ID: t_13, Speed: 11.957506635485053, Position: (142.77267879172214, -320.72)
+  Vehicle ID: t_14, Speed: 0.0, Position: (45.89360854834875, -334.8518744708907)
+  Vehicle ID: t_15, Speed: 0.00042045580596778895, Position: (42.8, -310.9189854004653)
+  Vehicle ID: t_4, Speed: 11.190724459648282, Position: (188.25817959775327, -320.72)
+  Vehicle ID: t_5, Speed: 12.085461885043383, Position: (-108.88562260296624, -317.52)
+  Vehicle ID: t_8, Speed: 12.035854141888457, Position: (167.1816952735461, -320.72)
+  Vehicle ID: t_9, Speed: 11.807117346404105, Position: (-84.4156454569893, -317.52)
+----------------------------------------
+
+Step: 115
+Congestion Level: 12
+Avg Wait Time: 4.166666666666667
+Total Stops: 3
+vehicle Data:
+  Vehicle ID: t_0, Speed: 14.509727927466484, Position: (258.6708142779342, -320.72)
+  Vehicle ID: t_1, Speed: 14.846638843709856, Position: (-164.12708532208788, -317.52)
+  Vehicle ID: t_10, Speed: 0.0, Position: (45.9433602755553, -327.3510400884746)
+  Vehicle ID: t_11, Speed: 15.125177229845107, Position: (39.82276584941344, -767.65535280527)
+  Vehicle ID: t_12, Speed: 11.99445874063111, Position: (-75.6991300354758, -317.52)
+  Vehicle ID: t_13, Speed: 12.603928164837718, Position: (155.37638654651224, -320.72)
+  Vehicle ID: t_14, Speed: 0.0, Position: (45.89360854834875, -334.8518744708907)
+  Vehicle ID: t_15, Speed: 0.0, Position: (42.8, -310.9189854004653)
+  Vehicle ID: t_4, Speed: 11.478104299478382, Position: (199.7360831749265, -320.72)
+  Vehicle ID: t_5, Speed: 12.100128217068464, Position: (-120.9857508200347, -317.52)
+  Vehicle ID: t_8, Speed: 11.717800007947627, Position: (178.89929036753165, -320.72)
+  Vehicle ID: t_9, Speed: 11.699379234304637, Position: (-96.11502469129394, -317.52)
+----------------------------------------
+
+Step: 116
+Congestion Level: 11
+Avg Wait Time: 4.818181818181818
+Total Stops: 3
+vehicle Data:
+  Vehicle ID: t_0, Speed: 14.694840279111268, Position: (273.36539758236233, -320.72)
+  Vehicle ID: t_1, Speed: 14.791932031711816, Position: (-178.9190173537997, -317.52)
+  Vehicle ID: t_10, Speed: 0.0, Position: (45.9433602755553, -327.3510400884746)
+  Vehicle ID: t_12, Speed: 11.756028541154533, Position: (-87.45515857663037, -317.52)
+  Vehicle ID: t_13, Speed: 12.826416681875468, Position: (168.20257892759236, -320.72)
+  Vehicle ID: t_14, Speed: 0.0, Position: (45.89360854834875, -334.8518744708907)
+  Vehicle ID: t_15, Speed: 0.0, Position: (42.8, -310.9189854004653)
+  Vehicle ID: t_4, Speed: 11.523993180863709, Position: (211.25987483100735, -320.72)
+  Vehicle ID: t_5, Speed: 12.009793387287258, Position: (-132.99554420732196, -317.52)
+  Vehicle ID: t_8, Speed: 12.03042123683603, Position: (190.92950122347025, -320.72)
+  Vehicle ID: t_9, Speed: 11.886381337055921, Position: (-108.00140602834986, -317.52)
+----------------------------------------
+
+Step: 117
+Congestion Level: 11
+Avg Wait Time: 5.090909090909091
+Total Stops: 3
+vehicle Data:
+  Vehicle ID: t_0, Speed: 14.361860290711375, Position: (287.7270067213479, -320.72)
+  Vehicle ID: t_1, Speed: 14.935981041951358, Position: (-193.85499839575104, -317.52)
+  Vehicle ID: t_10, Speed: 0.0, Position: (45.9433602755553, -327.3510400884746)
+  Vehicle ID: t_12, Speed: 12.04143942909956, Position: (-99.49659800572991, -317.52)
+  Vehicle ID: t_13, Speed: 12.880962960995156, Position: (181.08331663391903, -320.72)
+  Vehicle ID: t_14, Speed: 0.0, Position: (45.89360854834875, -334.8518744708907)
+  Vehicle ID: t_15, Speed: 0.0, Position: (42.8, -310.9189854004653)
+  Vehicle ID: t_4, Speed: 11.142977251749635, Position: (222.40265722095558, -320.72)
+  Vehicle ID: t_5, Speed: 11.92541243418023, Position: (-144.9209566415022, -317.52)
+  Vehicle ID: t_8, Speed: 11.721349414544015, Position: (202.65064566198225, -320.72)
+  Vehicle ID: t_9, Speed: 11.890915618287384, Position: (-119.89232164663724, -317.52)
+----------------------------------------
+
+Step: 118
+Congestion Level: 11
+Avg Wait Time: 5.363636363636363
+Total Stops: 3
+vehicle Data:
+  Vehicle ID: t_0, Speed: 14.347839761508258, Position: (302.074595576313, -320.72)
+  Vehicle ID: t_1, Speed: 14.837433824794621, Position: (-208.69243222054567, -317.52)
+  Vehicle ID: t_10, Speed: 0.0, Position: (45.9433602755553, -327.3510400884746)
+  Vehicle ID: t_12, Speed: 12.124732832543467, Position: (-111.62133083827337, -317.52)
+  Vehicle ID: t_13, Speed: 12.424398159271396, Position: (193.50749752265742, -320.72)
+  Vehicle ID: t_14, Speed: 0.0, Position: (45.89360854834875, -334.8518744708907)
+  Vehicle ID: t_15, Speed: 0.0, Position: (42.8, -310.9189854004653)
+  Vehicle ID: t_4, Speed: 11.167736356131883, Position: (233.57019828231347, -320.72)
+  Vehicle ID: t_5, Speed: 11.965255247549116, Position: (-156.8862118890513, -317.52)
+  Vehicle ID: t_8, Speed: 11.135331601808408, Position: (213.78578253569188, -320.72)
+  Vehicle ID: t_9, Speed: 11.513257104726494, Position: (-131.40557875136375, -317.52)
+----------------------------------------
+
+Step: 119
+Congestion Level: 11
+Avg Wait Time: 5.636363636363637
+Total Stops: 3
+vehicle Data:
+  Vehicle ID: t_0, Speed: 14.460347916820647, Position: (316.53469061911443, -320.72)
+  Vehicle ID: t_1, Speed: 14.77411371843356, Position: (-223.4665459389792, -317.52)
+  Vehicle ID: t_10, Speed: 0.0, Position: (45.9433602755553, -327.3510400884746)
+  Vehicle ID: t_12, Speed: 11.478902217952482, Position: (-123.10023305622585, -317.52)
+  Vehicle ID: t_13, Speed: 11.402655722033478, Position: (204.9099538417858, -320.72)
+  Vehicle ID: t_14, Speed: 0.0, Position: (45.89360854834875, -334.8518744708907)
+  Vehicle ID: t_15, Speed: 0.0, Position: (42.8, -310.9189854004653)
+  Vehicle ID: t_4, Speed: 11.151074689239413, Position: (244.72107796814828, -320.72)
+  Vehicle ID: t_5, Speed: 12.118301481128633, Position: (-169.00451337017995, -317.52)
+  Vehicle ID: t_8, Speed: 11.161485126312002, Position: (224.9470724765477, -320.72)
+  Vehicle ID: t_9, Speed: 11.760987954596043, Position: (-143.16656670595978, -317.52)
+----------------------------------------
+
+Step: 120
+Congestion Level: 11
+Avg Wait Time: 5.909090909090909
+Total Stops: 3
+vehicle Data:
+  Vehicle ID: t_0, Speed: 14.523123398499193, Position: (331.05756004581383, -320.72)
+  Vehicle ID: t_1, Speed: 14.74211614477846, Position: (-238.20866208375764, -317.52)
+  Vehicle ID: t_10, Speed: 0.0, Position: (45.9433602755553, -327.3510400884746)
+  Vehicle ID: t_12, Speed: 11.880830490543774, Position: (-134.98106354676963, -317.52)
+  Vehicle ID: t_13, Speed: 11.39721708636877, Position: (216.30697162035722, -320.72)
+  Vehicle ID: t_14, Speed: 0.0, Position: (45.89360854834875, -334.8518744708907)
+  Vehicle ID: t_15, Speed: 0.0, Position: (42.8, -310.9189854004653)
+  Vehicle ID: t_4, Speed: 11.497298016850054, Position: (256.21817492704474, -320.72)
+  Vehicle ID: t_5, Speed: 12.005889731300027, Position: (-181.01040310147997, -317.52)
+  Vehicle ID: t_8, Speed: 11.474490249322844, Position: (236.42136206676574, -320.72)
+  Vehicle ID: t_9, Speed: 11.645612312210709, Position: (-154.8121790181705, -317.52)
+----------------------------------------
+
+Step: 121
+Congestion Level: 11
+Avg Wait Time: 6.181818181818182
+Total Stops: 3
+vehicle Data:
+  Vehicle ID: t_0, Speed: 14.333566223533452, Position: (345.3908756124114, -320.72)
+  Vehicle ID: t_1, Speed: 14.757344968909651, Position: (-252.9660070526673, -317.52)
+  Vehicle ID: t_10, Speed: 0.0, Position: (45.9433602755553, -327.3510400884746)
+  Vehicle ID: t_12, Speed: 11.533428229457558, Position: (-146.5144917762272, -317.52)
+  Vehicle ID: t_13, Speed: 11.608251399474614, Position: (227.91502002159106, -320.72)
+  Vehicle ID: t_14, Speed: 0.0, Position: (45.89360854834875, -334.8518744708907)
+  Vehicle ID: t_15, Speed: 0.0, Position: (42.8, -310.9189854004653)
+  Vehicle ID: t_4, Speed: 11.434102094624341, Position: (267.6520770688485, -320.72)
+  Vehicle ID: t_5, Speed: 12.182817037058026, Position: (-193.19322013853798, -317.52)
+  Vehicle ID: t_8, Speed: 11.592475189063826, Position: (248.01363453347386, -320.72)
+  Vehicle ID: t_9, Speed: 11.719975436953813, Position: (-166.5321544551243, -317.52)
+----------------------------------------
+
+Step: 122
+Congestion Level: 11
+Avg Wait Time: 6.454545454545454
+Total Stops: 3
+vehicle Data:
+  Vehicle ID: t_0, Speed: 14.390014766977728, Position: (359.7806387353144, -320.72)
+  Vehicle ID: t_1, Speed: 14.95914186249885, Position: (-267.9251489151661, -317.52)
+  Vehicle ID: t_10, Speed: 0.0, Position: (45.9433602755553, -327.3510400884746)
+  Vehicle ID: t_12, Speed: 11.955130562543765, Position: (-158.46962233877096, -317.52)
+  Vehicle ID: t_13, Speed: 11.793979554228796, Position: (239.7087933296749, -320.72)
+  Vehicle ID: t_14, Speed: 0.0, Position: (45.89360854834875, -334.8518744708907)
+  Vehicle ID: t_15, Speed: 0.0, Position: (42.8, -310.9189854004653)
+  Vehicle ID: t_4, Speed: 11.381330838784725, Position: (279.0332088776451, -320.72)
+  Vehicle ID: t_5, Speed: 12.243281612665355, Position: (-205.4365017512033, -317.52)
+  Vehicle ID: t_8, Speed: 11.272293007046116, Position: (259.2857304173211, -320.72)
+  Vehicle ID: t_9, Speed: 11.735775933889657, Position: (-178.26793038901397, -317.52)
+----------------------------------------
+
+Step: 123
+Congestion Level: 11
+Avg Wait Time: 6.7272727272727275
+Total Stops: 3
+vehicle Data:
+  Vehicle ID: t_0, Speed: 14.536342706700417, Position: (374.31672723904364, -320.72)
+  Vehicle ID: t_1, Speed: 14.67022638322252, Position: (-282.59537529838866, -317.52)
+  Vehicle ID: t_10, Speed: 0.0, Position: (45.9433602755553, -327.3510400884746)
+  Vehicle ID: t_12, Speed: 11.709301449041124, Position: (-170.1789237878121, -317.52)
+  Vehicle ID: t_13, Speed: 11.189167064905416, Position: (250.89776472503874, -320.72)
+  Vehicle ID: t_14, Speed: 0.0, Position: (45.89360854834875, -334.8518744708907)
+  Vehicle ID: t_15, Speed: 0.0, Position: (42.8, -310.9189854004653)
+  Vehicle ID: t_4, Speed: 11.47559990993157, Position: (290.50860810906676, -320.72)
+  Vehicle ID: t_5, Speed: 11.95418475086704, Position: (-217.39068650207034, -317.52)
+  Vehicle ID: t_8, Speed: 11.58864629811311, Position: (270.87417406003584, -320.72)
+  Vehicle ID: t_9, Speed: 11.64851361691019, Position: (-189.91644400592415, -317.52)
+----------------------------------------
+
+Step: 124
+Congestion Level: 11
+Avg Wait Time: 7.0
+Total Stops: 3
+vehicle Data:
+  Vehicle ID: t_0, Speed: 14.611848371179404, Position: (388.9283200868533, -320.72)
+  Vehicle ID: t_1, Speed: 15.03492606637466, Position: (-297.63030136476334, -317.52)
+  Vehicle ID: t_10, Speed: 0.0, Position: (45.9433602755553, -327.3510400884746)
+  Vehicle ID: t_12, Speed: 11.49070021638289, Position: (-181.669624004195, -317.52)
+  Vehicle ID: t_13, Speed: 11.637805508421334, Position: (262.5353667183945, -320.72)
+  Vehicle ID: t_14, Speed: 0.0, Position: (45.89360854834875, -334.8518744708907)
+  Vehicle ID: t_15, Speed: 0.0, Position: (42.8, -310.9189854004653)
+  Vehicle ID: t_4, Speed: 11.47114231044814, Position: (301.97954981895685, -320.72)
+  Vehicle ID: t_5, Speed: 12.156089851473421, Position: (-229.5467763535438, -317.52)
+  Vehicle ID: t_8, Speed: 11.481854830662966, Position: (282.3558281028065, -320.72)
+  Vehicle ID: t_9, Speed: 11.616140873553217, Position: (-201.53258487947733, -317.52)
+----------------------------------------
+
+Step: 125
+Congestion Level: 11
+Avg Wait Time: 7.2727272727272725
+Total Stops: 3
+vehicle Data:
+  Vehicle ID: t_0, Speed: 14.406774610636385, Position: (403.3348427603288, -320.72)
+  Vehicle ID: t_1, Speed: 14.945143629251302, Position: (-312.5754449940146, -317.52)
+  Vehicle ID: t_10, Speed: 0.0, Position: (45.9433602755553, -327.3510400884746)
+  Vehicle ID: t_12, Speed: 11.855853865997958, Position: (-193.52547787019296, -317.52)
+  Vehicle ID: t_13, Speed: 11.564867329790971, Position: (274.1000318086197, -320.72)
+  Vehicle ID: t_14, Speed: 0.0, Position: (45.89360854834875, -334.8518744708907)
+  Vehicle ID: t_15, Speed: 0.0, Position: (42.8, -310.9189854004653)
+  Vehicle ID: t_4, Speed: 11.406568016935289, Position: (313.38591836457124, -320.72)
+  Vehicle ID: t_5, Speed: 11.93568549894631, Position: (-241.48246185249013, -317.52)
+  Vehicle ID: t_8, Speed: 11.427345638952737, Position: (293.7829739070916, -320.72)
+  Vehicle ID: t_9, Speed: 11.51787082777357, Position: (-213.05045570725093, -317.52)
+----------------------------------------
+
+Step: 126
+Congestion Level: 11
+Avg Wait Time: 7.545454545454546
+Total Stops: 3
+vehicle Data:
+  Vehicle ID: t_0, Speed: 14.339084691537174, Position: (417.67367669842633, -320.72)
+  Vehicle ID: t_1, Speed: 14.803223196709782, Position: (-327.3786681907244, -317.52)
+  Vehicle ID: t_10, Speed: 0.0, Position: (45.9433602755553, -327.3510400884746)
+  Vehicle ID: t_12, Speed: 11.378628446850358, Position: (-204.90410631704333, -317.52)
+  Vehicle ID: t_13, Speed: 11.412797407557473, Position: (285.51262963592035, -320.72)
+  Vehicle ID: t_14, Speed: 0.0, Position: (45.89360854834875, -334.8518744708907)
+  Vehicle ID: t_15, Speed: 0.0, Position: (42.8, -310.9189854004653)
+  Vehicle ID: t_4, Speed: 11.41975549606994, Position: (324.80547415870535, -320.72)
+  Vehicle ID: t_5, Speed: 11.97001164735198, Position: (-253.45247349984209, -317.52)
+  Vehicle ID: t_8, Speed: 11.459837741367293, Position: (305.2426112455884, -320.72)
+  Vehicle ID: t_9, Speed: 11.563087190790087, Position: (-224.61354289804103, -317.52)
+----------------------------------------
+
+Step: 127
+Congestion Level: 11
+Avg Wait Time: 7.818181818181818
+Total Stops: 3
+vehicle Data:
+  Vehicle ID: t_0, Speed: 14.523380350304397, Position: (432.19680307243755, -320.72)
+  Vehicle ID: t_1, Speed: 14.952759851435452, Position: (-342.33142804215987, -317.52)
+  Vehicle ID: t_10, Speed: 0.0, Position: (45.9433602755553, -327.3510400884746)
+  Vehicle ID: t_12, Speed: 11.653524917919425, Position: (-216.5576312349627, -317.52)
+  Vehicle ID: t_13, Speed: 11.495511784761721, Position: (297.00794039396504, -320.72)
+  Vehicle ID: t_14, Speed: 0.0, Position: (45.89360854834875, -334.8518744708907)
+  Vehicle ID: t_15, Speed: 0.0, Position: (42.8, -310.9189854004653)
+  Vehicle ID: t_4, Speed: 11.447635669898391, Position: (336.25290963911596, -320.72)
+  Vehicle ID: t_5, Speed: 12.10911253376767, Position: (-265.56158603360973, -317.52)
+  Vehicle ID: t_8, Speed: 11.307482880292971, Position: (316.5498963873028, -320.72)
+  Vehicle ID: t_9, Speed: 11.654674104982972, Position: (-236.268217003024, -317.52)
+----------------------------------------
+
+Step: 128
+Congestion Level: 11
+Avg Wait Time: 8.090909090909092
+Total Stops: 3
+vehicle Data:
+  Vehicle ID: t_0, Speed: 14.552674102672936, Position: (446.74922268654547, -320.72)
+  Vehicle ID: t_1, Speed: 14.874501505786807, Position: (-357.20592954794665, -317.52)
+  Vehicle ID: t_10, Speed: 0.0, Position: (45.9433602755553, -327.3510400884746)
+  Vehicle ID: t_12, Speed: 11.554845936441952, Position: (-228.1124771714047, -317.52)
+  Vehicle ID: t_13, Speed: 11.243811853680517, Position: (308.25155562250825, -320.72)
+  Vehicle ID: t_14, Speed: 0.0, Position: (45.89360854834875, -334.8518744708907)
+  Vehicle ID: t_15, Speed: 0.0, Position: (42.8, -310.9189854004653)
+  Vehicle ID: t_4, Speed: 11.515803262390346, Position: (347.76851151994396, -320.72)
+  Vehicle ID: t_5, Speed: 12.000630307224542, Position: (-277.56221634083425, -317.52)
+  Vehicle ID: t_8, Speed: 11.641300793039683, Position: (328.1909936041535, -320.72)
+  Vehicle ID: t_9, Speed: 11.599463296970338, Position: (-247.86768029999433, -317.52)
+----------------------------------------
+
+Step: 129
+Congestion Level: 11
+Avg Wait Time: 8.363636363636363
+Total Stops: 3
+vehicle Data:
+  Vehicle ID: t_0, Speed: 14.446627441404017, Position: (461.19559749386576, -320.72)
+  Vehicle ID: t_1, Speed: 14.708211014898747, Position: (-371.9141405628454, -317.52)
+  Vehicle ID: t_10, Speed: 0.0, Position: (45.9433602755553, -327.3510400884746)
+  Vehicle ID: t_12, Speed: 11.653153495018158, Position: (-239.76563066642285, -317.52)
+  Vehicle ID: t_13, Speed: 11.618817389555163, Position: (319.87016982905084, -320.72)
+  Vehicle ID: t_14, Speed: 0.0, Position: (45.89360854834875, -334.8518744708907)
+  Vehicle ID: t_15, Speed: 0.0, Position: (42.8, -310.9189854004653)
+  Vehicle ID: t_4, Speed: 11.478631248217226, Position: (359.24694203664103, -320.72)
+  Vehicle ID: t_5, Speed: 11.909423435972036, Position: (-289.4716397768063, -317.52)
+  Vehicle ID: t_8, Speed: 11.438209382657679, Position: (339.62900296216475, -320.72)
+  Vehicle ID: t_9, Speed: 11.783921333970486, Position: (-259.65160163396484, -317.52)
+----------------------------------------
+
+Step: 130
+Congestion Level: 11
+Avg Wait Time: 8.636363636363637
+Total Stops: 3
+vehicle Data:
+  Vehicle ID: t_0, Speed: 14.414727630821616, Position: (475.6100730484487, -320.72)
+  Vehicle ID: t_1, Speed: 14.719844653936356, Position: (-386.63398521678175, -317.52)
+  Vehicle ID: t_10, Speed: 0.0, Position: (45.9433602755553, -327.3510400884746)
+  Vehicle ID: t_12, Speed: 11.852462630717566, Position: (-251.61809329714043, -317.52)
+  Vehicle ID: t_13, Speed: 11.469963474215305, Position: (331.33993272332293, -320.72)
+  Vehicle ID: t_14, Speed: 0.0, Position: (45.89360854834875, -334.8518744708907)
+  Vehicle ID: t_15, Speed: 0.0, Position: (42.8, -310.9189854004653)
+  Vehicle ID: t_4, Speed: 11.47603532540068, Position: (370.72277667591754, -320.72)
+  Vehicle ID: t_5, Speed: 12.196892180134505, Position: (-301.6685319569408, -317.52)
+  Vehicle ID: t_8, Speed: 11.380114937524532, Position: (351.00891889096414, -320.72)
+  Vehicle ID: t_9, Speed: 11.854252712996662, Position: (-271.5058543469615, -317.52)
+----------------------------------------
+
+Step: 131
+Congestion Level: 11
+Avg Wait Time: 8.909090909090908
+Total Stops: 3
+vehicle Data:
+  Vehicle ID: t_0, Speed: 14.654250482266399, Position: (490.2640672658424, -320.72)
+  Vehicle ID: t_1, Speed: 14.647867400212467, Position: (-401.28185261699423, -317.52)
+  Vehicle ID: t_10, Speed: 0.0, Position: (45.9433602755553, -327.3510400884746)
+  Vehicle ID: t_12, Speed: 12.018757713805567, Position: (-263.636851010946, -317.52)
+  Vehicle ID: t_13, Speed: 11.496829132058592, Position: (342.83656080562747, -320.72)
+  Vehicle ID: t_14, Speed: 0.0, Position: (45.89360854834875, -334.8518744708907)
+  Vehicle ID: t_15, Speed: 0.0, Position: (42.8, -310.9189854004653)
+  Vehicle ID: t_4, Speed: 11.235784241821767, Position: (381.95836443298407, -320.72)
+  Vehicle ID: t_5, Speed: 11.91061515130937, Position: (-313.57914710825014, -317.52)
+  Vehicle ID: t_8, Speed: 11.463367151462363, Position: (362.47208557783586, -320.72)
+  Vehicle ID: t_9, Speed: 11.522188344979643, Position: (-283.02804269194115, -317.52)
+----------------------------------------
+
+Step: 132
+Congestion Level: 11
+Avg Wait Time: 9.181818181818182
+Total Stops: 3
+vehicle Data:
+  Vehicle ID: t_0, Speed: 14.622375506052377, Position: (504.88618706443276, -320.72)
+  Vehicle ID: t_1, Speed: 14.88804151128444, Position: (-416.16989412827866, -317.52)
+  Vehicle ID: t_10, Speed: 0.0, Position: (45.9433602755553, -327.3510400884746)
+  Vehicle ID: t_12, Speed: 11.264266814037336, Position: (-274.9011178249833, -317.52)
+  Vehicle ID: t_13, Speed: 11.407369698717588, Position: (354.24373101900477, -320.72)
+  Vehicle ID: t_14, Speed: 0.0, Position: (45.89360854834875, -334.8518744708907)
+  Vehicle ID: t_15, Speed: 0.0, Position: (42.8, -310.9189854004653)
+  Vehicle ID: t_4, Speed: 11.34933252687022, Position: (393.3074984894338, -320.72)
+  Vehicle ID: t_5, Speed: 12.110050169126094, Position: (-325.68919727737625, -317.52)
+  Vehicle ID: t_8, Speed: 11.238394644909203, Position: (373.7102836923406, -320.72)
+  Vehicle ID: t_9, Speed: 11.872661309884846, Position: (-294.900704001826, -317.52)
+----------------------------------------
+
+Step: 133
+Congestion Level: 10
+Avg Wait Time: 10.4
+Total Stops: 3
+vehicle Data:
+  Vehicle ID: t_0, Speed: 14.507522686553749, Position: (519.3934560520028, -320.72)
+  Vehicle ID: t_10, Speed: 0.0, Position: (45.9433602755553, -327.3510400884746)
+  Vehicle ID: t_12, Speed: 11.790024910333678, Position: (-286.691142735317, -317.52)
+  Vehicle ID: t_13, Speed: 11.14377643002535, Position: (365.38731257325315, -320.72)
+  Vehicle ID: t_14, Speed: 0.0, Position: (45.89360854834875, -334.8518744708907)
+  Vehicle ID: t_15, Speed: 0.0, Position: (42.8, -310.9189854004653)
+  Vehicle ID: t_4, Speed: 11.244221398964674, Position: (404.55152325609924, -320.72)
+  Vehicle ID: t_5, Speed: 12.25715870077625, Position: (-337.9463559781525, -317.52)
+  Vehicle ID: t_8, Speed: 11.427132626808389, Position: (385.1372164882063, -320.72)
+  Vehicle ID: t_9, Speed: 11.771657622335464, Position: (-306.67236162416145, -317.52)
+----------------------------------------
+
+Step: 134
+Congestion Level: 10
+Avg Wait Time: 10.7
+Total Stops: 3
+vehicle Data:
+  Vehicle ID: t_0, Speed: 14.333623306808622, Position: (533.7268287008773, -320.72)
+  Vehicle ID: t_10, Speed: 0.0, Position: (45.9433602755553, -327.3510400884746)
+  Vehicle ID: t_12, Speed: 12.000194247143677, Position: (-298.69133698246065, -317.52)
+  Vehicle ID: t_13, Speed: 11.420394345444752, Position: (376.8075072055903, -320.72)
+  Vehicle ID: t_14, Speed: 0.0, Position: (45.89360854834875, -334.8518744708907)
+  Vehicle ID: t_15, Speed: 0.0, Position: (42.8, -310.9189854004653)
+  Vehicle ID: t_4, Speed: 11.256690321475418, Position: (415.80801672722623, -320.72)
+  Vehicle ID: t_5, Speed: 12.247675473083705, Position: (-350.1940314512362, -317.52)
+  Vehicle ID: t_8, Speed: 11.244879783218876, Position: (396.38189962761254, -320.72)
+  Vehicle ID: t_9, Speed: 11.832512259120106, Position: (-318.50487388328156, -317.52)
+----------------------------------------
+
+Step: 135
+Congestion Level: 10
+Avg Wait Time: 3.8
+Total Stops: 1
+vehicle Data:
+  Vehicle ID: t_0, Speed: 14.422572542709858, Position: (548.1491490301613, -320.72)
+  Vehicle ID: t_10, Speed: 0.5128551785834135, Position: (45.9467618778317, -326.8381964799668)
+  Vehicle ID: t_12, Speed: 11.815388533340988, Position: (-310.50672551580163, -317.52)
+  Vehicle ID: t_13, Speed: 11.492895649757994, Position: (388.3002018743807, -320.72)
+  Vehicle ID: t_14, Speed: 0.0, Position: (45.89360854834875, -334.8518744708907)
+  Vehicle ID: t_15, Speed: 0.4737426086328924, Position: (42.8, -311.39271855466757)
+  Vehicle ID: t_4, Speed: 11.338645091731252, Position: (427.1464635354325, -320.72)
+  Vehicle ID: t_5, Speed: 12.051165113531948, Position: (-362.24519656476815, -317.52)
+  Vehicle ID: t_8, Speed: 11.251236650152887, Position: (407.63293952278764, -320.72)
+  Vehicle ID: t_9, Speed: 11.562908205026746, Position: (-330.0677820883083, -317.52)
+----------------------------------------
+
+Step: 136
+Congestion Level: 10
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_0, Speed: 14.435284617060425, Position: (562.5841812114946, -320.72)
+  Vehicle ID: t_10, Speed: 1.0142014333046974, Position: (45.95182257082231, -325.82400606068313)
+  Vehicle ID: t_12, Speed: 11.651231485644505, Position: (-322.15795700144616, -317.52)
+  Vehicle ID: t_13, Speed: 11.1691047047295, Position: (399.4691112604073, -320.72)
+  Vehicle ID: t_14, Speed: 0.48108915173568806, Position: (45.89679945685866, -334.37079617258536)
+  Vehicle ID: t_15, Speed: 1.250927388202399, Position: (42.797489120680915, -312.6436354197605)
+  Vehicle ID: t_4, Speed: 11.170547933209837, Position: (438.3168161247011, -320.72)
+  Vehicle ID: t_5, Speed: 12.196447937403768, Position: (-374.4416445021719, -317.52)
+  Vehicle ID: t_8, Speed: 11.321318781551527, Position: (418.95406032380646, -320.72)
+  Vehicle ID: t_9, Speed: 11.557286579357445, Position: (-341.62506866766574, -317.52)
+----------------------------------------
+
+Step: 137
+Congestion Level: 10
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_0, Speed: 14.42112111400962, Position: (577.0050501374601, -320.72)
+  Vehicle ID: t_10, Speed: 1.657192166429013, Position: (45.95756474742116, -324.1668138942541)
+  Vehicle ID: t_12, Speed: 11.584806380481227, Position: (-333.7427633819274, -317.52)
+  Vehicle ID: t_13, Speed: 11.20439714193055, Position: (410.6733124664617, -320.72)
+  Vehicle ID: t_14, Speed: 0.9099117968214947, Position: (45.90283460706995, -333.4609049034856)
+  Vehicle ID: t_15, Speed: 1.8543493077158926, Position: (42.79105487603235, -314.4979847274764)
+  Vehicle ID: t_4, Speed: 11.218652569674106, Position: (449.5352725092085, -320.72)
+  Vehicle ID: t_5, Speed: 12.007474321340174, Position: (-386.4491188235121, -317.52)
+  Vehicle ID: t_8, Speed: 11.203061342382592, Position: (430.15692575367257, -320.72)
+  Vehicle ID: t_9, Speed: 11.792517818706095, Position: (-353.4175864863718, -317.52)
+----------------------------------------
+
+Step: 138
+Congestion Level: 10
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_0, Speed: 14.578597877157481, Position: (591.5833930727129, -320.72)
+  Vehicle ID: t_10, Speed: 2.1443303913809357, Position: (45.96499485965741, -322.0224835028732)
+  Vehicle ID: t_12, Speed: 11.882038670945752, Position: (-345.6248020528731, -317.52)
+  Vehicle ID: t_13, Speed: 11.123507393920764, Position: (421.79662533905844, -320.72)
+  Vehicle ID: t_14, Speed: 1.4759489756061035, Position: (45.912624098538345, -331.9849892254695)
+  Vehicle ID: t_15, Speed: 2.418367389310151, Position: (42.78266359432065, -316.9163521167866)
+  Vehicle ID: t_4, Speed: 11.47024796976164, Position: (461.00531989405187, -320.72)
+  Vehicle ID: t_5, Speed: 11.933906015315056, Position: (-398.38302483882717, -317.52)
+  Vehicle ID: t_8, Speed: 11.339425488869255, Position: (441.4961529453697, -320.72)
+  Vehicle ID: t_9, Speed: 11.87476854464969, Position: (-365.2923550310215, -317.52)
+----------------------------------------
+
+Step: 139
+Congestion Level: 10
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_0, Speed: 14.601396650896968, Position: (606.1845343830137, -320.72)
+  Vehicle ID: t_10, Speed: 2.6344107438810167, Position: (45.974123102013195, -319.38807275899217)
+  Vehicle ID: t_12, Speed: 11.961699022560573, Position: (-357.5865010754337, -317.52)
+  Vehicle ID: t_13, Speed: 11.38127473205828, Position: (433.1777010421098, -320.72)
+  Vehicle ID: t_14, Speed: 2.149623088443865, Position: (45.92688185218186, -329.8354146327863)
+  Vehicle ID: t_15, Speed: 3.2009226555936037, Position: (42.771556992462244, -320.11727477238014)
+  Vehicle ID: t_4, Speed: 11.361995290763826, Position: (472.36711649295626, -320.72)
+  Vehicle ID: t_5, Speed: 12.302026690662801, Position: (-410.68505152948995, -317.52)
+  Vehicle ID: t_8, Speed: 11.63344604979744, Position: (453.1293955563373, -320.72)
+  Vehicle ID: t_9, Speed: 11.50679550367406, Position: (-376.79915053469557, -317.52)
+----------------------------------------
+
+Step: 140
+Congestion Level: 10
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_0, Speed: 14.674694764783235, Position: (620.8589725254066, -320.72)
+  Vehicle ID: t_10, Speed: 3.276768415607512, Position: (45.98547711592729, -316.11130434338463)
+  Vehicle ID: t_12, Speed: 11.551483268432444, Position: (-369.13798434386615, -317.52)
+  Vehicle ID: t_13, Speed: 11.608629992658555, Position: (444.786128029907, -320.72)
+  Vehicle ID: t_14, Speed: 2.832206254641971, Position: (45.94566695886563, -327.003272273065)
+  Vehicle ID: t_15, Speed: 3.703619703557342, Position: (42.75870612603769, -323.8208944759375)
+  Vehicle ID: t_4, Speed: 11.27668065520391, Position: (483.64359994823263, -320.72)
+  Vehicle ID: t_5, Speed: 12.144117487621456, Position: (-422.8291690171114, -317.52)
+  Vehicle ID: t_8, Speed: 11.366840420171114, Position: (464.4960371999202, -320.72)
+  Vehicle ID: t_9, Speed: 11.74593334618023, Position: (-388.5450838808758, -317.52)
+----------------------------------------
+
+Step: 141
+Congestion Level: 8
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_10, Speed: 3.812338739912957, Position: (45.99868688287086, -312.2989656034717)
+  Vehicle ID: t_12, Speed: 11.47458476437077, Position: (-380.6125691082369, -317.52)
+  Vehicle ID: t_13, Speed: 11.306915795927486, Position: (456.0928460971726, -320.72)
+  Vehicle ID: t_14, Speed: 3.0808372375555457, Position: (45.958411469945446, -323.92244977374463)
+  Vehicle ID: t_15, Speed: 4.404619497898966, Position: (42.7374276698031, -328.22547121080856)
+  Vehicle ID: t_4, Speed: 11.237388699580134, Position: (494.8807921349998, -320.72)
+  Vehicle ID: t_8, Speed: 11.36473378707564, Position: (475.86057224724715, -320.72)
+  Vehicle ID: t_9, Speed: 11.650117691894978, Position: (-400.19520157277077, -317.52)
+----------------------------------------
+
+Step: 142
+Congestion Level: 8
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_10, Speed: 4.454241731297225, Position: (46.0, -307.84480520202453)
+  Vehicle ID: t_12, Speed: 11.564580514681262, Position: (-392.1771496229182, -317.52)
+  Vehicle ID: t_13, Speed: 11.650928034183682, Position: (467.74357038681177, -320.72)
+  Vehicle ID: t_14, Speed: 3.7466301817447065, Position: (45.97139355650728, -320.1758195919999)
+  Vehicle ID: t_15, Speed: 4.929820332024246, Position: (42.70472976839952, -333.1551803254811)
+  Vehicle ID: t_4, Speed: 11.382285281162858, Position: (506.2628783694838, -320.72)
+  Vehicle ID: t_8, Speed: 11.093867959952053, Position: (486.954246204192, -320.72)
+  Vehicle ID: t_9, Speed: 11.77513916046357, Position: (-411.97034073323437, -317.52)
+----------------------------------------
+
+Step: 143
+Congestion Level: 8
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_10, Speed: 4.905106499232352, Position: (46.0, -302.93979659347826)
+  Vehicle ID: t_12, Speed: 11.941165246959601, Position: (-404.1183148698778, -317.52)
+  Vehicle ID: t_13, Speed: 11.256363336623465, Position: (478.999736878805, -320.72)
+  Vehicle ID: t_14, Speed: 4.35192319089548, Position: (45.98647298544316, -315.82389640110443)
+  Vehicle ID: t_15, Speed: 5.469579259678721, Position: (42.668451820866565, -338.62463619078045)
+  Vehicle ID: t_4, Speed: 11.186120785571784, Position: (517.4488035387856, -320.72)
+  Vehicle ID: t_8, Speed: 11.300275930126613, Position: (498.2543245217709, -320.72)
+  Vehicle ID: t_9, Speed: 11.654722962910295, Position: (-423.62506369614465, -317.52)
+----------------------------------------
+
+Step: 144
+Congestion Level: 7
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_10, Speed: 5.323671051301062, Position: (46.0, -297.61623178611137)
+  Vehicle ID: t_12, Speed: 11.492439288062853, Position: (-415.6107541579406, -317.52)
+  Vehicle ID: t_13, Speed: 11.318037083319632, Position: (490.3175760389803, -320.72)
+  Vehicle ID: t_14, Speed: 4.936135251075012, Position: (46.0, -310.88778175030984)
+  Vehicle ID: t_15, Speed: 6.089118344523012, Position: (42.62806467126386, -344.7136171640463)
+  Vehicle ID: t_4, Speed: 11.152271757166982, Position: (528.6008802716143, -320.72)
+  Vehicle ID: t_8, Speed: 11.265896936946579, Position: (509.5200244473693, -320.72)
+----------------------------------------
+
+Step: 145
+Congestion Level: 6
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_10, Speed: 5.8810112939216195, Position: (46.0, -291.7353378589035)
+  Vehicle ID: t_13, Speed: 11.3056161334337, Position: (501.62299446647995, -320.72)
+  Vehicle ID: t_14, Speed: 5.328729263693087, Position: (46.0, -305.5591588314971)
+  Vehicle ID: t_15, Speed: 6.512962386105209, Position: (42.58486630142415, -351.22643261692076)
+  Vehicle ID: t_4, Speed: 11.271504326615633, Position: (539.872187488823, -320.72)
+  Vehicle ID: t_8, Speed: 10.975256544640358, Position: (520.4950890632088, -320.72)
+----------------------------------------
+
+Step: 146
+Congestion Level: 6
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_10, Speed: 6.560897499229759, Position: (46.0, -285.17457129480385)
+  Vehicle ID: t_13, Speed: 10.964194162686036, Position: (512.5869968938175, -320.72)
+  Vehicle ID: t_14, Speed: 6.079774450697001, Position: (46.0, -299.4795057142089)
+  Vehicle ID: t_15, Speed: 6.951931864582002, Position: (42.53875638922392, -358.1782076450667)
+  Vehicle ID: t_4, Speed: 11.38365779722497, Position: (551.2556462153675, -320.72)
+  Vehicle ID: t_8, Speed: 11.189158946277056, Position: (531.6840523400863, -320.72)
+----------------------------------------
+
+Step: 147
+Congestion Level: 6
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_10, Speed: 7.022591586783528, Position: (46.0, -278.15211985713)
+  Vehicle ID: t_13, Speed: 11.023305323207593, Position: (523.6101094479757, -320.72)
+  Vehicle ID: t_14, Speed: 6.403876902023328, Position: (46.0, -293.0757566136724)
+  Vehicle ID: t_15, Speed: 7.735849620588123, Position: (42.487447004473374, -365.913882743938)
+  Vehicle ID: t_4, Speed: 11.528337731570154, Position: (562.7837823461799, -320.72)
+  Vehicle ID: t_8, Speed: 11.214226523813808, Position: (542.8980827561335, -320.72)
+----------------------------------------
+
+Step: 148
+Congestion Level: 6
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_10, Speed: 7.630064428877085, Position: (46.0, -270.52220770063315)
+  Vehicle ID: t_13, Speed: 11.10188498142605, Position: (534.7118002861977, -320.72)
+  Vehicle ID: t_14, Speed: 6.835357001563532, Position: (46.0, -286.24053602459793)
+  Vehicle ID: t_15, Speed: 8.336545484606177, Position: (42.43215339863314, -374.25024015505494)
+  Vehicle ID: t_4, Speed: 11.38679563299209, Position: (574.1703788536188, -320.72)
+  Vehicle ID: t_8, Speed: 11.562786880490124, Position: (554.4606674334395, -320.72)
+----------------------------------------
+
+Step: 149
+Congestion Level: 6
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_10, Speed: 8.265383702982216, Position: (46.0, -262.25698894903)
+  Vehicle ID: t_13, Speed: 11.674287021027693, Position: (546.3858831541927, -320.72)
+  Vehicle ID: t_14, Speed: 7.463485706364733, Position: (46.0, -278.77719926621967)
+  Vehicle ID: t_15, Speed: 8.857971159834415, Position: (42.373401345188405, -383.10801147797287)
+  Vehicle ID: t_4, Speed: 11.26763471866414, Position: (585.4378165305454, -320.72)
+  Vehicle ID: t_8, Speed: 11.406009954414534, Position: (565.8664779262922, -320.72)
+----------------------------------------
+
+Step: 150
+Congestion Level: 6
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_10, Speed: 8.728743569366634, Position: (46.0, -253.52841957826578)
+  Vehicle ID: t_13, Speed: 11.55632778660698, Position: (557.9420088505683, -320.72)
+  Vehicle ID: t_14, Speed: 8.130976814636957, Position: (46.0, -270.6463847206179)
+  Vehicle ID: t_15, Speed: 9.457471308577807, Position: (42.31067300144609, -392.56526942483725)
+  Vehicle ID: t_4, Speed: 11.283312602885218, Position: (596.7209318175275, -320.72)
+  Vehicle ID: t_8, Speed: 11.302082996540573, Position: (577.1683632786841, -320.72)
+----------------------------------------
+
+Step: 151
+Congestion Level: 6
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_10, Speed: 9.225341554358602, Position: (46.0, -244.3032621330625)
+  Vehicle ID: t_13, Speed: 11.346444041794369, Position: (569.2882544724542, -320.72)
+  Vehicle ID: t_14, Speed: 8.795479848934335, Position: (46.0, -261.85108040213476)
+  Vehicle ID: t_15, Speed: 10.155815986916425, Position: (42.243312763658935, -402.72085629529863)
+  Vehicle ID: t_4, Speed: 11.530436505921335, Position: (608.2511666859889, -320.72)
+  Vehicle ID: t_8, Speed: 11.468897490480877, Position: (588.637060207863, -320.72)
+----------------------------------------
+
+Step: 152
+Congestion Level: 6
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_10, Speed: 9.986576460301878, Position: (46.0, -234.31688497379957)
+  Vehicle ID: t_13, Speed: 11.351720484900191, Position: (580.6397764451748, -320.72)
+  Vehicle ID: t_14, Speed: 9.247339682762199, Position: (46.0, -252.60392526754217)
+  Vehicle ID: t_15, Speed: 10.783088040072473, Position: (42.17179203352806, -413.5037010675816)
+  Vehicle ID: t_4, Speed: 11.281990904532522, Position: (619.5329602977315, -320.72)
+  Vehicle ID: t_8, Speed: 11.62983297996845, Position: (600.2666898121848, -320.72)
+----------------------------------------
+
+Step: 153
+Congestion Level: 5
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_10, Speed: 10.445794720109555, Position: (46.0, -223.8712987192987)
+  Vehicle ID: t_13, Speed: 11.62904495189399, Position: (592.2686180352026, -320.72)
+  Vehicle ID: t_14, Speed: 9.7474411708458, Position: (46.0, -242.8566786253379)
+  Vehicle ID: t_15, Speed: 11.52127569820732, Position: (42.09537514377322, -425.02471684439513)
+  Vehicle ID: t_8, Speed: 11.147234282126512, Position: (611.4137291580655, -320.72)
+----------------------------------------
+
+Step: 154
+Congestion Level: 5
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_10, Speed: 10.899780461285268, Position: (46.0, -212.97173578376703)
+  Vehicle ID: t_13, Speed: 10.942764468563563, Position: (603.2111911431676, -320.72)
+  Vehicle ID: t_14, Speed: 10.309619499385978, Position: (46.0, -232.5472648739263)
+  Vehicle ID: t_15, Speed: 11.949062579125169, Position: (42.01612088220523, -436.97350985120204)
+  Vehicle ID: t_8, Speed: 11.66192282796451, Position: (623.075448049215, -320.72)
+----------------------------------------
+
+Step: 155
+Congestion Level: 4
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_10, Speed: 11.548570213001227, Position: (46.0, -201.4233960443471)
+  Vehicle ID: t_13, Speed: 11.70629648005388, Position: (614.9172829104264, -320.72)
+  Vehicle ID: t_14, Speed: 10.913395200126494, Position: (46.0, -221.6340874712613)
+  Vehicle ID: t_15, Speed: 12.375016319472346, Position: (41.934041407451694, -449.34824698878754)
+----------------------------------------
+
+Step: 156
+Congestion Level: 3
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_10, Speed: 12.19323428003118, Position: (46.0, -189.23040510338913)
+  Vehicle ID: t_14, Speed: 11.586378541045512, Position: (46.0, -210.04794015833386)
+  Vehicle ID: t_15, Speed: 12.772290248788567, Position: (41.84932694340929, -462.12024909314056)
+----------------------------------------
+
+Step: 157
+Congestion Level: 3
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_10, Speed: 12.596852325554945, Position: (46.0, -176.6338041718696)
+  Vehicle ID: t_14, Speed: 12.051225522176054, Position: (46.0, -197.9969551411774)
+  Vehicle ID: t_15, Speed: 12.491473579585225, Position: (41.76647504537206, -474.61144086354875)
+----------------------------------------
+
+Step: 158
+Congestion Level: 3
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_10, Speed: 13.051629064138988, Position: (46.0, -163.58243557769677)
+  Vehicle ID: t_14, Speed: 12.620595692020533, Position: (46.0, -185.37661131703607)
+  Vehicle ID: t_15, Speed: 12.790368876039654, Position: (41.681640671651095, -487.4015211872969)
+----------------------------------------
+
+Step: 159
+Congestion Level: 3
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_10, Speed: 13.542864747252326, Position: (46.0, -150.03984110394862)
+  Vehicle ID: t_14, Speed: 13.144377968662111, Position: (46.0, -172.2324956693201)
+  Vehicle ID: t_15, Speed: 12.670819803598942, Position: (41.5975992282035, -500.072055135646)
+----------------------------------------
+
+Step: 160
+Congestion Level: 3
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_10, Speed: 14.090087378080904, Position: (46.0, -135.95003492023542)
+  Vehicle ID: t_14, Speed: 13.76258435012231, Position: (46.0, -158.4701859776226)
+  Vehicle ID: t_15, Speed: 12.653791102107288, Position: (41.513670730616994, -512.7255607666731)
+----------------------------------------
+
+Step: 161
+Congestion Level: 3
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_10, Speed: 13.887596251033218, Position: (46.0, -122.06271582247615)
+  Vehicle ID: t_14, Speed: 14.227319259406627, Position: (46.0, -144.2431506513057)
+  Vehicle ID: t_15, Speed: 12.819028287652554, Position: (41.4286462683021, -525.5442998554742)
+----------------------------------------
+
+Step: 162
+Congestion Level: 3
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_10, Speed: 14.041356692332744, Position: (46.0, -108.02163935199803)
+  Vehicle ID: t_14, Speed: 13.945820562061108, Position: (46.0, -130.2976084044949)
+  Vehicle ID: t_15, Speed: 12.761178106341184, Position: (41.34400550750112, -538.3051900680712)
+----------------------------------------
+
+Step: 163
+Congestion Level: 3
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_10, Speed: 14.066668996270716, Position: (46.0, -93.95525108273691)
+  Vehicle ID: t_14, Speed: 13.865670465401507, Position: (46.0, -116.43221465479678)
+  Vehicle ID: t_15, Speed: 12.585100169192673, Position: (41.26053261462239, -550.8900063158594)
+----------------------------------------
+
+Step: 164
+Congestion Level: 3
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_10, Speed: 14.227973491940618, Position: (46.0, -79.72756153694243)
+  Vehicle ID: t_14, Speed: 14.053071774209243, Position: (46.0, -102.3794233362388)
+  Vehicle ID: t_15, Speed: 12.797394282828689, Position: (41.17565164365384, -563.6871118879026)
+----------------------------------------
+
+Step: 165
+Congestion Level: 3
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_10, Speed: 13.890008101202518, Position: (46.0, -65.83783063714691)
+  Vehicle ID: t_14, Speed: 14.075845727368028, Position: (46.0, -88.3038585190194)
+  Vehicle ID: t_15, Speed: 12.759574276014835, Position: (41.09102152053991, -576.4463983063557)
+----------------------------------------
+
+Step: 166
+Congestion Level: 3
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_10, Speed: 13.88445378240195, Position: (46.0, -51.95365394530495)
+  Vehicle ID: t_14, Speed: 13.921595557779124, Position: (46.0, -74.38254079303476)
+  Vehicle ID: t_15, Speed: 12.868562971699657, Position: (41.00566851071092, -589.3146709616956)
+----------------------------------------
+
+Step: 167
+Congestion Level: 3
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_10, Speed: 13.975957606788695, Position: (46.0, -37.97797525520832)
+  Vehicle ID: t_14, Speed: 14.064664319427724, Position: (46.0, -60.31815716060947)
+  Vehicle ID: t_15, Speed: 12.559445298362196, Position: (40.92236577828033, -601.8738329174305)
+----------------------------------------
+
+Step: 168
+Congestion Level: 3
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_10, Speed: 14.126645937897235, Position: (46.0, -23.8516112412741)
+  Vehicle ID: t_14, Speed: 14.128524513177133, Position: (46.0, -46.189914608885886)
+  Vehicle ID: t_15, Speed: 12.626635862879128, Position: (40.838617392599545, -614.5001839218548)
+----------------------------------------
+
+Step: 169
+Congestion Level: 3
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_10, Speed: 14.103650207780271, Position: (46.0, -9.7482424985335)
+  Vehicle ID: t_14, Speed: 14.197419887334709, Position: (46.0, -31.992778057942303)
+  Vehicle ID: t_15, Speed: 12.687872758127423, Position: (40.754462842428325, -627.1877704400158)
+----------------------------------------
+
+Step: 170
+Congestion Level: 3
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_10, Speed: 13.862863944712997, Position: (46.0, 4.11434478648556)
+  Vehicle ID: t_14, Speed: 14.01337387266613, Position: (46.0, -17.97968384868068)
+  Vehicle ID: t_15, Speed: 12.554442547533334, Position: (40.671193291623496, -639.7419297577844)
+----------------------------------------
+
+Step: 171
+Congestion Level: 3
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_10, Speed: 14.161752777509362, Position: (46.0, 18.27581493940852)
+  Vehicle ID: t_14, Speed: 13.699927237269328, Position: (46.0, -4.2800300193948715)
+  Vehicle ID: t_15, Speed: 12.859943618617624, Position: (40.58589745117153, -652.6015832544957)
+----------------------------------------
+
+Step: 172
+Congestion Level: 3
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_10, Speed: 13.974705204330355, Position: (46.0, 32.25024125204084)
+  Vehicle ID: t_14, Speed: 14.01241681321956, Position: (46.0, 9.732107149520118)
+  Vehicle ID: t_15, Speed: 12.540207853253603, Position: (40.50272231448299, -665.1415081991212)
+----------------------------------------
+
+Step: 173
+Congestion Level: 3
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_10, Speed: 14.16050650017333, Position: (46.0, 46.41046515249957)
+  Vehicle ID: t_14, Speed: 14.097061022227603, Position: (46.0, 23.828886838207723)
+  Vehicle ID: t_15, Speed: 12.733520386732788, Position: (40.41826499837733, -677.8747413160713)
+----------------------------------------
+
+Step: 174
+Congestion Level: 3
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_10, Speed: 14.194471381101728, Position: (46.0, 60.604653256053155)
+  Vehicle ID: t_14, Speed: 14.334859789604756, Position: (46.0, 38.1634605485479)
+  Vehicle ID: t_15, Speed: 12.637661892633558, Position: (40.33444348061272, -690.5121181015015)
+----------------------------------------
+
+Step: 175
+Congestion Level: 3
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_10, Speed: 14.214697312992037, Position: (46.0, 74.81906688785028)
+  Vehicle ID: t_14, Speed: 14.251845213045218, Position: (46.0, 52.41502133904157)
+  Vehicle ID: t_15, Speed: 12.800059726360859, Position: (40.24954483062061, -703.3118890569441)
+----------------------------------------
+
+Step: 176
+Congestion Level: 3
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_10, Speed: 13.993107177931785, Position: (46.0, 88.81189480683787)
+  Vehicle ID: t_14, Speed: 14.106671390478146, Position: (46.0, 66.52141120418662)
+  Vehicle ID: t_15, Speed: 12.77307774908063, Position: (40.16482514334385, -716.084678643823)
+----------------------------------------
+
+Step: 177
+Congestion Level: 3
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_10, Speed: 13.892716514840693, Position: (46.0, 102.70433406622004)
+  Vehicle ID: t_14, Speed: 14.028460614895875, Position: (46.0, 80.54959185459353)
+  Vehicle ID: t_15, Speed: 12.653749127119452, Position: (40.08089692416384, -728.7381423008093)
+----------------------------------------
+
+Step: 178
+Congestion Level: 3
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_10, Speed: 14.223502242621004, Position: (46.0, 116.92755245192711)
+  Vehicle ID: t_14, Speed: 14.043284031076201, Position: (46.0, 94.59259562535141)
+  Vehicle ID: t_15, Speed: 12.525186466697276, Position: (39.99782141946662, -741.2630461977626)
+----------------------------------------
+
+Step: 179
+Congestion Level: 3
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_10, Speed: 13.963428975231915, Position: (46.0, 130.89070276049955)
+  Vehicle ID: t_14, Speed: 14.115225525105709, Position: (46.0, 108.70753945441004)
+  Vehicle ID: t_15, Speed: 12.828956483110458, Position: (39.91273110664718, -754.0917132580405)
+----------------------------------------
+
+Step: 180
+Congestion Level: 3
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_10, Speed: 14.095785462912142, Position: (46.0, 144.9862069153279)
+  Vehicle ID: t_14, Speed: 13.936609006802335, Position: (46.0, 122.64387032979607)
+  Vehicle ID: t_15, Speed: 12.621939481973321, Position: (39.8290138705397, -766.71336798751)
+----------------------------------------
+
+Step: 181
+Congestion Level: 2
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_10, Speed: 14.107114173807174, Position: (46.0, 159.0930395549654)
+  Vehicle ID: t_14, Speed: 13.996930335084045, Position: (46.0, 136.64052132963752)
+----------------------------------------
+
+Step: 182
+Congestion Level: 2
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_10, Speed: 14.197046536263048, Position: (46.0, 173.28980276228822)
+  Vehicle ID: t_14, Speed: 14.013437736323626, Position: (46.0, 150.65367940128215)
+----------------------------------------
+
+Step: 183
+Congestion Level: 2
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_10, Speed: 14.242771230321347, Position: (46.0, 187.53228975114655)
+  Vehicle ID: t_14, Speed: 14.193812489344653, Position: (46.0, 164.84720862622817)
+----------------------------------------
+
+Step: 184
+Congestion Level: 1
+Avg Wait Time: 0.0
+Total Stops: 0
+vehicle Data:
+  Vehicle ID: t_14, Speed: 14.26308293033593, Position: (46.0, 179.1100069097426)
+----------------------------------------
+
+Step: 185
+Congestion Level: 0
+Avg Wait Time: 0
+Total Stops: 0
+vehicle Data:
+----------------------------------------
+
