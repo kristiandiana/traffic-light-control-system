@@ -6,10 +6,19 @@ import subprocess
 
 '''
 Run this file to have the simulation automatically run. 
+
+Notice that I am using sumo instead of sumo-gui in the for sumo binary
+This allows us to perform multiple iterations on the same network which will be essential for training
+It also runs through the program much faster since it doesn't need to handle any rendering
+This will be another benefit for the training time!
+
 '''
 
+
+
+
 # SUMO binary (either sumo-gui or sumo depending on whether you want to see the GUI or not)
-sumo_binary = sumolib.checkBinary('sumo-gui')  # Use 'sumo-gui' if you want to see the GUI
+sumo_binary = sumolib.checkBinary('sumo')  # Use 'sumo-gui' if you want to see the GUI
 
 # Path to your SUMO configuration file (.sumocfg)
 sumo_config = os.path.join(os.path.dirname(__file__), '../Networks/demo_net/demo.sumocfg')
@@ -18,19 +27,20 @@ sumo_config = os.path.join(os.path.dirname(__file__), '../Networks/demo_net/demo
 # Define TraCI setup
 def run_sumo():
     # Start the SUMO simulation using TraCI
-    traci.start([sumo_binary, "--start", "-c", sumo_config])
-
+    traci.start([sumo_binary, "--start", "-c", sumo_config, "--no-step-log"])
     for iteration in range(3):
+      
         print(f"\nStarting simulation iteration {iteration + 1} of 3")
         # Simulation loop
         step = 0
         try:
             while step < 190:  # Running this for 200 steps, but you can make it run indefinitely
+               
                 traci.simulationStep()  # Advance the simulation by one step
                 step += 1
 
                 # You can add your custom logic here
-                time.sleep(0.1)
+                #time.sleep(0.1)
                 
                 # Example: Get the number of vehicles in the network
                 vehicle_ids = traci.vehicle.getIDList()
@@ -79,8 +89,12 @@ def run_sumo():
         finally:
             print(f"Completed simulation iteration {iteration + 1} of 3")
             # reload the TraCI connection
+            #traci.load(["-c", sumo_config])
+            #traci.simulationStep()
             traci.load(["-c", sumo_config])
-            traci.simulationStep()
+            print("Finished reloading")
+            print("finished close")
+
 
     traci.close()
 
