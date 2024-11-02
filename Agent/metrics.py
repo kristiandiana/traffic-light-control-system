@@ -102,7 +102,7 @@ if __name__ == "__main__":
         for data in vehicle_data:
             print(f"Vehicle ID: {data['vehicle_id']}, Speed: {data['speed']}, Position: {data['position']}")
         
-        #time.sleep(0.2)
+        time.sleep(0.2)
         step += 1
 
     traci.close()
