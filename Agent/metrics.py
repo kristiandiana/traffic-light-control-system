@@ -26,7 +26,7 @@ def log_traffic_data(step, congestion_level, avg_wait_time, stops, vehicle_data)
         file.write(f"Total Stops: {stops}\n")
         file.write("vehicle Data:\n")
         for data in vehicle_data:
-            file.write(f"  Vehicle ID: {data['vehicle_id']}, Speed: {data['speed']}, Position: {data['position']}\n")
+            file.write(f"  Vehicle ID: {data['vehicle_id']}, Speed: {data['speed']} \n")
         file.write("-" * 40 + "\n\n")
 
 def calculate_congestion(lane_ids):
@@ -61,7 +61,7 @@ def calculate_total_stops(lane_ids):
 
     return total_stops
 
-def get_vehicle_speed_position():
+def get_vehicle_speed():
     vehicle_data = []
     vehicle_ids = traci.vehicle.getIDList()
 
@@ -70,8 +70,7 @@ def get_vehicle_speed_position():
     
     for vehicle_id in vehicle_ids:
         speed = traci.vehicle.getSpeed(vehicle_id)
-        position = traci.vehicle.getPosition(vehicle_id)
-        vehicle_data.append({"vehicle_id": vehicle_id, "speed": speed, "position": position})
+        vehicle_data.append({"vehicle_id": vehicle_id, "speed": speed})
 
     return vehicle_data
 
@@ -91,7 +90,7 @@ if __name__ == "__main__":
         congestion_level = calculate_congestion(lane_ids)
         avg_wait_time = calculate_avg_wait_time(lane_ids)
         stops = calculate_total_stops(lane_ids)
-        vehicle_data = get_vehicle_speed_position()
+        vehicle_data = get_vehicle_speed()
 
         log_traffic_data(step, congestion_level, avg_wait_time, stops, vehicle_data)
 
@@ -100,9 +99,9 @@ if __name__ == "__main__":
         print("Total stops: ", stops)
 
         for data in vehicle_data:
-            print(f"Vehicle ID: {data['vehicle_id']}, Speed: {data['speed']}, Position: {data['position']}")
+            print(f"Vehicle ID: {data['vehicle_id']}, Speed: {data['speed']}")
         
-        #time.sleep(0.2)
+        time.sleep(0.2)
         step += 1
 
     traci.close()
